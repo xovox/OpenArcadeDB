@@ -1,0 +1,51 @@
+#!/bin/bash
+
+fields="
+game.cloneof
+game.romof
+game.name
+game.year
+game.genre
+game.coinslots
+game.control.buttons
+game.control.count
+game.controller
+game.control.type
+monitor.freq
+monitor.type
+monitor.orientation
+monitor.ratio.horizontal
+monitor.ratio.vertical
+monitor.resolution.horizontal
+monitor.resolution.vertical
+"
+
+echo game.rom $fields | sed 's/ /	/g'
+for game in * ; do
+	echo -n "$game	"
+	for field in $fields ; do
+		echo -n "$(cat "$game/$field" 2> /dev/null)	"
+	done
+	echo
+done
+
+exit
+game.cloneof
+game.coinslots
+game.control.buttons
+game.control.count
+game.controller
+game.control.type
+game.genre
+game.name
+game.players
+game.players.buttons
+game.romof
+game.year
+monitor.freq
+monitor.orientation
+monitor.ratio.horizontal
+monitor.ratio.vertical
+monitor.resolution.horizontal
+monitor.resolution.vertical
+monitor.type
