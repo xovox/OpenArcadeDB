@@ -107,7 +107,7 @@ game.rom	game.cloneof	game.romof	game.name	game.year	game.genre	game.coinslots	g
 7toitsu		mgakuen	Chi-Toitsu	1988	Tabletop / Mahjong	1	9	2		trackball	60	R	H			384	240	
 800fath		mariner	800 Fathoms	1981	Shooter / Misc. Horizontal	2	2	2	2	joy8way	60.606061	R	V			256	224	
 86lions			86 Lions	1985	Slot Machine / Video Slot	4	6	1		joy8way	60	R	H			304	216	
-88games			'88 Games	1988	Sports / Track &amp; Field	2	3	4	3	joy8way	60	R	H			304	224	
+88games			'88 Games	1988	Sports / Track & Field	2	3	4	3	joy8way	60	R	H			304	224	
 8ball			Video Eight Ball	1982	Sports / Pool	2	1	2	1	joy8way	60	R	V			240	248	
 8ball1		8ball	Video Eight Ball (Rev.1)	1982	Sports / Pool	2	1	2	1	joy8way	60	R	V			240	248	
 8ballact			Eight Ball Action (DK conversion)	1984	Sports / Pool	1	1	2	1	joy8way	60.606061	R	V			256	224	
@@ -238,8 +238,8 @@ aladmdb			Aladdin (bootleg of Japanese Megadrive version)	1993		1	3	1		joy8way	6
 alcon		slapfigh	Alcon (US)	1986	Shooter / Flying Vertical	2	2	2	2	joy8way	60	R	V			280	240	
 aleck64			Aleck64 PIF BIOS	1998		2	9	2		stick	60.000000	R	H			640	240	
 alexkida	alexkidd		Alex Kidd: The Lost Stars (set 2, unprotected)	1986	Not Classified						60	R	H	4	3	320	224	
-alexkidd			Alex Kidd: The Lost Stars (set 2, unprotected)	1986	Platform / Run, Jump &amp; Scrolling	2	3	2	3	joy8way	60	R	H			320	224	
-alexkidd1		alexkidd	Alex Kidd: The Lost Stars (set 1, FD1089A 317-0021)	1986	Platform / Run, Jump &amp; Scrolling	2	3	2	3	joy8way	60	R	H			320	224	
+alexkidd			Alex Kidd: The Lost Stars (set 2, unprotected)	1986	Platform / Run, Jump & Scrolling	2	3	2	3	joy8way	60	R	H			320	224	
+alexkidd1		alexkidd	Alex Kidd: The Lost Stars (set 1, FD1089A 317-0021)	1986	Platform / Run, Jump & Scrolling	2	3	2	3	joy8way	60	R	H			320	224	
 alg_bios			American Laser Games BIOS	199?		2	3	1		lightgun	59.997000	R	H			671	216	
 alibaba			Ali Baba and 40 Thieves	1982	Maze / Collect	2	1	2	1	joy4way	60.606061	R	V			288	224	
 alibabab	alibaba		Mustafa and 40 Thieves (bootleg)	1982	Maze / Collect			2				R	V	3	4	288	224	
@@ -436,41 +436,41 @@ argus			Argus	1986	Shooter / Flying Vertical	2	2	2	2	joy8way	54	R	V			256	224
 argusg			Argus (Gottlieb, prototype)	1984	Shooter / Field	2	2	2	2	trackball	61.419025	R	H			256	240	
 arian		aso	Arian Mission	1985	Shooter / Flying Vertical	2	3	2	3	joy8way	60	R	V			288	216	
 aristmk5			MK-V System	1995		1	6	1>		joy8way	60.000000	R	H			1280	1024	
-ark1ball		arkanoid	Arkanoid (bootleg with MCU, harder)	1986	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
+ark1ball		arkanoid	Arkanoid (bootleg with MCU, harder)	1986	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
 ark1balla												R	V	3	4	256	224	
-arkangc		arkanoid	Arkanoid (Game Corporation bootleg, set 1)	1986	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
-arkangc2		arkanoid	Arkanoid (Game Corporation bootleg, set 2)	1986	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
-arkanoid			Arkanoid (World, older)	1986	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
-arkanoidj		arkanoid	Arkanoid (Japan, newer)	1986	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
-arkanoidja	arkanoid		Arkanoid (Japan, newer w/level select)	1986	Ball &amp; Paddle / Breakout			2				R	V	3	4	256	224	
-arkanoidjb	arkanoid		Arkanoid (Japan, older)	1986	Ball &amp; Paddle / Breakout			2				R	V	3	4	256	224	
-arkanoidjbl	arkanoid		Arkanoid (bootleg with MCU, set 1)	1986	Ball &amp; Paddle / Breakout			2				R	V	3	4	256	224	
-arkanoidjbl2	arkanoid		Arkanoid (bootleg with MCU, set 2)	1986	Ball &amp; Paddle / Breakout			2				R	V	3	4	256	224	
+arkangc		arkanoid	Arkanoid (Game Corporation bootleg, set 1)	1986	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
+arkangc2		arkanoid	Arkanoid (Game Corporation bootleg, set 2)	1986	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
+arkanoid			Arkanoid (World, older)	1986	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
+arkanoidj		arkanoid	Arkanoid (Japan, newer)	1986	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
+arkanoidja	arkanoid		Arkanoid (Japan, newer w/level select)	1986	Ball & Paddle / Breakout			2				R	V	3	4	256	224	
+arkanoidjb	arkanoid		Arkanoid (Japan, older)	1986	Ball & Paddle / Breakout			2				R	V	3	4	256	224	
+arkanoidjbl	arkanoid		Arkanoid (bootleg with MCU, set 1)	1986	Ball & Paddle / Breakout			2				R	V	3	4	256	224	
+arkanoidjbl2	arkanoid		Arkanoid (bootleg with MCU, set 2)	1986	Ball & Paddle / Breakout			2				R	V	3	4	256	224	
 arkanoidjbla												R	V	3	4	256	224	
-arkanoidu		arkanoid	Arkanoid (US, newer)	1986	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
-arkanoiduo		arkanoid	Arkanoid (US, older)	1986	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
+arkanoidu		arkanoid	Arkanoid (US, newer)	1986	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
+arkanoiduo		arkanoid	Arkanoid (US, older)	1986	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
 arkarea			Ark Area	1988	Shooter / Field	2	2	2	2	joy8way	59.61	R	H			256	192	
-arkatayt		arkanoid	Arkanoid (Tayto bootleg)	1986	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
-arkatour		arkanoid	Tournament Arkanoid (US)	1987	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
+arkatayt		arkanoid	Arkanoid (Tayto bootleg)	1986	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
+arkatour		arkanoid	Tournament Arkanoid (US)	1987	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
 arkbl2	arkanoid		Arkanoid (Japanese bootleg Set 2)	1986	Breakout			2			60	R	V	3	4	256	224	
 arkbl3	arkanoid		Arkanoid (Japanese bootleg Set 3)	1986	Breakout			2			60	R	V	3	4	256	224	
-arkbloc2		arkanoid	Block (Game Corporation bootleg, set 2)	1986	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
-arkbloc3		arkanoid	Block (Game Corporation bootleg, set 3)	1986	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
-arkblock		arkanoid	Block (Game Corporation bootleg, set 1)	1986	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
-arkgcbl		arkanoid	Arkanoid (bootleg on Block hardware, set 1)	1986	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
-arkgcbla		arkanoid	Arkanoid (bootleg on Block hardware, set 2)	1986	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
+arkbloc2		arkanoid	Block (Game Corporation bootleg, set 2)	1986	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
+arkbloc3		arkanoid	Block (Game Corporation bootleg, set 3)	1986	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
+arkblock		arkanoid	Block (Game Corporation bootleg, set 1)	1986	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
+arkgcbl		arkanoid	Arkanoid (bootleg on Block hardware, set 1)	1986	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
+arkgcbla		arkanoid	Arkanoid (bootleg on Block hardware, set 2)	1986	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
 arkmcubl		arkanoid	Arkanoid (bootleg with MCU)	1986	Not Classified	2	1	2	1	dial	60	R	V			256	224	
 arknid2j	arknoid2		Arkanoid - Revenge of DOH (Japan)	1987	Breakout			2			60	R	V	3	4	256	224	
 arknid2u	arknoid2		Arkanoid - Revenge of DOH (US)	1987	Breakout			2			60	R	V	3	4	256	224	
-arknoid2			Arkanoid - Revenge of DOH (World)	1987	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
-arknoid2b	arknoid2		Arkanoid - Revenge of DOH (Japan bootleg)	1987	Ball &amp; Paddle / Breakout			2				R	V	3	4	256	224	
-arknoid2j		arknoid2	Arkanoid - Revenge of DOH (Japan)	1987	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
-arknoid2u		arknoid2	Arkanoid - Revenge of DOH (US)	1987	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
+arknoid2			Arkanoid - Revenge of DOH (World)	1987	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
+arknoid2b	arknoid2		Arkanoid - Revenge of DOH (Japan bootleg)	1987	Ball & Paddle / Breakout			2				R	V	3	4	256	224	
+arknoid2j		arknoid2	Arkanoid - Revenge of DOH (Japan)	1987	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
+arknoid2u		arknoid2	Arkanoid - Revenge of DOH (US)	1987	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
 arknoidj	arkanoid		Arkanoid (Japan)	1986	Breakout			2			60	R	V	3	4	256	224	
 arknoidu	arkanoid		Arkanoid (US)	1986	Breakout			2			60	R	V	3	4	256	224	
 arknoiuo	arkanoid		Arkanoid (US, older)	1986	Breakout			2			60	R	V	3	4	256	224	
-arkretrn			Arkanoid Returns (Ver 2.02O 1997/02/10)	1997	Ball &amp; Paddle / Breakout	4	4	4	4	dial	58.97	R	H			320	232	
-arktayt2		arkanoid	Arkanoid (Tayto bootleg, harder)	1986	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
+arkretrn			Arkanoid Returns (Ver 2.02O 1997/02/10)	1997	Ball & Paddle / Breakout	4	4	4	4	dial	58.97	R	H			320	232	
+arktayt2		arkanoid	Arkanoid (Tayto bootleg, harder)	1986	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
 ar_ldrb		ar_bios	Leader Board (Arcadia, set 1, V 2.5)	1988	Sports / Golf	2	2	2	2	joy8way	59.997	R	H			671	216	
 ar_ldrba		ar_ldrb	Leader Board (Arcadia, set 2, V 2.4)	1988	Sports / Golf	2	2	2	2	joy8way	59.997	R	H			671	216	
 arlingtn			Arlington Horse Racing (v1.21-D)	1991	Sports / Horse Racing	4	4	1	4	vjoy2way	60	R	H			400	240	
@@ -585,11 +585,11 @@ athena			Athena	1986	Platform / Fighter Scrolling	2	2	2	2	joy8way	60	R	H			288	2
 atlantis			Battle of Atlantis (set 1)	1981	Shooter / Misc. Horizontal	2	2	2	2	joy8way	60.606061	R	V			768	224	
 atlantis2		atlantis	Battle of Atlantis (set 2)	1981	Shooter / Misc. Horizontal	2	2	2	2	joy8way	60.606061	R	V			768	224	
 atlantisb		atlantis	Battle of Atlantis (bootleg)	1981	Shooter / Misc. Horizontal	2	1	2	1	joy8way	60.606061	R	V			768	224	
-atlantol		trackfld	Atlant Olimpic	1996	Sports / Track &amp; Field	2	1	4	1	joy2way	60	R	H			256	224	
+atlantol		trackfld	Atlant Olimpic	1996	Sports / Track & Field	2	1	4	1	joy2way	60	R	H			256	224	
 atlants2	atlantis		Battle of Atlantis (set 2)	1981	Shooter / Misc. Horizontal			2			60.60606	R	V	3	4	768	224	
 atluspsx			Atlus PSX	1996		4	3	4		joy8way	60.000000	R	H			640	480	
-atomboy		wilytowr	Atomic Boy (revision B)	1985	Platform / Run, Jump &amp; Scrolling	2	1	2	1	joy8way	60	R	H			256	224	
-atomboya		wilytowr	Atomic Boy (revision A)	1985	Platform / Run, Jump &amp; Scrolling	2	1	2	1	joy8way	60	R	H			256	224	
+atomboy		wilytowr	Atomic Boy (revision B)	1985	Platform / Run, Jump & Scrolling	2	1	2	1	joy8way	60	R	H			256	224	
+atomboya		wilytowr	Atomic Boy (revision A)	1985	Platform / Run, Jump & Scrolling	2	1	2	1	joy8way	60	R	H			256	224	
 atomicp			Atomic Point (Korea)	1990	Puzzle / Drop	2	2	2	2	joy8way	60.054389	R	H			320	224	
 atompunk		dynablst	Atomic Punk (US)	1991	Maze / Collect	4	2	4	2	joy8way	60	R	H			320	240	
 atpsx			Atari PSX	1996		4	3	4		joy8way	60.000000	R	H			640	480	
@@ -606,7 +606,7 @@ autmoon			Autumn Moon (1VXFC5488, New Zealand)	1999	Slot Machine / Video Slot	1	
 automat		robocop	Automat (bootleg of Robocop)	1988	Platform / Shooter Scrolling	2	5	2	5	joy8way	57.41	R	H			256	240	
 av2mj1bb			AV2Mahjong No.1 Bay Bridge no Seijo (Japan)	1991	Tabletop / Mahjong	2	2	2		joy4way	60	R	H			640	240	
 av2mj2rg			AV2Mahjong No.2 Rouge no Kaori (Japan)	1991	Tabletop / Mahjong	2	2	2		joy4way	60	R	H			640	240	
-avalnche			Avalanche	1978	Ball &amp; Paddle / Breakout	2	1	1	1	paddle	60	R	H			256	240	
+avalnche			Avalanche	1978	Ball & Paddle / Breakout	2	1	1	1	paddle	60	R	H			256	240	
 avalon13		triforce	The Key Of Avalon 1.3 - Chaotic Sabbat (client) (Rev C) (GDT-0010C)	2004	Misc.	4	6	0		joy8way	60	R	H			640	480	
 avalon20		triforce	The Key Of Avalon 2.0 - Eutaxy and Commandment (client, Rev B) (GDT-0017B)	2004	Fighter / Versus	4	6	0		joy8way	60	R	H			640	480	
 avalons		triforce	The Key Of Avalon - The Wizard Master (server, Rev G) (GDT-0005G)	2003	Fighter / Versus	4	6	0		joy8way	60	R	H			640	480	
@@ -656,7 +656,7 @@ bakubaku		stvbios	Baku Baku Animal (J 950407 V1.000)	1995	Puzzle / Drop	2	6	4	6	
 bakubrkr		explbrkr	Bakuretsu Breaker (Japan)	1992	Shooter / Flying Vertical	2	2	2	2	joy8way	59	R	V			256	224	
 bakuhatu		mjgottsu	Mahjong Bakuhatsu Junjouden (Japan)	1991	Tabletop / Mahjong	2	2	2		joy4way	60	R	H			640	240	
 bakutotu			Bakutotsu Kijuutei	1988	Shooter / Flying Horizontal	2	3	2	3	joy8way	60.60606	R	H			288	224	
-balcube			Bal Cube	1996	Ball &amp; Paddle / Breakout	2	1	2	1	joy8way	60	R	H			320	224	
+balcube			Bal Cube	1996	Ball & Paddle / Breakout	2	1	2	1	joy8way	60	R	H			320	224	
 ballbomb			Balloon Bomber	1980	Shooter / Gallery	1	1	2	1	joy2way	59.541985	R	V			260	224	
 ballboy	snowbro3		Ball Boy	2003	Platform / Run Jump			2				R	H	4	3	256	224	
 ballbros			Balloon Brothers	1992	Puzzle / Drop	2	1	2	1	joy8way	60	R	H			384	240	
@@ -928,23 +928,23 @@ blktouch			Black Touch (Korea)	199?	Puzzle / Match	2	3	2	3	joy8way	60	R	H			512	
 blmbycar			Blomby Car (Version 1P0)	1994	Driving / Race	2	2	2	2	stick	60	R	H			384	256	
 blmbycaru		blmbycar	Blomby Car (Version 1P0, not encrypted)	1994	Driving / Race	2	2	2	2	stick	60	R	H			384	256	
 blmbycau	blmbycar		Blomby Car (not encrypted)	1994	Driving / Race			2			60	R	H	4	3	384	256	
-block			Block Block (World 911219 Joystick)	1991	Ball &amp; Paddle / Breakout	1	1	2	1	dial	57.42	R	V			384	240	
-block2		arkanoid	Block 2 (S.P.A. Co. bootleg)	1986	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
+block			Block Block (World 911219 Joystick)	1991	Ball & Paddle / Breakout	1	1	2	1	dial	57.42	R	V			384	240	
+block2		arkanoid	Block 2 (S.P.A. Co. bootleg)	1986	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
 blocka	block		Block Block (World 910910)	1991	Breakout			2			60	R	V	3	4	384	240	
 blockade			Blockade	1976	Maze / Surround	1	2	2		joy4way	60	R	H			256	224	
-blockbl		block	Block Block (bootleg)	1991	Ball &amp; Paddle / Breakout	1	1	2	1	dial	57.42	R	V			384	240	
-blockcar			Block Carnival / Thunder & Lightning 2	1992	Ball &amp; Paddle / Breakout	2	2	2	2	joy8way	60	R	V			384	240	
-blocken			Blocken (Japan)	1994	Ball &amp; Paddle / Breakout	2	3	2	3	joy8way	60	R	H			384	224	
-blockgal			Block Gal (MC-8123B, 317-0029)	1987	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60.096154	R	V			256	224	
-blockgalb		blockgal	Block Gal (bootleg)	1987	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60.096154	R	V			256	224	
+blockbl		block	Block Block (bootleg)	1991	Ball & Paddle / Breakout	1	1	2	1	dial	57.42	R	V			384	240	
+blockcar			Block Carnival / Thunder & Lightning 2	1992	Ball & Paddle / Breakout	2	2	2	2	joy8way	60	R	V			384	240	
+blocken			Blocken (Japan)	1994	Ball & Paddle / Breakout	2	3	2	3	joy8way	60	R	H			384	224	
+blockgal			Block Gal (MC-8123B, 317-0029)	1987	Ball & Paddle / Breakout	2	1	2	1	dial	60.096154	R	V			256	224	
+blockgalb		blockgal	Block Gal (bootleg)	1987	Ball & Paddle / Breakout	2	1	2	1	dial	60.096154	R	V			256	224	
 blockhl			Block Hole	1989	Puzzle / Misc.	3	3	2	3	joy8way	60	R	H			288	224	
-blockj		block	Block Block (Japan 910910)	1991	Ball &amp; Paddle / Breakout	1	1	2	1	dial	57.42	R	V			384	240	
-blockjoy		block	Block Block (World 911106 Joystick)	1991	Ball &amp; Paddle / Breakout	2	1	2	1	joy2way	57.42	R	V			384	240	
+blockj		block	Block Block (Japan 910910)	1991	Ball & Paddle / Breakout	1	1	2	1	dial	57.42	R	V			384	240	
+blockjoy		block	Block Block (World 911106 Joystick)	1991	Ball & Paddle / Breakout	2	1	2	1	joy2way	57.42	R	V			384	240	
 blockout			Block Out (set 1)	1989	Puzzle / Drop	3	4	2	4	joy8way	58	R	H			320	240	
 blockout2		blockout	Block Out (set 2)	1989	Puzzle / Drop	3	4	2	4	joy8way	58	R	H			320	240	
 blockoutj		blockout	Block Out (Japan)	1989	Puzzle / Drop	3	4	2	4	joy8way	58	R	H			320	240	
-blockr1	block		Block Block (World 911106 Joystick)	1991	Ball &amp; Paddle / Breakout			2				R	V	3	4	384	240	
-blockr2	block		Block Block (World 910910)	1991	Ball &amp; Paddle / Breakout			2				R	V	3	4	384	240	
+blockr1	block		Block Block (World 911106 Joystick)	1991	Ball & Paddle / Breakout			2				R	V	3	4	384	240	
+blockr2	block		Block Block (World 910910)	1991	Ball & Paddle / Breakout			2				R	V	3	4	384	240	
 bloodbro			Blood Bros. (World?)	1990	Shooter / 3rd Person	2	3	2	3	joy8way	59.39	R	H			256	224	
 bloodbroa		bloodbro	Blood Bros. (set 2)	1990	Shooter / 3rd Person	2	3	2	3	joy8way	59.39	R	H			256	224	
 bloodbrob		bloodbro	Blood Bros. (set 3)	1990	Shooter / 3rd Person	2	3	2	3	joy8way	59.39	R	H			256	224	
@@ -977,8 +977,8 @@ bluehawk			Blue Hawk	1993	Shooter / Flying Vertical	2	2	2	2	joy8way	60	R	V			384
 bluehawkn		bluehawk	Blue Hawk (NTC)	1993	Shooter / Flying Vertical	2	2	2	2	joy8way	60	R	V			384	240	
 bluehawn	bluehawk		Blue Hawk (NTC)	1993	Shooter / Flying Vertical			2			60	R	V	3	4	384	240	
 blueprnj	blueprnt		Blue Print (Jaleco)	1982	Maze			2			60	R	V	3	4	256	224	
-blueprnt			Blue Print (Midway)	1982	Maze / Collect &amp; Put	2	1	2	1	joy8way	60	R	V			256	224	
-blueprntj		blueprnt	Blue Print (Jaleco)	1982	Maze / Collect &amp; Put	2	1	2	1	joy8way	60	R	V			256	224	
+blueprnt			Blue Print (Midway)	1982	Maze / Collect & Put	2	1	2	1	joy8way	60	R	V			256	224	
+blueprntj		blueprnt	Blue Print (Jaleco)	1982	Maze / Collect & Put	2	1	2	1	joy8way	60	R	V			256	224	
 blueshrk			Blue Shark	1978	Shooter / Gallery	1	1	1	1	paddle	59.541985	R	H			260	224	
 blzntrnd			Blazing Tornado	1994	Sports / Wrestling	2	4	4	4	joy8way	58	R	H			304	224	
 bm1stmix			beatmania (ver JA-B)	1997	Rhythm / Instruments	1	5	2	5	dial	58	R	H			488	384	
@@ -1018,7 +1018,7 @@ bodyslam			Body Slam (8751 317-0015)	1986	Sports / Wrestling	2	3	2	3	joy8way	60	
 bogeyman			Bogey Manor	1985	Platform / Fighter	2	2	2	2	joy8way	60	R	H			256	240	
 boggy84			Boggy '84	1983	Platform / Run Jump	2	2	1	2	joy8way	60	R	V			256	224	
 boggy84b	boggy84		Boggy '84 (bootleg, set 1)	1983	Platform / Run Jump	2	2	1		joy8way	60.000000	R	V	3	4	256	224	
-bombbee			Bomb Bee	1979	Ball &amp; Paddle / Breakout	2	1	2	1	paddle	60.606061	R	V			272	224	
+bombbee			Bomb Bee	1979	Ball & Paddle / Breakout	2	1	2	1	paddle	60.606061	R	V			272	224	
 bomber	scramble		Bomber (bootleg of Scramble)	198?	Shooter / Flying Horizontal			2				R	V	3	4	768	224	
 bombjac2	bombjack		Bomb Jack (set 2)	1984	Platform / Run Jump			2			60	R	V	3	4	256	224	
 bombjack			Bomb Jack (set 1)	1984	Platform / Run Jump	2	1	2	1	joy8way	60	R	V			256	224	
@@ -1031,8 +1031,8 @@ bombrman		dynablst	Bomber Man (Japan)	1991	Maze / Collect	2	2	2	2	joy8way	60	R	H
 bombsa			Bombs Away (prototype)	1988	Shooter / Flying Vertical	2	2	2	2	joy8way	54	R	V			256	224	
 bonanza			Touchstar Bonanza (Revision 3)	1994	MultiGame / Compilation	3	1	2		lightgun	60	R	H			512	256	
 bonanzar2		bonanza	Touchstar Bonanza (Revision 2)	1994	MultiGame / Compilation	3	1	2		lightgun	60	R	H			512	256	
-bongo			Bongo	1983	Platform / Run, Jump &amp; Scrolling	1	2	2		joy8way	60.606061	R	V			256	224	
-bonkadv			B.C. Kid / Bonk's Adventure / Kyukyoku!! PC Genjin	1994	Platform / Run, Jump &amp; Scrolling	2	4	2	4	joy8way	60	R	H			320	240	
+bongo			Bongo	1983	Platform / Run, Jump & Scrolling	1	2	2		joy8way	60.606061	R	V			256	224	
+bonkadv			B.C. Kid / Bonk's Adventure / Kyukyoku!! PC Genjin	1994	Platform / Run, Jump & Scrolling	2	4	2	4	joy8way	60	R	H			320	240	
 bonzeadu	bonzeadv		Bonze Adventure (US)	1988	Platform / Shooter Scrolling			2			60	R	H	4	3	320	224	
 bonzeadv			Bonze Adventure (World, Newer)	1988	Platform / Shooter Scrolling	2	2	2	2	joy8way	60	R	H			320	224	
 bonzeadvo		bonzeadv	Bonze Adventure (World, Older)	1988	Platform / Shooter Scrolling	2	2	2	2	joy8way	60	R	H			320	224	
@@ -1045,7 +1045,7 @@ boogwingu	boogwing		Boogie Wings (USA v1.7, 92.12.14)	1992	Shooter / Misc. Horiz
 bookthr			Book Theatre (Ver 1.2)	200?	Casino / Misc.	1	8	1		joy8way	60.000000	R	H			512	256	
 boomrang			Boomer Rang'r / Genesis (set 1)	1983	Shooter / Walking	2	2	2	2	joy8way	60	R	V			256	240	
 boomranga		boomrang	Boomer Rang'r / Genesis (set 2)	1983	Shooter / Walking	2	2	2	2	joy8way	60	R	V			256	240	
-bootcamp		combatsc	Boot Camp (set 1)	1987	Sports / Track &amp; Field	3	2	2	2	trackball	60	R	H			256	224	
+bootcamp		combatsc	Boot Camp (set 1)	1987	Sports / Track & Field	3	2	2	2	trackball	60	R	H			256	224	
 boothill			Boot Hill	1977	Shooter / Versus	1	1	2	1	joy8way	59.541985	R	H			260	224	
 borench			Borench (set 1)	1990	Maze / Collect	2	2	2	2	joy8way	60	R	H			256	224	
 borntofi			Born To Fight	19??	Shooter / Gun	2	2	2	2	lightgun	54	R	H			352	256	
@@ -1086,14 +1086,14 @@ breakers		neogeo	Breakers	1996	Fighter / Versus	2	4	2	4	joy8way	59.185606	R	H			
 breakrev		neogeo	Breakers Revenge	1998	Fighter / Versus	2	4	2	4	joy8way	59.185606	R	H			320	224	
 breywood		shackled	Breywood (Japan revision 2)	1986	Maze / Shooter Large	2	2	2	2	joy8way	58	R	H			256	240	
 brickyrd		barricad	Brickyard	1976	Maze / Surround	1	3	4		joy8way	60	R	H			256	192	
-brickzn			Brick Zone (v6.0, Joystick)	1992	Ball &amp; Paddle / Breakout	2	2	2	2	trackball	60	R	V			256	224	
+brickzn			Brick Zone (v6.0, Joystick)	1992	Ball & Paddle / Breakout	2	2	2	2	trackball	60	R	V			256	224	
 brickzn3		brickzn	Brick Zone (v4.0)	1992	Breakout	2	2	2	2	trackball	60	R	V			256	224	
 brival			Burning Rival (World)	1992	Fighter / Versus	2	6	2	6	joy8way	60	R	H			416	224	
 brivalj		brival	Burning Rival (Japan)	1992	Fighter / Versus	2	6	2	6	joy8way	60	R	H			416	224	
 brix		zzyzzyxx	Brix	1982	Maze / Cross	1	1	2	1	vjoy2way	60	R	V			256	224	
 brkthru			Break Thru (US)	1986	Shooter / Driving Horizontal	2	2	2	2	joy8way	57.444853	R	H			240	240	
 brkthruj		brkthru	Kyohkoh-Toppa (Japan)	1986	Shooter / Driving Horizontal	2	2	2	2	joy8way	57.444853	R	H			240	240	
-brod			Brodjaga (Arcade bootleg of ZX Spectrum 'Inspector Gadget and the Circus of Fear')	19??	Platform / Run, Jump &amp; Scrolling	1	1	1	1	joy8way	50.08	R	H			352	296	
+brod			Brodjaga (Arcade bootleg of ZX Spectrum 'Inspector Gadget and the Circus of Fear')	19??	Platform / Run, Jump & Scrolling	1	1	1	1	joy8way	50.08	R	H			352	296	
 bronx		cyclshtg	Bronx	1986	Shooter / Gun	2	1	1	1	lightgun	60	R	V			256	224	
 brubber			Burnin' Rubber	1982	Driving / Race	2	1	2	1	joy8way	57.444853	R	V			256	240	
 brutforc			Brute Force	1991	Fighter / Field	3	2	3	2	joy8way	60	R	H			320	240	
@@ -1266,10 +1266,10 @@ candance		osman	Cannon Dancer (Japan)	1996	Platform / Fighter Scrolling	2	3	2	3	
 candory	ponpoko		Candory (Ponpoko bootleg with Mario)	1982	Platform / Run Jump			2				R	H	4	3	288	224	
 cannball			Cannon Ball (Yun Sung, horizontal)	1995	Puzzle / Toss	1	3	2	3	joy8way	60	R	H			384	240	
 cannballv		cannball	Cannon Ball (Yun Sung, vertical)	1995	Puzzle / Toss	1	3	2	3	joy8way	60	R	V			384	240	
-cannonb		cannonbp	Cannon Ball (bootleg on Crazy Kong hardware) (set 1, buggy)	1985	Ball &amp; Paddle / Breakout	2	1	2	1	joy4way	60	R	V			256	224	
-cannonb2		cannonbp	Cannon Ball (bootleg on Crazy Kong hardware) (set 2, buggy)	1985	Ball &amp; Paddle / Breakout	2	1	2	1	joy4way	60	R	V			256	224	
-cannonb3		cannonbp	Cannon Ball (bootleg on Crazy Kong hardware) (set 3, no bonus game)	1985	Ball &amp; Paddle / Breakout	2	1	2	1	joy4way	60	R	V			256	224	
-cannonbp			Cannon Ball (Pac-Man Hardware)	1985	Ball &amp; Paddle / Breakout	2	1	2	1	joy4way	60.606061	R	V			288	224	
+cannonb		cannonbp	Cannon Ball (bootleg on Crazy Kong hardware) (set 1, buggy)	1985	Ball & Paddle / Breakout	2	1	2	1	joy4way	60	R	V			256	224	
+cannonb2		cannonbp	Cannon Ball (bootleg on Crazy Kong hardware) (set 2, buggy)	1985	Ball & Paddle / Breakout	2	1	2	1	joy4way	60	R	V			256	224	
+cannonb3		cannonbp	Cannon Ball (bootleg on Crazy Kong hardware) (set 3, no bonus game)	1985	Ball & Paddle / Breakout	2	1	2	1	joy4way	60	R	V			256	224	
+cannonbp			Cannon Ball (Pac-Man Hardware)	1985	Ball & Paddle / Breakout	2	1	2	1	joy4way	60.606061	R	V			288	224	
 canvas			Canvas Croquis	1985	Puzzle / Reconstruction	2	1	2	1	joy8way	60	R	H			288	216	
 canyon			Canyon Bomber	1977	Shooter / Gallery	2	7	2	7	dial	60	R	H			256	240	
 canyonp		canyon	Canyon Bomber (prototype)	1977	Shooter / Gallery	2	7	2	7	dial	60	R	H			256	240	
@@ -1319,7 +1319,7 @@ carnvckt	carnival		Carnival (cocktail)	1980	Shooter / Gallery			2			60	R	V	3	4	2
 carpolo			Car Polo	1977	Sports / Misc.	4	3	4	3	dial	60	R	H			240	256	
 carrera			Carrera (Version 6.7)	19??	Puzzle / Match	2	1	1	1	joy8way	60	R	H			512	256	
 cartfury			Cart Fury	2000	Driving / Race (chase view)	4	3	4	3	pedal	57	R	H			640	480	
-cascade		avalnche	Cascade	1978	Ball &amp; Paddle / Breakout	2	1	1	1	paddle	60	R	H			256	240	
+cascade		avalnche	Cascade	1978	Ball & Paddle / Breakout	2	1	1	1	paddle	60	R	H			256	240	
 cashquiz			Cash Quiz (Type B, Version 5)	1986	Quiz / Questions in English	4	5	2	5	joy4way	60	R	H			256	224	
 casino5			Casino Five (3315-02, U5-2B)	1989	Casino / Cards	2	6	1	6	joy8way	76.293945	R	H			512	256	
 castfant		decocass	Astro Fantasia (DECO Cassette) (US)	1981	Shooter / Gallery	2	2	2	2	stick	57.444853	R	V			240	240	
@@ -1345,7 +1345,7 @@ cb3a		ncb3	Cherry Bonus III (ver.1.40, set 2)	199?	Slot Machine / Video Slot	4	1
 cb3b		ncb3	Cherry Bonus III (alt)	199?	Slot Machine / Video Slot	4	12	1	12	joy8way	60	R	H			512	224	
 cb3c	ncb3		Cherry Bonus III (alt, set 2)	199?	Slot Machine / Video Slot	4	6	1		joy8way	60.000000	R	H			512	224	
 cbaj		tps	Cool Boarders Arcade Jam	1998	Sports / Skiing	4	3	4	3	joy8way	60	R	H			640	480	
-cball			Cannonball (Atari, prototype)	1976	Ball &amp; Paddle / Jump and Touch	2	2	1	2	vdoublejoy2way	60	R	H			256	224	
+cball			Cannonball (Atari, prototype)	1976	Ball & Paddle / Jump and Touch	2	2	1	2	vdoublejoy2way	60	R	H			256	224	
 cbasebal			Capcom Baseball (Japan)	1989	Sports / Baseball	3	3	2	3	joy8way	60	R	H			384	224	
 cbdash		decocass	Boulder Dash (DECO Cassette) (US)	1985	Maze / Digging	2	2	2	2	stick	57.444853	R	V			240	240	
 cbnj		cburnrub	Bump 'n' Jump (DECO Cassette) (US)	1982	Driving / Race	2	2	2	2	stick	57.444853	R	V			240	240	
@@ -1378,7 +1378,7 @@ cclimberj		cclimber	Crazy Climber (Japan)	1980	Climbing / Building	2	1	2		double
 cclimbr2			Crazy Climber 2 (Japan)	1988	Climbing / Building	2	3	2		doublejoy8way	60	R	H			288	224	
 cclimbr2a		cclimbr2	Crazy Climber 2 (Japan, Harder)	1988	Climbing / Building	2	3	2		doublejoy8way	60	R	H			288	224	
 cclimbrj	cclimber		Crazy Climber (Japan)	1980	Climbing			2			60	R	H	4	3	256	224	
-cclownz			Crazzy Clownz (Version 1.0)	1999	Ball &amp; Paddle / Jump and Touch	1	3	1		paddle	61.23246	R	H			512	236	
+cclownz			Crazzy Clownz (Version 1.0)	1999	Ball & Paddle / Jump and Touch	1	3	1		paddle	61.23246	R	H			512	236	
 cd32			Amiga CD32 Bios	1993		2	8>	2		joy8way	50.000000	R	H			703	272	
 cdi			CD-i (Mono-I) BIOS	1991		1	8	1		lightgun	60.000000	R	H			192	22	
 cdiscon1		decocass	Disco No.1 (DECO Cassette) (US)	1982	Puzzle / Outline	2	2	2	2	stick	57.444853	R	V			240	240	
@@ -1402,13 +1402,13 @@ cfever51			Casino Fever 5.1	2000	Casino / Cards	4	5	1		joy8way	60	R	H			320	200
 cfever61			Casino Fever 6.1	2000	Casino / Cards	4	5	1		joy8way	60	R	H			320	200	
 cfghtice		decocass	Fighting Ice Hockey (DECO Cassette) (US)	1984	Sports / Hockey	2	2	2	2	stick	57.444853	R	V			240	240	
 cfield		naomigd	Chaos Field (Japan) (GDL-0025)	2004	Shooter / Flying Vertical	2	6	2	6	joy8way	60	R	H			640	480	
-cflyball		decocass	Flying Ball (DECO Cassette) (US)	1985	Ball &amp; Paddle / Breakout	2	2	2	2	stick	57.444853	R	V			240	240	
+cflyball		decocass	Flying Ball (DECO Cassette) (US)	1985	Ball & Paddle / Breakout	2	2	2	2	stick	57.444853	R	V			240	240	
 cgangpzj	cgangpzl		Cosmo Gang the Puzzle (Japan)	1992	Puzzle / Drop						60	R	H	4	3	304	224	
 cgangpzl			Cosmo Gang the Puzzle (US)	1992	Puzzle / Drop	4	3	4	3	joy8way	60	R	H			304	224	
 cgangpzlj		cgangpzl	Cosmo Gang the Puzzle (Japan)	1992	Puzzle / Drop	4	3	4	3	joy8way	60	R	H			304	224	
 cgip30cs			Credit Poker (ver.30c, standard)	1999	Casino / Cards	2	1	1		joy8way	60	R	H			464	248	
-cgraplop		decocass	Cluster Buster (DECO Cassette) (US)	1983	Ball &amp; Paddle / Breakout	2	2	2	2	stick	57.444853	R	V			240	240	
-cgraplop2		cgraplop	Graplop (DECO Cassette) (US) (Prototype?)	1983	Ball &amp; Paddle / Breakout	2	2	2	2	stick	57.444853	R	V			240	240	
+cgraplop		decocass	Cluster Buster (DECO Cassette) (US)	1983	Ball & Paddle / Breakout	2	2	2	2	stick	57.444853	R	V			240	240	
+cgraplop2		cgraplop	Graplop (DECO Cassette) (US) (Prototype?)	1983	Ball & Paddle / Breakout	2	2	2	2	stick	57.444853	R	V			240	240	
 cgraplp2	cgraplop		Cluster Buster / Graplop (Cassette, set 2)	1983	Breakout			2			57	R	V	3	4	256	240	
 ch2000			Fruit Bonus 2000 / New Cherry 2000 (Version 4.4E Dual)	2000	Slot Machine / Video Slot	3	12	1	12	joy8way	60	R	H			512	288	
 ch2000b1		ch2000	Fruit Bonus 2000 / New Cherry 2000 (Version 4.4R, set 1)	2000	Slot Machine / Video Slot	3	12	1	12	joy8way	60	R	H			512	288	
@@ -1505,13 +1505,13 @@ chukatau	chukatai		Chuka Taisen (US)	1988	Shooter / Flying Horizontal			2			60	R
 chwrestl			Champion Pro Wrestling	1985	Sports / Wrestling	1	2	2	2	joy8way	59.922747	R	H			280	210	
 chwy		decocass	Highway Chase (DECO Cassette) (US)	1980	Shooter / Driving Vertical	2	2	2	2	stick	57.444853	R	V			240	240	
 ciclone			Ciclone	2000	Casino / Cards	4	5	1		joy8way	60	R	H			400	300	
-circus			Circus / Acrobat TV	1977	Ball &amp; Paddle / Jump and Touch	1	4	1		paddle	57	R	H			248	256	
-circusc			Circus Charlie (level select, set 1)	1984	Platform / Run, Jump &amp; Scrolling	2	1	2	1	joy2way	60	R	V			256	224	
-circusc2		circusc	Circus Charlie (level select, set 2)	1984	Platform / Run, Jump &amp; Scrolling	2	1	2	1	joy2way	60	R	V			256	224	
-circusc3		circusc	Circus Charlie (level select, set 3)	1984	Platform / Run, Jump &amp; Scrolling	2	1	2	1	joy2way	60	R	V			256	224	
-circusc4	circusc		Circus Charlie (no level select)	1984	Platform / Run, Jump &amp; Scrolling			2				R	V	3	4	256	224	
-circuscc		circusc	Circus Charlie (Centuri)	1984	Platform / Run, Jump &amp; Scrolling	2	1	2	1	joy2way	60	R	V			256	224	
-circusce		circusc	Circus Charlie (Centuri, earlier)	1984	Platform / Run, Jump &amp; Scrolling	2	1	2	1	joy2way	60	R	V			256	224	
+circus			Circus / Acrobat TV	1977	Ball & Paddle / Jump and Touch	1	4	1		paddle	57	R	H			248	256	
+circusc			Circus Charlie (level select, set 1)	1984	Platform / Run, Jump & Scrolling	2	1	2	1	joy2way	60	R	V			256	224	
+circusc2		circusc	Circus Charlie (level select, set 2)	1984	Platform / Run, Jump & Scrolling	2	1	2	1	joy2way	60	R	V			256	224	
+circusc3		circusc	Circus Charlie (level select, set 3)	1984	Platform / Run, Jump & Scrolling	2	1	2	1	joy2way	60	R	V			256	224	
+circusc4	circusc		Circus Charlie (no level select)	1984	Platform / Run, Jump & Scrolling			2				R	V	3	4	256	224	
+circuscc		circusc	Circus Charlie (Centuri)	1984	Platform / Run, Jump & Scrolling	2	1	2	1	joy2way	60	R	V			256	224	
+circusce		circusc	Circus Charlie (Centuri, earlier)	1984	Platform / Run, Jump & Scrolling	2	1	2	1	joy2way	60	R	V			256	224	
 circusse		circus	Circus (Sub-Electro bootleg)	1977	Not Classified	1	4	1		paddle	57	R	H			248	256	
 cischeat			Cisco Heat	1990	Driving / Race (chase view)	2	5	1	5	paddle	30	R	H			256	216	
 citalcup		cpokerpk	Champion Italian Cup (bootleg V220IT)	199?	Casino / Cards	2	6	1		joy8way	57	R	H			512	256	
@@ -1560,8 +1560,8 @@ cloakgr		cloak	Cloak & Dagger (German)	1983	Shooter / Field	2	1	1	1	doublejoy8wa
 cloaksp		cloak	Cloak & Dagger (Spanish)	1983	Shooter / Field	2	1	1	1	doublejoy8way	60	R	H			256	232	
 clocknch		decocass	Lock'n'Chase (DECO Cassette) (US)	1981	Maze / Collect	2	2	2	2	stick	57.444853	R	V			240	240	
 cloud9			Cloud 9 (prototype)	1983	Shooter / Gallery	2	2	1	2	trackball	61.035156	R	H			256	232	
-clowns			Clowns (rev. 2)	1978	Ball &amp; Paddle / Jump and Touch	1	2	2		paddle	59.541985	R	H			260	224	
-clowns1		clowns	Clowns (rev. 1)	1978	Ball &amp; Paddle / Jump and Touch	1	2	2		paddle	59.541985	R	H			260	224	
+clowns			Clowns (rev. 2)	1978	Ball & Paddle / Jump and Touch	1	2	2		paddle	59.541985	R	H			260	224	
+clowns1		clowns	Clowns (rev. 1)	1978	Ball & Paddle / Jump and Touch	1	2	2		paddle	59.541985	R	H			260	224	
 clshroad			Clash-Road	1986	Driving / Race Bike	1	2	2	2	joy8way	60	R	H			288	224	
 clshroadd			Clash-Road (Data East license)	1986		1	2	2		joy8way	60.000000	R	H			288	224	
 clshroads		clshroad	Clash-Road (Status license)	1986	Driving / Race Bike	1	2	2	2	joy8way	60	R	H			288	224	
@@ -1635,15 +1635,15 @@ columns2			Columns II: The Voyage Through Time (World)	1990	Puzzle / Drop	2	1	2	
 columnsj		columns	Columns (Japan)	1990	Puzzle / Drop	2	1	2	1	joy8way	60	R	H			256	224	
 columnsn			columnsn									R	H	4	3	256	224	
 columnsu		columns	Columns (US, cocktail, Rev A)	1990	Puzzle / Drop	2	1	2	1	joy8way	60	R	H			256	224	
-combasc			Combat School (joystick)	1988	Sports / Track &amp; Field			2			60	R	H	4	3	256	224	
-combascb	combasc		Combat School (bootleg)	1988	Sports / Track &amp; Field			2			60	R	H	4	3	256	224	
-combascj	combasc		Combat School (Japan trackball)	1987	Sports / Track &amp; Field			2			60	R	H	4	3	256	224	
-combasct	combasc		Combat School (trackball)	1987	Sports / Track &amp; Field			2			60	R	H	4	3	256	224	
+combasc			Combat School (joystick)	1988	Sports / Track & Field			2			60	R	H	4	3	256	224	
+combascb	combasc		Combat School (bootleg)	1988	Sports / Track & Field			2			60	R	H	4	3	256	224	
+combascj	combasc		Combat School (Japan trackball)	1987	Sports / Track & Field			2			60	R	H	4	3	256	224	
+combasct	combasc		Combat School (trackball)	1987	Sports / Track & Field			2			60	R	H	4	3	256	224	
 combat			Combat (version 3.0)	1985	Shooter / Gun	2	1	1	1	lightgun	60	R	H			320	240	
-combatsc			Combat School (joystick)	1988	Sports / Track &amp; Field	3	2	2	2	joy8way	60	R	H			256	224	
-combatscb		combatsc	Combat School (bootleg)	1988	Sports / Track &amp; Field	2	2	2	2	joy8way	60	R	H			256	224	
-combatscj		combatsc	Combat School (Japan trackball)	1987	Sports / Track &amp; Field	3	2	2	2	trackball	60	R	H			256	224	
-combatsct		combatsc	Combat School (trackball)	1987	Sports / Track &amp; Field	3	2	2	2	trackball	60	R	H			256	224	
+combatsc			Combat School (joystick)	1988	Sports / Track & Field	3	2	2	2	joy8way	60	R	H			256	224	
+combatscb		combatsc	Combat School (bootleg)	1988	Sports / Track & Field	2	2	2	2	joy8way	60	R	H			256	224	
+combatscj		combatsc	Combat School (Japan trackball)	1987	Sports / Track & Field	3	2	2	2	trackball	60	R	H			256	224	
+combatsct		combatsc	Combat School (trackball)	1987	Sports / Track & Field	3	2	2	2	trackball	60	R	H			256	224	
 combh			Combat Hawk	1987	Shooter / 1st Person	3	3	2	3	vjoy2way	60	R	V			224	224	
 comebaby			Come On Baby	2000		2	2	0		joy8way	60	R	H			512	256	
 comg074			Cal Omega - Game 7.4 (Gaming Poker, W.Export)	1981	Casino / Cards	1	2	1		joy8way	60	R	H			256	248	
@@ -1947,7 +1947,7 @@ ctrpllrp		puckman	Caterpillar Pacman Hack	1982	Maze / Collect	2	1	2	1	joy4way	60
 ctsttape		decocass	Test Tape (DECO Cassette) (US)	1981	Utilities / Test	2	2	2	2	stick	57.444853	R	V			240	240	
 cubeqst			Cube Quest (01/04/84)	1983	Shooter / Flying	3	3	1	3	trackball	59.940052	R	H			704	480	
 cubeqsta		cubeqst	Cube Quest (12/30/83)	1983	Shooter / Flying	3	3	1	3	trackball	59.940052	R	H			704	480	
-cubybop			Cuby Bop (location test)	199?	Ball &amp; Paddle / Breakout	2	2	2	2	joy8way	60	R	H			320	224	
+cubybop			Cuby Bop (location test)	199?	Ball & Paddle / Breakout	2	2	2	2	joy8way	60	R	H			320	224	
 cuebrckj	cuebrick		Cue Brick (Japan)	1989	Puzzle / Sliding			2			60	R	H	4	3	304	224	
 cuebrick			Cue Brick (World, version D)	1989	Puzzle / Sliding	2	3	2	3	joy8way	60	R	H			304	224	
 cuebrickj		cuebrick	Cue Brick (Japan)	1989	Puzzle / Sliding	2	3	2	3	joy8way	60.606061	R	H			304	224	
@@ -1964,7 +1964,7 @@ cupsocs2		cupsoc	Seibu Cup Soccer :Selection: (set 2)	1992	Sports / Soccer	2	3	4
 cupsocsb		cupsoc	Seibu Cup Soccer :Selection: (bootleg, set 1)	1992	Sports / Soccer	2	3	4	3	joy8way	60	R	H			320	256	
 cupsocsb2	cupsoc		Seibu Cup Soccer :Selection: (bootleg, set 2)	1992	Sports / Soccer	2	3	4		joy8way	60.000000	R	H			320	256	
 curvebal			Curve Ball	1984	Sports / Baseball	2	2	2	2	doublejoy8way	61.419025	R	V			256	240	
-cutieq			Cutie Q	1979	Ball &amp; Paddle / Breakout	2	1	2	1	paddle	60.606061	R	V			272	224	
+cutieq			Cutie Q	1979	Ball & Paddle / Breakout	2	1	2	1	paddle	60.606061	R	V			272	224	
 cvs			CVS Bios	1981	BIOS			2										
 cvs2gd		naomigd	Capcom Vs. SNK 2 Millionaire Fighting 2001 (Rev A) (GDL-0007A)	2001	Fighter / Versus	2	6	2	6	joy8way	60	R	H			640	480	
 cvsgd		naomigd	Capcom Vs. SNK Millennium Fight 2000 Pro (Japan) (GDL-0004)	2001	Fighter / Versus	2	6	2	6	joy8way	60	R	H			640	480	
@@ -2001,7 +2001,7 @@ cybrcomm			Cyber Commando (Rev. CY1, Japan)	1994	Shooter / 3rd Person	2	3	2	3	st
 cybrcycc			Cyber Cycles (Rev. CB2 Ver.C, World)	1995	Driving / Motorbike	1	1	1	1	pedal	60	R	H			640	480	
 cybsled			Cyber Sled (CY2, World)	1993	Shooter / Driving (chase view)	2	4	2	4	stick	60	R	H			496	480	
 cybsledj		cybsled	Cyber Sled (Japan)	1993	Shooter / Driving (chase view)	2	4	2	4	stick	60	R	H			496	480	
-cyclemb			Cycle Maabou (Japan)	1984	Platform / Run, Jump &amp; Scrolling	1	3	2		joy2way	60	R	H			256	224	
+cyclemb			Cycle Maabou (Japan)	1984	Platform / Run, Jump & Scrolling	1	3	2		joy2way	60	R	H			256	224	
 cyclshtg			Cycle Shooting	1986	Shooter / Gun	2	1	1	1	lightgun	60	R	V			256	224	
 cyclwarr			Cycle Warriors (rev C)	1991	Fighter / Driving Vertical	4	3	4	3	joy8way	60	R	H			320	240	
 cyvern		skns	Cyvern - The Dragon Weapons (US)	1998	Shooter / Flying Vertical	2	2	2	2	joy8way	59.5971	R	V			320	240	
@@ -2084,7 +2084,7 @@ daytona93		daytona	Daytona USA (Japan)	1993	Driving / Race (chase view)	2	7	1	7	
 daytonam		daytona	Daytona USA (To The MAXX)	2001	Driving / Race (chase view)	2	7	1	7	pedal	60	R	H			496	384	
 daytonas		daytona	Daytona USA (With Saturn Adverts)	1994	Driving / Race (chase view)	2	7	1	7	pedal	60	R	H			496	384	
 daytonat		daytona	Daytona USA (Turbo hack, set 1)	1994?	Driving / Race (chase view)	2	7	1	7	pedal	60	R	H			496	384	
-dazzler			Dazzler	1982	Maze / Collect &amp; Put	2	1	2	1	joy8way	60	R	V			240	248	
+dazzler			Dazzler	1982	Maze / Collect & Put	2	1	2	1	joy8way	60	R	V			240	248	
 dbc		lhb	Da Ban Cheng (Hong Kong, V027H)	1995	Tabletop / Mahjong	2	4	1		joy8way	60	R	H			512	240	
 dblaxle			Double Axle (US, Rev 1)	1991	Driving / Race (chase view)	2	6	1	6	stick	60	R	H			320	240	
 dblaxleu	dblaxle		Double Axle (US)	1991	Driving / Race (chase view)			1				R	H	4	3	320	240	
@@ -2264,8 +2264,8 @@ dealem			Deal 'Em (MPU4 Conversion Kit, v7.0)	1987	Not Classified	5	7	1	7	joy8wa
 dealer			The Dealer	1984	Casino / Cards	1	6	1	6	joy8way	60	R	V			272	236	
 deathbrd		mutantf	Death Brade (Japan ver JM-3)	1992	Fighter / Versus	2	2	2	2	joy8way	60	R	H			320	240	
 deathcox		naomi	Death Crimson OX (Rev A)	2000	Shooter / Gun	2	6	2	6	joy8way	60	R	H			640	480	
-decathlt		stvbios	Decathlete (JUET 960709 V1.001)	1996	Sports / Track &amp; Field	2	6	4	6	joy8way	59.828244	R	H			320	224	
-decathlto		decathlt	Decathlete (JUET 960424 V1.000)	1996	Sports / Track &amp; Field	2	6	4	6	joy8way	59.828244	R	H			320	224	
+decathlt		stvbios	Decathlete (JUET 960709 V1.001)	1996	Sports / Track & Field	2	6	4	6	joy8way	59.828244	R	H			320	224	
+decathlto		decathlt	Decathlete (JUET 960424 V1.000)	1996	Sports / Track & Field	2	6	4	6	joy8way	59.828244	R	H			320	224	
 decocass			DECO Cassette System	1981	System / BIOS	2	2	2		stick	60	R	V	4	3	256	240	
 deerhunt			Deer Hunting USA V4.3	2000	Shooter / Gun	2	2	1	2	lightgun	60	R	H			320	240	
 deerhunta		deerhunt	Deer Hunting USA V4.2	2000	Shooter / Gun	2	2	1	2	lightgun	60	R	H			320	240	
@@ -2474,8 +2474,8 @@ dolphin		awbios	Dolphin Blue	2003	Platform / Shooter Scrolling	4	6	2	6	joy8way	6
 dolphntr			Dolphin Treasure (0200424V, NSW/ACT)	1996	Slot Machine / Video Slot	1	6	1		joy8way	60	R	H			320	224	
 dolphtra	dolphntr		Dolphin Treasure (0100424V, NSW/ACT)	1996	Casino / Reels	1	6	1		joy8way	60	R	H			320	224	
 domino			Domino Man	1982	Maze / Blocks	2	1	2	1	joy4way	30	R	H			512	480	
-dominob			Domino Block	1996	Ball &amp; Paddle / Breakout	1	2	1	2	dial	59.1524	R	H			256	240	
-dominobv2		dominob	Domino Block ver.2	1996	Ball &amp; Paddle / Breakout	1	2	1	2	dial	59.1524	R	H			256	240	
+dominob			Domino Block	1996	Ball & Paddle / Breakout	1	2	1	2	dial	59.1524	R	H			256	240	
+dominobv2		dominob	Domino Block ver.2	1996	Ball & Paddle / Breakout	1	2	1	2	dial	59.1524	R	H			256	240	
 dominos			Dominos	1977	Maze / Surround	2	8	2		joy4way	60	R	H			512	224	
 dommy			Dommy	1983	Maze / Move and Sort	2	1	2	1	joy4way	57	R	V			248	240	
 doncdoon		aleck64	Hanabi de Doon! - Don-chan Puzzle	2003	Puzzle / Match	2	9	2	9	stick	60	R	H			640	240	
@@ -2762,8 +2762,8 @@ equites			Equites	1984	Shooter / Walking	2	3	2	3	joy8way	60	R	V			256	208
 equitess		equites	Equites (Sega)	1984	Shooter / Walking	2	3	2	3	joy8way	60	R	V			256	208	
 ertictac			Erotictac/Tactic	1990	Puzzle / Drop	2	1	2	1	joy8way	60	R	H			320	256	
 esb			The Empire Strikes Back	1985	Shooter / Flying 1st Person	2	4	1		stick	30	V	H	4	3		0	
-esckids			Escape Kids (Asia, 4 Players)	1991	Sports / Track &amp; Field	4	2	4	2	joy8way	60	R	H			288	224	
-esckidsj		esckids	Escape Kids (Japan, 2 Players)	1991	Sports / Track &amp; Field	2	2	2	2	joy8way	60	R	H			288	224	
+esckids			Escape Kids (Asia, 4 Players)	1991	Sports / Track & Field	4	2	4	2	joy8way	60	R	H			288	224	
+esckidsj		esckids	Escape Kids (Japan, 2 Players)	1991	Sports / Track & Field	2	2	2	2	joy8way	60	R	H			288	224	
 escounts			Every Second Counts (39-360-053)	1990	Quiz / Questions in English	4	10	1	10	joy8way	50	R	H			512	256	
 esh			Esh's Aurunmilla (set 1)	1983	Platform / Run Jump	2	2	2	2	joy8way	59.940052	R	H			704	480	
 esha		esh	Esh's Aurunmilla (set 2)	1983	Platform / Run Jump	2	2	2	2	joy8way	59.940052	R	H			704	480	
@@ -2793,7 +2793,7 @@ euro2k2s		euro2k2	Europa 2002 Space (Ver 3.0)	2002	Casino / Cards	1	8	1		joy8way
 euroch92		footchmp	Euro Champ '92 (World)	1992	Sports / Soccer	4	2	4	2	joy8way	60	R	H			320	224	
 europass			Euro Pass (Ver 1.1)	200?	Casino / Cards	1	8	1		joy8way	60.000000	R	H			512	256	
 evilngt			Evil Night (ver UBA)	1998	Shooter / Gun	2	6	3		pedal	60	R	H			512	384	
-evilston			Evil Stone	1990	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy4way	60	R	V			320	224	
+evilston			Evil Stone	1990	Platform / Run, Jump & Scrolling	2	2	2	2	joy4way	60	R	V			320	224	
 evosocc		crysbios	Evolution Soccer	2001	Sports / Soccer	2	4	4	4	joy8way	60	R	H			320	240	
 excelsr			Excelsior (set 1)	1996	Shooter / Flying	2	3	2	3	joy8way	58	R	H			320	240	
 excelsra	excelsr		Excelsior (set 2)	1996	Shooter / Flying			2				R	H	4	3	320	240	
@@ -3027,13 +3027,13 @@ fghthistu		fghthist	Fighter's History (US ver 42-09, DE-0396-0 PCB)	1993	Fighter
 fghthsta	fghthist		Fighter's History (US ver 42-05, alternate hardware )	1993	Fighter / Versus			2			60	R	H	4	3	320	240	
 fghthstw	fghthist		Fighter's History (World)	1993	Fighter / Versus			2			60	R	H	4	3	320	240	
 fghtjam		sys246	Capcom Fighting Jam (JAM1 Ver. A)	2004	Fighter / Versus	1	3	0		vjoy2way	60	R	H			640	480	
-fgoal			Field Goal (set 1)	1979	Ball &amp; Paddle / Breakout	1	4	2		paddle	60	R	V			256	240	
-fgoala		fgoal	Field Goal (set 2)	1979	Ball &amp; Paddle / Breakout	1	4	2		paddle	60	R	V			256	240	
+fgoal			Field Goal (set 1)	1979	Ball & Paddle / Breakout	1	4	2		paddle	60	R	V			256	240	
+fgoala		fgoal	Field Goal (set 2)	1979	Ball & Paddle / Breakout	1	4	2		paddle	60	R	V			256	240	
 fgtlayer			Fighting Layer (Japan, FTL1/VER.A)	1998	Fighter / Versus	2	6	2	6	joy8way	60	R	H			640	480	
 fhawk			Fighting Hawk (World)	1988	Shooter / Flying Vertical	2	2	2	2	joy8way	60	R	V			320	224	
 fhawkj		fhawk	Fighting Hawk (Japan)	1988	Shooter / Flying Vertical	2	2	2	2	joy8way	60	R	V			320	224	
 fhboxers		stvbios	Funky Head Boxers (JUETBKAL 951218 V1.000)	1995	Sports / Boxing	2	6	4	6	joy8way	59.828244	R	H			320	224	
-fieldday			Field Day	1984	Sports / Track &amp; Field	2	3	4	3	joy4way	60	R	H			256	224	
+fieldday			Field Day	1984	Sports / Track & Field	2	3	4	3	joy4way	60	R	H			256	224	
 fightfev		neogeo	Fight Fever / Wang Jung Wang (set 1)	1994	Fighter / Versus	2	4	2	4	joy8way	59.185606	R	H			320	224	
 fightfeva		fightfev	Fight Fever / Wang Jung Wang (set 2)	1994	Fighter / Versus	2	4	2	4	joy8way	59.185606	R	H			320	224	
 fightfva	fightfev		Fight Fever (set 2)	1994	Fighter / Versus			2			60	R	H	4	3	320	224	
@@ -3177,12 +3177,12 @@ fredmemuk		fredmem	Fred Flintstones' Memory Match (UK, 3/17/95)	1994	Puzzle / Ma
 fredmemus		fredmem	Fred Flintstones' Memory Match (US, High Score version, 3/10/95)	1994	Puzzle / Match	2	9	1	9	joy8way	60	R	H			360	240	
 fredmesp		fredmem	Fred Flintstones' Memory Match (Spanish, 3/17/95)	1994	Puzzle / Match	2	9	1	9	joy8way	60	R	H			360	240	
 freekckb	freekick		Free Kick (bootleg set 1)	1987	Breakout			2			60	R	V	3	4	256	224	
-freekick			Free Kick (NS6201-A 1987.10)	1987	Ball &amp; Paddle / Breakout	2	2	2	2	dial	60	R	V			256	224	
-freekicka	freekick		Free Kick (NS6201-A 1987.9)	1987	Ball &amp; Paddle / Breakout			2				R	V	3	4	256	224	
+freekick			Free Kick (NS6201-A 1987.10)	1987	Ball & Paddle / Breakout	2	2	2	2	dial	60	R	V			256	224	
+freekicka	freekick		Free Kick (NS6201-A 1987.9)	1987	Ball & Paddle / Breakout			2				R	V	3	4	256	224	
 freekickb		freekick	Free Kick (bootleg set 1)	1987	Not Classified	2	2	2	2	dial	60	R	V			256	224	
-freekickb1	freekick		Free Kick (bootleg set 1)	1987	Ball &amp; Paddle / Breakout			2				R	V	3	4	256	224	
-freekickb2		freekick	Free Kick (bootleg set 2)	1987	Ball &amp; Paddle / Breakout	2	2	2	2	dial	60	R	V			256	224	
-freekickb3	freekick		Free Kick (bootleg set 3)	1987	Ball &amp; Paddle / Breakout			2				R	V	3	4	256	224	
+freekickb1	freekick		Free Kick (bootleg set 1)	1987	Ball & Paddle / Breakout			2				R	V	3	4	256	224	
+freekickb2		freekick	Free Kick (bootleg set 2)	1987	Ball & Paddle / Breakout	2	2	2	2	dial	60	R	V			256	224	
+freekickb3	freekick		Free Kick (bootleg set 3)	1987	Ball & Paddle / Breakout			2				R	V	3	4	256	224	
 freeze			Freeze	1984	Maze / Shooter Large	1	2	1	2	joy2way	60	R	V			256	224	
 freezeat			Freeze (Atari) (prototype, English voice, 96/10/25)	1996	Puzzle / Toss	4	3	2	3	joy8way	59.922743	R	H			360	240	
 freezeat2		freezeat	Freeze (Atari) (prototype, 96/10/18)	1996	Puzzle / Toss	4	3	2	3	joy8way	59.922743	R	H			360	240	
@@ -3452,9 +3452,9 @@ gdarius		gdarius2	G-Darius (Ver 2.01J)	1997	Shooter / Flying Horizontal	4	3	4	3	
 gdarius2		taitofx1	G-Darius Ver.2 (Ver 2.03J)	1997	Shooter / Flying Horizontal	4	3	4	3	joy8way	60	R	H			640	480	
 gdariusb		gdarius2	G-Darius (Ver 2.02A)	1997	Shooter / Flying Horizontal	4	3	4	3	joy8way	60	R	H			640	480	
 gdfs			Mobile Suit Gundam Final Shooting (Japan)	1995	Shooter / Gun	2	3	2	3	lightgun	60	R	H			336	240	
-geebee			Gee Bee (Japan)	1978	Ball &amp; Paddle / Breakout	2	1	2	1	paddle	60.606061	R	V			272	224	
-geebeeb		geebee	Gee Bee (Europe)	1978	Ball &amp; Paddle / Breakout	2	1	2	1	paddle	60.606061	R	V			272	224	
-geebeeg		geebee	Gee Bee (US)	1978	Ball &amp; Paddle / Breakout	2	1	2	1	paddle	60.606061	R	V			272	224	
+geebee			Gee Bee (Japan)	1978	Ball & Paddle / Breakout	2	1	2	1	paddle	60.606061	R	V			272	224	
+geebeeb		geebee	Gee Bee (Europe)	1978	Ball & Paddle / Breakout	2	1	2	1	paddle	60.606061	R	V			272	224	
+geebeeg		geebee	Gee Bee (US)	1978	Ball & Paddle / Breakout	2	1	2	1	paddle	60.606061	R	V			272	224	
 gegege			GeGeGe no Kitarou Youkai Slot	1997	Slot Machine / Video Slot	2	3	1		joy8way	60.000000	R	H			320	240	
 geimulti			GEI Multi Game	1992	Casino / Multiplay	2	9	1	9	joy8way	60	R	H			416	224	
 geishanz			Geisha (0101408V, New Zealand)	2001	Casino / Reels	1	6	1		joy8way	60	R	H			320	224	
@@ -3507,17 +3507,17 @@ ghostmun	puckman		Ghost Muncher	1981	Maze / Collect			2				R	V	3	4	768	224
 ghostsqu		chihiro	Ghost Squad (Rev A) (GDX-0012A)	2004	Shooter / Gun	4	6	2		joy8way	60	R	H			640	480	
 ghouls			Ghouls'n Ghosts (World)	1988	Platform / Fighter Scrolling	2	2	2	2	joy8way	59.61	R	H			384	224	
 ghoulsu		ghouls	Ghouls'n Ghosts (USA)	1988	Platform / Fighter Scrolling	2	2	2	2	joy8way	59.61	R	H			384	224	
-ghox			Ghox (spinner)	1991	Ball &amp; Paddle / Breakout	2	2	2	2	dial	60	R	V			320	240	
-ghoxj		ghox	Ghox (joystick)	1991	Ball &amp; Paddle / Breakout	2	2	2	2	dial	60	R	V			320	240	
+ghox			Ghox (spinner)	1991	Ball & Paddle / Breakout	2	2	2	2	dial	60	R	V			320	240	
+ghoxj		ghox	Ghox (joystick)	1991	Ball & Paddle / Breakout	2	2	2	2	dial	60	R	V			320	240	
 ghunter		deadang	Gang Hunter / Dead Angle	1988	Shooter / 1st Person	2	2	2	2	trackball	60	R	H			256	224	
 gigaman2	megaman2		Giga Man 2: The Power Fighters (bootleg of Mega Man 2: The Power Fighters)	1996	Fighter / Versus Co-op			2				R	H	4	3	384	224	
 gigamn2		megaman2	Giga Man 2: The Power Fighters (bootleg of Mega Man 2: The Power Fighters)	1996	Not Classified	2	3	2	3	joy8way	59.629403	R	H			384	224	
 gigandes			Gigandes	1989	Shooter / Flying Horizontal	2	2	2	2	joy8way	60	R	H			384	240	
 gigandesa	gigandes		Gigandes (earlier)	1989	Shooter / Flying Horizontal			2				R	H	4	3	384	240	
 gigandesj		gigandes	Gigandes (Japan)	1989	Not Classified	2	2	2	2	joy8way	60	R	H			384	240	
-gigas			Gigas (MC-8123, 317-5002)	1986	Ball &amp; Paddle / Breakout	2	2	2	2	dial	60	R	V			256	224	
-gigasb		gigas	Gigas (bootleg)	1986	Ball &amp; Paddle / Breakout	2	2	2	2	dial	60	R	V			256	224	
-gigasm2b	gigasm2		Gigas Mark II (bootleg)	1986	Ball &amp; Paddle / Breakout	2	2	2	2	dial	60	R	V			256	224	
+gigas			Gigas (MC-8123, 317-5002)	1986	Ball & Paddle / Breakout	2	2	2	2	dial	60	R	V			256	224	
+gigasb		gigas	Gigas (bootleg)	1986	Ball & Paddle / Breakout	2	2	2	2	dial	60	R	V			256	224	
+gigasm2b	gigasm2		Gigas Mark II (bootleg)	1986	Ball & Paddle / Breakout	2	2	2	2	dial	60	R	V			256	224	
 gigawing			Giga Wing (USA 990222)	1999	Shooter / Flying Vertical	2	2	2	2	joy8way	59.629403	R	H			384	224	
 gigawinga		gigawing	Giga Wing (Asia 990222)	1999	Shooter / Flying Vertical	2	2	2	2	joy8way	59.629403	R	H			384	224	
 gigawingb		gigawing	Giga Wing (Brazil 990222)	1999	Shooter / Flying Vertical	2	2	2	2	joy8way	59.629403	R	H			384	224	
@@ -3557,7 +3557,7 @@ glpracr3		tps	Gallop Racer 3 (Export)	1999	Sports / Horse Racing	4	3	4	3	joy8way
 gmahou		dimahoo	Great Mahou Daisakusen (Japan 000121)	2000	Shooter / Flying Vertical	2	3	2	3	joy8way	59.629403	R	V			384	224	
 gmgalax			Ghostmuncher Galaxian (bootleg)	1981	MultiGame / Compilation	2	1	2	1	joy4way	60.606061	R	V			768	224	
 gmissile			Guided Missile	1977	Shooter / Gallery	1	1	2	1	joy2way	59.541985	R	H			260	224	
-gnbarich			Gunbarich	2001	Ball &amp; Paddle / Breakout	2	3	2	3	joy8way	60	R	V			320	224	
+gnbarich			Gunbarich	2001	Ball & Paddle / Breakout	2	3	2	3	joy8way	60	R	V			320	224	
 gng			Ghosts'n Goblins (World? set 1)	1985	Platform / Fighter Scrolling	2	2	2	2	joy8way	59.59	R	H			256	224	
 gnga		gng	Ghosts'n Goblins (World? set 2)	1985	Platform / Fighter Scrolling	2	2	2	2	joy8way	59.59	R	H			256	224	
 gngbl		gng	Ghosts'n Goblins (bootleg with Cross)	1985	Platform / Fighter Scrolling	2	2	2	2	joy8way	59.59	R	H			256	224	
@@ -3580,21 +3580,21 @@ goaltogo			Goal To Go	1983	Sports / Football	2	2	2	2	joy8way	59.940052	R	H			704
 goalx3		neogeo	Goal! Goal! Goal!	1995	Sports / Soccer	2	4	2	4	joy8way	59.185606	R	H			320	224	
 gobyrc		taitogn	Go By RC (V2.03O 1999/05/25 13:31)	1999	Driving / Race Track	4	3	4	3	joy8way	60	R	H			640	480	
 godzilla			Godzilla (Japan)	1993	Fighter / Versus	2	3	4	2	joy8way	61	R	H			320	224	
-gogold		recordbr	Go For The Gold (Japan)	1988	Sports / Track &amp; Field	2	3	2	3	trackball	60	R	H			320	240	
+gogold		recordbr	Go For The Gold (Japan)	1988	Sports / Track & Field	2	3	2	3	trackball	60	R	H			320	240	
 gogomile			Susume! Mile Smile / Go Go! Mile Smile (newer)	1995	Maze / Collect	2	1	2	1	joy8way	60	R	H			320	240	
 gogomilej		gogomile	Susume! Mile Smile (Japan)	1995	Maze	2	1	2	1	joy8way	60	R	H			320	240	
 gogomilj	gogomile		Susume! Mile Smile (Japan)	1995	Maze			2			60	R	H	4	3	320	240	
-goindol			Goindol (World)	1987	Ball &amp; Paddle / Breakout	2	2	2	2	dial	60	R	V			256	224	
-goindolj	goindol		Goindol (Japan)	1987	Ball &amp; Paddle / Breakout			2			60	R	V	3	4	256	224	
-goindolk		goindol	Goindol (Korea)	1987	Ball &amp; Paddle / Breakout	2	2	2	2	dial	60	R	V			256	224	
-goindolu		goindol	Goindol (US)	1987	Ball &amp; Paddle / Breakout	2	2	2	2	dial	60	R	V			256	224	
+goindol			Goindol (World)	1987	Ball & Paddle / Breakout	2	2	2	2	dial	60	R	V			256	224	
+goindolj	goindol		Goindol (Japan)	1987	Ball & Paddle / Breakout			2			60	R	V	3	4	256	224	
+goindolk		goindol	Goindol (Korea)	1987	Ball & Paddle / Breakout	2	2	2	2	dial	60	R	V			256	224	
+goindolu		goindol	Goindol (US)	1987	Ball & Paddle / Breakout	2	2	2	2	dial	60	R	V			256	224	
 gokuparo		fantjour	Gokujyou Parodius (ver JAD)	1994	Shooter / Flying Horizontal	2	3	4	3	joy8way	59.185606	R	H			288	224	
 goldbug			Gold Bug	1982	Maze / Digging	2	1	2	1	joy8way	60	R	V			240	248	
 goldenc			Golden Canaries (1VXFC5462, New Zealand)	1996	Slot Machine / Video Slot	1	6	1		joy8way	60	R	H			304	216	
-goldmedb	goldmedl		Gold Medalist (bootleg)	1988	Sports / Track &amp; Field						60	R	H	4	3	256	224	
-goldmedl			Gold Medalist (set 1)	1988	Sports / Track &amp; Field	2	3	4	3	joy8way	60	R	H			256	224	
-goldmedla		goldmedl	Gold Medalist (set 2)	1988	Sports / Track &amp; Field	2	3	4	3	joy8way	60	R	H			256	224	
-goldmedlb		goldmedl	Gold Medalist (bootleg)	1988	Sports / Track &amp; Field	2	3	4	3	joy8way	60	R	H			256	224	
+goldmedb	goldmedl		Gold Medalist (bootleg)	1988	Sports / Track & Field						60	R	H	4	3	256	224	
+goldmedl			Gold Medalist (set 1)	1988	Sports / Track & Field	2	3	4	3	joy8way	60	R	H			256	224	
+goldmedla		goldmedl	Gold Medalist (set 2)	1988	Sports / Track & Field	2	3	4	3	joy8way	60	R	H			256	224	
+goldmedlb		goldmedl	Gold Medalist (bootleg)	1988	Sports / Track & Field	2	3	4	3	joy8way	60	R	H			256	224	
 goldnabl	goldnaxe		Golden Axe (bootleg, encrypted)	1989	Fighter / 2.5D			2			60	R	H	4	3	320	224	
 goldnaxa	goldnaxe		Golden Axe (Version 2, 8751 317-123A)	1989	Not Classified						60	R	H	4	3	320	224	
 goldnaxb	goldnaxe		Golden Axe (Version 2, World, FD1094 317-0110)	1989	Not Classified						60	R	H	4	3	320	224	
@@ -3625,7 +3625,7 @@ good			Good (Korea)	1998	Casino / Misc.	2	3	1	3	joy8way	60	R	H			352	224
 goodejan			Good E Jong -Kachinuki Mahjong Syoukin Oh!!- (set 1)	1991	Tabletop / Mahjong	2	2	1		joy8way	60	R	H			256	224	
 goodejana		goodejan	Good E Jong -Kachinuki Mahjong Syoukin Oh!!- (set 2)	1991	Tabletop / Mahjong	2	2	1		joy8way	60	R	H			256	224	
 goodluck	bsuerte		Good Luck	1991	Casino / Cards	2	2	1	2	joy8way	60	R	H			256	232	
-goonies			Vs. The Goonies (set E)	1986	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
+goonies			Vs. The Goonies (set E)	1986	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
 gorf			Gorf	1981	Shooter / Gallery	2	1	2	1	joy8way	60.054442	R	V			352	240	
 gorfpgm1		gorf	Gorf (program 1)	1981	Shooter / Gallery	2	1	2	1	joy8way	60.054442	R	V			352	240	
 gorfpgm1g		gorf	Gorf (program 1, with German Language ROM)	1981	Shooter / Gallery	2	1	2	1	joy8way	60.054442	R	V			352	240	
@@ -3901,7 +3901,7 @@ gwarrior			Galactic Warriors	1985	Fighter / Versus	2	3	2	3	joy8way	60.606061	R	H
 gwing2		naomi	Giga Wing 2	2000	Shooter / Flying Vertical	2	6	2	6	joy8way	60	R	H			640	480	
 gwingj	gigawing		Giga Wing (Japan 990223)	1999	Shooter / Flying Vertical			2			59.633331	R	H	4	3	384	224	
 gwingjd		gigawing	Giga Wing (Japan 990223 Phoenix Edition) (bootleg)	1999	Not Classified			2			59.629403	R	H			384	224	
-gypsyjug			Gypsy Juggler	1978	Ball &amp; Paddle / Breakout	1	1	1	1	stick	60	R	H			256	224	
+gypsyjug			Gypsy Juggler	1978	Ball & Paddle / Breakout	1	1	1	1	stick	60	R	H			256	224	
 gyrodine			Gyrodine	1984	Shooter / Flying Vertical	2	2	2	2	joy8way	60	R	V			288	224	
 gyrodinec		gyrodine	Gyrodine	1984				2			60	R	V			288	224	
 gyrodinet	gyrodine		Gyrodine (Taito Corporation license)	1984	Shooter / Flying Vertical	2	2	2		joy8way	60.000000	R	V	3	4	288	224	
@@ -3973,9 +3973,9 @@ harddunj	harddunk		Hard Dunk (Japan)	1994	Sports / Basketball			6			60	R	H	4	3	4
 harddunk			Hard Dunk (World)	1994	Sports / Basketball	2	4	6	4	joy8way	60	R	H			416	224	
 harddunkj		harddunk	Hard Dunk (Japan)	1994	Sports / Basketball	2	4	6	4	joy8way	60	R	H			416	224	
 hardhat			Hard Hat	1982	Maze / Collect	2	1	1	1	joy4way	59.996811	R	H			256	256	
-hardhea2			Hard Head 2 (v2.0, Music Program v2.4)	1991	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	60	R	H			256	224	
-hardhead			Hard Head	1988	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	59.1	R	H			256	224	
-hardheadb		hardhead	Hard Head (bootleg, set 1)	1988	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	59.1	R	H			256	224	
+hardhea2			Hard Head 2 (v2.0, Music Program v2.4)	1991	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	60	R	H			256	224	
+hardhead			Hard Head	1988	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	59.1	R	H			256	224	
+hardheadb		hardhead	Hard Head (bootleg, set 1)	1988	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	59.1	R	H			256	224	
 hardhedb	hardhead		Hard Head (bootleg)	1988	Platform / Run Jump Scrolling			2			60	R	H	4	3	256	224	
 hardyard			Hard Yardage (v1.20)	1993	Sports / Football	2	2	4	2	joy8way	60.10699	R	H			384	256	
 hardyard10		hardyard	Hard Yardage (v1.00)	1993	Sports / Football	2	2	4	2	joy8way	60.10699	R	H			384	256	
@@ -4032,7 +4032,7 @@ hellfire1a	hellfire		Hellfire (1P set, older)	1989	Shooter / Flying Horizontal		
 hellfire2		hellfire	Hellfire (2P set, first edition)	1989	Not Classified	2	2	2	2	joy8way	60	R	H			320	240	
 hellfire3		hellfire	Hellfire (1P set, alt)	1989	Not Classified	2	2	2	2	joy8way	60	R	H			320	240	
 hellngt		evilngt	Hell Night (ver EAA)	1998	Shooter / Gun	2	6	3		pedal	60	R	H			512	384	
-herbiedk		huncholy	Herbie at the Olympics (DK conversion)	1984	Sports / Track &amp; Field	1	1	2	1	joy8way	60.606061	R	V			256	224	
+herbiedk		huncholy	Herbie at the Olympics (DK conversion)	1984	Sports / Track & Field	1	1	2	1	joy8way	60.606061	R	V			256	224	
 hermit			The Hermit (Ver. 1.14)	1995		1	1	1		trackball	60.000000	R	H			512	248	
 hero			Hero	1984	Maze / Collect	2	1	2	1	joy8way	60	R	V			240	248	
 herodk		hero	Hero in the Castle of Doom (DK conversion)	1984	Maze / Collect	1	2	2	2	joy8way	60.606061	R	V			256	224	
@@ -4065,7 +4065,7 @@ hiimpactp		hiimpact	High Impact Football (prototype, rev 8.6 12/09/90)	1990	Spor
 hikaru			Hikaru Bios	2000		4	6	0>		joy8way	60.000000	R	H			640	480	
 himesiki			Himeshikibu (Japan)	1989	Tabletop / Hanafuda	2	3	2	3	joy8way	60	R	V			256	192	
 hipai		aleck64	Hi Pai Paradise	2003	Tabletop / Mahjong	2	9	1	9	stick	60	R	H			640	240	
-hipoly	trackfld		Hipoly (bootleg of Hyper Olympic)	1983	Sports / Track &amp; Field			4				R	H	4	3	256	224	
+hipoly	trackfld		Hipoly (bootleg of Hyper Olympic)	1983	Sports / Track & Field			4				R	H	4	3	256	224	
 hippodrm			Hippodrome (US)	1989	Fighter / Versus	2	5	2	5	joy8way	57.41	R	H			256	240	
 hiryuken		shangkid	Hokuha Syourin Hiryu no Ken	1985	Fighter / Versus	2	2	2	2	joy8way	60	R	H			288	224	
 hishouza		fshark	Hishou Zame (Japan)	1987	Shooter / Flying Vertical	2	2	2	2	joy8way	54.877858	R	V			320	240	
@@ -4093,7 +4093,7 @@ hmcompmx		bmcompmx	hiphopmania complete MIX (ver UA-B)	1999	Rhythm / Instruments
 hmgeo		naomi	Heavy Metal Geomatrix (Rev B)	2001	Fighter / 3D	2	6	2	6	joy8way	60	R	H			640	480	
 hnageman			AV Hanafuda Hana no Ageman (Japan 900716)	1990	Tabletop / Hanafuda	1	2	2		joy4way	60	R	H			512	240	
 hnayayoi			Hana Yayoi (Japan)	1987	Tabletop / Hanafuda	2	3	1		joy8way	60	R	H			512	256	
-hncholms		huncholy	Hunchback Olympic (Scramble hardware)	1984	Sports / Track &amp; Field	2	2	2	2	joy8way	60.606061	R	V			256	224	
+hncholms		huncholy	Hunchback Olympic (Scramble hardware)	1984	Sports / Track & Field	2	2	2	2	joy8way	60.606061	R	V			256	224	
 hnfubuki		hnayayoi	Hana Fubuki [BET] (Japan)	1987	Tabletop / Mahjong	2	3	1		joy8way	60	R	H			512	256	
 hng64			Hyper NeoGeo 64 Bios	1997		2	4	2		joy8way	60.000000	R	H			512	448	
 hngmnjpm			Hangman (JPM)	1998	Quiz / Questions in English	6	4	1	4	lightgun	48.858662	R	H			400	300	
@@ -4107,7 +4107,7 @@ hogalley			Vs. Hogan's Alley (set HA4-1 E-1)	1985	Shooter / Gun	2	1	1	1	lightgun
 holeland			Hole Land (Japan)	1984	Shooter / 3rd Person	2	2	2	2	joy2way	60	R	H			512	448	
 holo			Holosseum (US)	1992	Fighter / Versus	2	2	2	2	joy8way	60	R	H			416	224	
 homerun	nhomerun		Moero!! Pro Yakyuu Homerun Kyousou	1988	Sports / Baseball	2	1	1	1	joy8way	60	R	H			256	232	
-homo		goindol	Homo	1987	Ball &amp; Paddle / Breakout	2	2	2	2	dial	60	R	V			256	224	
+homo		goindol	Homo	1987	Ball & Paddle / Breakout	2	2	2	2	dial	60	R	V			256	224	
 honeydol			Honey Dolls	1995	Puzzle / Match	3	3	2	3	joy8way	57.5	R	H			256	224	
 hook			Hook (World)	1992	Fighter / 2.5D	4	2	4	2	joy8way	60	R	H			320	240	
 hookj		hook	Hook (Japan)	1992	Fighter / 2.5D	4	2	4	2	joy8way	60	R	H			320	240	
@@ -4150,7 +4150,7 @@ hourouki			Mahjong Hourouki Part 1 - Seisyun Hen (Japan)	1987	Tabletop / Mahjong
 housemn2			House Mannequin Roppongi Live hen (Japan 870418)	1987	Tabletop / Mahjong	2	5	2		joy8way	60	R	H			512	224	
 housemnq			House Mannequin (Japan 870217)	1987	Tabletop / Mahjong	2	5	2		joy8way	60	R	H			512	224	
 hparadis			Super Hana Paradise (Japan)	1994	Tabletop / Hanafuda	2	1	2	1	joy8way	60	R	H			336	240	
-hpolym84		hyperspt	Hyper Olympic '84	1984	Sports / Track &amp; Field	4	3	4	3	joy8way	60	R	H			256	224	
+hpolym84		hyperspt	Hyper Olympic '84	1984	Sports / Track & Field	4	3	4	3	joy8way	60	R	H			256	224	
 hpuncher		fround	Hard Puncher (Japan)	1988	Sports / Boxing	2	3	2	3	joy8way	60.606061	R	H			320	224	
 hrdtimes			Hard Times (set 1)	1994	Shooter / 3rd Person	2	3	2	3	joy8way	58	R	H			320	224	
 hrdtimesa		hrdtimes	Hard Times (set 2)	1994	Shooter / 3rd Person	2	3	2	3	joy8way	58	R	H			320	224	
@@ -4160,7 +4160,7 @@ hsf2d		hsf2	Hyper Street Fighter II: The Anniversary Edition (Asia 040202 Phoeni
 hsf2da												R	H	4	3	384	224	
 hsf2j		hsf2	Hyper Street Fighter II: The Anniversary Edition (Japan 040202)	2004	Fighter / Versus	2	6	2	6	joy8way	59.629403	R	H			384	224	
 hsf2j1	hsf2		Hyper Street Fighter II: The Anniversary Edition (Japan 031222)	2004	Fighter / Versus			2				R	H	4	3	384	224	
-hshavoc			High Seas Havoc	1993	Platform / Run, Jump &amp; Scrolling	4	6	1		joy8way	60	R	H			256	224	
+hshavoc			High Seas Havoc	1993	Platform / Run, Jump & Scrolling	4	6	1		joy8way	60	R	H			256	224	
 hstenn10	hstennis		Hot Shots Tennis (V1.0)	1990	Sports / Tennis			2			60	R	V	3	4	400	240	
 hstennis			Hot Shots Tennis (V1.1)	1990	Sports / Tennis	4	2	2	2	joy8way	60	R	V			400	240	
 hstennis10		hstennis	Hot Shots Tennis (V1.0)	1990	Sports / Tennis	4	2	2	2	joy8way	60	R	V			400	240	
@@ -4172,12 +4172,12 @@ hthero94		intcup94	Hat Trick Hero '94 (Ver 2.2A 1994/05/26)	1994	Sports / Soccer
 hthero95		pwrgoal	Hat Trick Hero '95 (Ver 2.5J 1994/11/03)	1994	Sports / Soccer	4	4	4	4	dial	58.97	R	H			320	224	
 hthero95u		pwrgoal	Hat Trick Hero '95 (Ver 2.5A 1994/11/03)	1994	Sports / Soccer	4	4	4	4	dial	58.97	R	H			320	224	
 hthro95u	pwrgoal		Hat Trick Hero '95 (Ver 2.5A 1994/11/03)	1994	Sports / Soccer			4			60	R	H	4	3	320	224	
-hunchbak			Hunchback (set 1)	1983	Platform / Run, Jump &amp; Scrolling	2	1	2	1	joy2way	60	R	V			240	248	
-hunchbaka		hunchbak	Hunchback (set 2)	1983	Platform / Run, Jump &amp; Scrolling	2	1	2	1	joy2way	60	R	V			240	248	
-hunchbkd		hunchbak	Hunchback (DK conversion)	1983	Platform / Run, Jump &amp; Scrolling	1	1	2	1	joy8way	60.606061	R	V			256	224	
-hunchbkg		hunchbak	Hunchback (Galaxian hardware)	1983	Platform / Run, Jump &amp; Scrolling	2	3	2	2	joy2way	60.606061	R	V			256	224	
-hunchbks		hunchbak	Hunchback (Scramble hardware)	1983	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	60.606061	R	V			256	224	
-huncholy			Hunchback Olympic	1984	Sports / Track &amp; Field	2	1	2	1	joy8way	60	R	V			240	248	
+hunchbak			Hunchback (set 1)	1983	Platform / Run, Jump & Scrolling	2	1	2	1	joy2way	60	R	V			240	248	
+hunchbaka		hunchbak	Hunchback (set 2)	1983	Platform / Run, Jump & Scrolling	2	1	2	1	joy2way	60	R	V			240	248	
+hunchbkd		hunchbak	Hunchback (DK conversion)	1983	Platform / Run, Jump & Scrolling	1	1	2	1	joy8way	60.606061	R	V			256	224	
+hunchbkg		hunchbak	Hunchback (Galaxian hardware)	1983	Platform / Run, Jump & Scrolling	2	3	2	2	joy2way	60.606061	R	V			256	224	
+hunchbks		hunchbak	Hunchback (Scramble hardware)	1983	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	60.606061	R	V			256	224	
+huncholy			Hunchback Olympic	1984	Sports / Track & Field	2	1	2	1	joy8way	60	R	V			240	248	
 hustle			Hustle	1977	Maze / Surround	1	2	2		joy4way	60	R	H			256	224	
 hustler			Video Hustler	1981	Sports / Pool	2	1	2	1	joy8way	60.606061	R	V			256	224	
 hustlerb		hustler	Video Hustler (bootleg, set 1)	1981	Sports / Pool	2	1	2	1	joy8way	60.606061	R	V			256	224	
@@ -4204,25 +4204,25 @@ hydrthnd			Hydro Thunder	1999		4	3	0>		pedal	60.000000	R	H			640	200
 hyhoo			Hayaoshi Taisen Quiz Hyhoo (Japan)	1987	Quiz / Questions in Japanese	2	3	4	3	joy8way	60	R	V			512	224	
 hyhoo2			Hayaoshi Taisen Quiz Hyhoo 2 (Japan)	1987	Quiz / Questions in Japanese	2	3	4	3	joy8way	60	R	V			512	224	
 hyouban		galkoku	Mahjong Hyouban Musume [BET] (Japan)	1989	Tabletop / Mahjong	1	2	2		joy4way	60	R	H			640	240	
-hyperath		konamigv	Hyper Athlete (GV021 Japan 1.00)	1996	Sports / Track &amp; Field	2	3	4	3	joy8way	60	R	H			640	480	
+hyperath		konamigv	Hyper Athlete (GV021 Japan 1.00)	1996	Sports / Track & Field	2	3	4	3	joy8way	60	R	H			640	480	
 hyperbbc		sys573	Hyper Bishi Bashi Champ (GQ876 VER. EAA)	1998	Multiplay / Mini-Games	2	6	3	6	joy8way	60	R	H			640	480	
 hyperbbck		hyperbbc	Hyper Bishi Bashi Champ (GE876 VER. KAA)	1998	Multiplay / Mini-Games	2	6	3	6	joy8way	60	R	H			640	480	
 hyperpac			Hyper Pacman	1995	Maze / Collect	2	3	2	3	joy8way	57.5	R	H			256	224	
 hyperpacb		hyperpac	Hyper Pacman (bootleg)	1995	Maze / Collect	2	3	2	3	joy8way	57.5	R	H			256	224	
 hyperpcb	hyperpac		Hyper Pacman (bootleg)	1995	Maze			2			57.5	R	H	4	3	256	224	
-hyperspt			Hyper Sports	1984	Sports / Track &amp; Field	4	3	4	3	joy8way	60	R	H			256	224	
-hypersptb		hyperspt	Hyper Sports (bootleg)	1984	Sports / Track &amp; Field	4	3	4	3	joy8way	60	R	H			256	224	
+hyperspt			Hyper Sports	1984	Sports / Track & Field	4	3	4	3	joy8way	60	R	H			256	224	
+hypersptb		hyperspt	Hyper Sports (bootleg)	1984	Sports / Track & Field	4	3	4	3	joy8way	60	R	H			256	224	
 hyprdelj	hyprduel	hyprduel	Hyper Duel (Japan set 2)	1993	Shooter / Flying Horizontal			2	3		60	R	H			320	224	
 hyprdriv			Hyperdrive	1998	Driving / Race (chase view)	4	5	1	5	pedal	57	R	H			640	480	
 hyprduel			Hyper Duel (Japan set 1)	1993	Shooter / Flying Horizontal	2	3	2	3	joy8way	60	R	H			320	224	
 hyprduel2	hyprduel		Hyper Duel (Japan set 2)	1993	Shooter / Flying Horizontal	2	3	2		joy8way	60.000000	R	H			320	224	
 hypreac2			Mahjong Hyper Reaction 2 (Japan)	1997	Tabletop / Mahjong	2	3	2	3	joy8way	60	R	H			336	240	
 hypreact			Mahjong Hyper Reaction (Japan)	1995	Tabletop / Mahjong	2	3	1		joy8way	60	R	H			320	224	
-hyprolyb	trackfld		Hyper Olympic (bootleg)	1983	Sports / Track &amp; Field			4			60	R	H	4	3	256	224	
-hyprolym		trackfld	Hyper Olympic	1983	Sports / Track &amp; Field	2	3	4	3	joy8way	60	R	H			256	224	
-hyprolymb		trackfld	Hyper Olympic (bootleg, set 1)	1983	Sports / Track &amp; Field	2	3	4	3	joy8way	60	R	H			256	224	
-hyprolymba	trackfld		Hyper Olympic (bootleg, set 2)	1983	Sports / Track &amp; Field			4				R	H	4	3	256	224	
-hypsptsp		88games	Hyper Sports Special (Japan)	1988	Sports / Track &amp; Field	2	3	4	3	joy8way	60	R	H			304	224	
+hyprolyb	trackfld		Hyper Olympic (bootleg)	1983	Sports / Track & Field			4			60	R	H	4	3	256	224	
+hyprolym		trackfld	Hyper Olympic	1983	Sports / Track & Field	2	3	4	3	joy8way	60	R	H			256	224	
+hyprolymb		trackfld	Hyper Olympic (bootleg, set 1)	1983	Sports / Track & Field	2	3	4	3	joy8way	60	R	H			256	224	
+hyprolymba	trackfld		Hyper Olympic (bootleg, set 2)	1983	Sports / Track & Field			4				R	H	4	3	256	224	
+hypsptsp		88games	Hyper Sports Special (Japan)	1988	Sports / Track & Field	2	3	4	3	joy8way	60	R	H			304	224	
 iceclimb			Vs. Ice Climber (set IC4-4 B-1)	1984	Platform / Run Jump	2	2	2	2	joy8way	60	R	H			256	240	
 iceclimbj		iceclimb	Vs. Ice Climber (Japan)	1984	Not Classified	2	2	2	2	joy8way	60	R	H			256	240	
 iceclmbj	iceclimb		Vs. Ice Climber (Japan)	1984	Platform / Run Jump			2			60	R	H	4	3	256	240	
@@ -4298,8 +4298,8 @@ inthunt			In The Hunt (World)	1993	Shooter / Misc. Horizontal	2	2	2	2	joy8way	60
 inthuntu		inthunt	In The Hunt (US)	1993	Shooter / Misc. Horizontal	2	2	2	2	joy8way	60	R	H			320	240	
 intlaser	blasted		International Team Laser (prototype)	1987	Shooter / 3rd Person	4	1	4		joy8way	30.000000	R	H			512	480	
 intrepi2	intrepid		Intrepid (set 2)	1983	Maze			2			60	R	V	3	4	256	224	
-intrepid			Intrepid (set 1)	1983	Maze / Collect &amp; Put	1	1	2	1	joy8way	60.606061	R	V			256	224	
-intrepid2		intrepid	Intrepid (set 2)	1983	Maze / Collect &amp; Put	1	1	2	1	joy8way	60.606061	R	V			256	224	
+intrepid			Intrepid (set 1)	1983	Maze / Collect & Put	1	1	2	1	joy8way	60.606061	R	V			256	224	
+intrepid2		intrepid	Intrepid (set 2)	1983	Maze / Collect & Put	1	1	2	1	joy8way	60.606061	R	V			256	224	
 introdon		stvbios	Karaoke Quiz Intro Don Don! (J 960213 V1.000)	1996	Quiz / Questions in Japanese	2	6	4	6	joy8way	59.828244	R	H			320	224	
 intrscti			Intersecti	19??	Misc. / Unknown	2	3	1		joy8way	60	R	H			256	512	
 intruder		spclaser	Intruder	1980	Shooter / Gallery	1	1	2	1	joy2way	59.541985	R	V			260	224	
@@ -4419,7 +4419,7 @@ jjsquawkb2	jjsquawk		J. J. Squawkers (bootleg, Blandia Conversion)	1999	Platform
 jjsquawko	jjsquawk		J. J. Squawkers (older)	1993	Platform / Shooter Scrolling			2				R	H	4	3	384	240	
 jkrmast			Joker Master (V515)	1999	Casino / Cards	4	6	1		joy8way	60	R	H			512	224	
 jleague		svf	The J.League 1994 (Japan, Rev A)	1994	Sports / Soccer	2	3	2	3	joy8way	60	R	H			416	224	
-jmpbreak			Jumping Break	1999	Ball &amp; Paddle / Breakout	2	4	2	4	joy8way	60	R	H			320	240	
+jmpbreak			Jumping Break	1999	Ball & Paddle / Breakout	2	4	2	4	joy8way	60	R	H			320	240	
 jnero			Johnny Nero Action Hero (v01.01.08)	2004	Shooter / Gun	1	3	1		joy8way	60	R	H			320	240	
 jngolady			Jangou Lady (Japan)	1984	Tabletop / Mahjong	1	3	2		joy8way	60	R	H			256	224	
 jockeyc			Jockey Club (v1.18)	1990	Casino / Racing	4	2	1	2	joy8way	60	R	H			384	240	
@@ -4470,7 +4470,7 @@ jolycmzs	jollycrd		Jolly Card Professional 2.0 (MZS Tech)	1993	Casino / Cards	2	
 jolyjokr			Jolly Joker (98bet, set 1)	198?	Casino / Cards	2	4	1		trackball	60	R	H			384	232	
 jolyjokra		jolyjokr	Jolly Joker (98bet, set 2)	198?	Casino / Cards	2	4	1		trackball	60	R	H			384	232	
 jolyjokrb		jolyjokr	Jolly Joker (40bet, Croatian hack)	198?	Casino / Cards	2	4	1		trackball	60	R	H			384	232	
-jongbou			Mahjong Block Jongbou (Japan)	1987	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
+jongbou			Mahjong Block Jongbou (Japan)	1987	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
 jongkyo			Jongkyo	1985	Tabletop / Mahjong	2	2	2		dial	60	R	H			256	240	
 jongtei			Mahjong Jong-Tei (Japan, NM532-01)	1999	Tabletop / Mahjong	2	2	2		joy8way	60	R	H			336	240	
 josvolly			Joshi Volleyball	1983	Sports / Volleyball	2	2	2	2	joy8way	60	R	V			256	224	
@@ -4484,7 +4484,7 @@ joyjoy		neogeo	Puzzled / Joy Joy Kid (NGM-021 ~ NGH-021)	1990	Puzzle / Drop	2	4	
 joyman		puckman	Joyman	1982	Maze / Collect	2	1	2	1	joy4way	60.606061	R	V			288	224	
 jpark			Jurassic Park (World)	1993	Shooter / Gun	2	1	2	1	stick	60	R	H			416	224	
 jpark3		kviper	Jurassic Park 3 (ver EBC)	2001	Shooter / Gun	1	9	2		trackball	60	R	H			800	600	
-jpopnics			Jumping Pop (Nics, Korean hack of Plump Pop)	1992	Ball &amp; Paddle / Jump and Touch	2	2	2	2	dial	60	R	H			256	224	
+jpopnics			Jumping Pop (Nics, Korean hack of Plump Pop)	1992	Ball & Paddle / Jump and Touch	2	2	2	2	dial	60	R	H			256	224	
 jrking		dkongjr	Junior King (bootleg of Donkey Kong Jr.)	1982	Platform / Run Jump	1	1	2	1	joy4way	60.606061	R	V			256	224	
 jrpacman			Jr. Pac-Man (11/9/83)	1983	Maze / Collect	3	1	2		joy4way	60.60606	R	V			288	224	
 jrpacmanf	jrpacman		Jr. Pac-Man (speedup hack)	1983	Maze / Collect			2				R	V	3	4	288	224	
@@ -4497,8 +4497,8 @@ jt104	ninjakd2		JT-104 (title screen modification of Rad Action)	1987	Platform /
 jubileep			Jubilee Double-Up Poker	198?		2	1	1>		trackball	60.000000	R	H			256	256	
 juju		toki	JuJu Densetsu (Japan)	1989	Platform / Shooter Scrolling	2	2	2	2	joy8way	59.61	R	H			256	224	
 jujub		toki	JuJu Densetsu (Playmark bootleg)	1990	Platform / Shooter Scrolling	2	2	2	2	joy8way	59.61	R	H			256	224	
-jumpbug			Jump Bug	1981	Platform / Run, Jump &amp; Scrolling	2	1	2	1	joy8way	60.606061	R	V			768	224	
-jumpbugb		jumpbug	Jump Bug (bootleg)	1981	Platform / Run, Jump &amp; Scrolling	2	1	2	1	joy8way	60.606061	R	V			768	224	
+jumpbug			Jump Bug	1981	Platform / Run, Jump & Scrolling	2	1	2	1	joy8way	60.606061	R	V			768	224	
+jumpbugb		jumpbug	Jump Bug (bootleg)	1981	Platform / Run, Jump & Scrolling	2	1	2	1	joy8way	60.606061	R	V			768	224	
 jumpcoas			Jump Coaster (World)	1983	Platform / Run Jump	2	1	2	1	joy8way	60	R	V			256	224	
 jumpcoast		jumpcoas	Jump Coaster (Taito)	1983	Platform / Run Jump	2	1	2	1	joy8way	60	R	V			256	224	
 jumping	rbisland	rainbow	Jumping (set 1)	1989	Platform / Run Jump	2	2	1	2	joy2way	60	R	H			320	224	
@@ -4511,10 +4511,10 @@ jumpshot			Jump Shot	1985	Sports / Basketball	2	1	2	1	joy8way	60.606061	R	V			28
 jumpshotp	jumpshot		Jump Shot Engineering Sample	1985	Sports / Basketball	2	1	2		joy8way	60.606061	R	V	3	4	288	224	
 jumpshtp	jumpshot	jumpshot	Jump Shot Engineering Sample	1985				2	1		60.606061	R	V			288	224	
 jungleby			Jungle Boy (bootleg)	1982		3	1	2		joy8way	60.000000	R	H			256	224	
-jungleh		junglek	Jungle Hunt (US)	1982	Platform / Run, Jump &amp; Scrolling	3	1	2	1	joy8way	60	R	H			256	224	
-junglehbr		junglek	Jungle Hunt (Brazil)	1983	Platform / Run, Jump &amp; Scrolling	3	1	2	1	joy8way	60	R	H			256	224	
-junglek			Jungle King (Japan)	1982	Platform / Run, Jump &amp; Scrolling	3	1	2	1	joy8way	60	R	H			256	224	
-junglekj2		junglek	Jungle King (Japan, earlier)	1982	Platform / Run, Jump &amp; Scrolling	3	1	2	1	joy8way	60	R	H			256	224	
+jungleh		junglek	Jungle Hunt (US)	1982	Platform / Run, Jump & Scrolling	3	1	2	1	joy8way	60	R	H			256	224	
+junglehbr		junglek	Jungle Hunt (Brazil)	1983	Platform / Run, Jump & Scrolling	3	1	2	1	joy8way	60	R	H			256	224	
+junglek			Jungle King (Japan)	1982	Platform / Run, Jump & Scrolling	3	1	2	1	joy8way	60	R	H			256	224	
+junglekj2		junglek	Jungle King (Japan, earlier)	1982	Platform / Run, Jump & Scrolling	3	1	2	1	joy8way	60	R	H			256	224	
 jungler			Jungler	1981	Maze / Shooter Small	2	1	2	1	joy4way	60	R	V			288	224	
 junglers		jungler	Jungler (Stern Electronics)	1981	Maze / Shooter Small	2	1	2	1	joy4way	60	R	V			288	224	
 junglhbr	junglek		Jungle Hunt (Brazil)	1983	Platform / Run Jump Scrolling			2			60	R	H	4	3	256	224	
@@ -4636,9 +4636,9 @@ kf2k5uni		kof2002	The King of Fighters 10th Anniversary 2005 Unique (The King of
 kftgoal		wpksoc	Kick for the Goal	1994		2	3	2		joy8way	60	R	H			320	240	
 kgbird			K.G Bird - 4VXFC5341 (New Zealand, 87.98%)	1996		1	6	1		joy8way	60	R	H			304	216	
 kgbirda		kgbird	K.G Bird - 4VXFC5341 (New Zealand, 91.97%)	1996		1	6	1		joy8way	60	R	H			304	216	
-kick			Kick (upright)	1981	Ball &amp; Paddle / Jump and Touch	2	1	1	1	dial	30	R	V			512	480	
+kick			Kick (upright)	1981	Ball & Paddle / Jump and Touch	2	1	1	1	dial	30	R	V			512	480	
 kick4csh			Kick '4' Cash	2004		2	6	2		joy8way	60.000000	R	H			640	480	
-kicka	kick		Kick (cocktail)	1981	Ball &amp; Paddle			2			30	R	V	3	4	512	480	
+kicka	kick		Kick (cocktail)	1981	Ball & Paddle			2			30	R	V	3	4	512	480	
 kickboy			Kick Boy	1983		2	2	2		joy8way	60	R	H			256	224	
 kickc		kick	Kick (cocktail)	1981		2	1	2	1	dial	30	R	V			512	480	
 kicker			Kicker	1985	Platform / Fighter	2	2	2	2	joy4way	60	R	V			256	224	
@@ -4797,7 +4797,7 @@ konam80j		konam80s	Konami 80's Gallery (GC826 VER. JAA)	1998		2	6	2	6	joy8way	60
 konam80k		konam80s	Konami 80's AC Special (GC826 VER. KAA)	1998		2	6	2	6	joy8way	60	R	V			640	480	
 konam80s		sys573	Konami 80's AC Special (GC826 VER. EAA)	1998		2	6	2	6	joy8way	60	R	V			640	480	
 konam80u		konam80s	Konami 80's AC Special (GC826 VER. UAA)	1998		2	6	2	6	joy8way	60	R	V			640	480	
-konami88		88games	Konami '88	1988	Sports / Track &amp; Field	2	3	4	3	joy8way	60	R	H			304	224	
+konami88		88games	Konami '88	1988	Sports / Track & Field	2	3	4	3	joy8way	60	R	H			304	224	
 konamigt			Konami GT	1985	Driving / Race 1st Person	2	3	1	3	paddle	60.606061	R	H			256	224	
 konamigv			Baby Phoenix/GV System	1995		2	3	4		joy8way	60.000000	R	H			640	480	
 konamigx			System GX	1994	System / BIOS	2	3	4		joy8way	60	R	H	4	3	288	224	
@@ -5160,7 +5160,7 @@ mace			Mace: The Dark Age (boot ROM 1.0ce, HDD 1.0b)	1996	Fighter / Versus	4	4	4
 macea		mace	Mace: The Dark Age (HDD 1.0a)	1997		4	4	4		joy8way	57	R	H			640	480	
 mach3			M.A.C.H. 3 (set 1)	1983	Shooter / Flying (chase view)	2	2	1	2	joy8way	59.940052	R	H			704	480	
 macha			Monoshiri Quiz Osyaberi Macha (Japan)	1983		1	3	1	3	joy8way	60	R	H			256	224	
-machbrkr			Mach Breakers (World, MB2)	1995	Sports / Track &amp; Field	4	3	4	3	joy8way	59.7	R	H			288	224	
+machbrkr			Mach Breakers (World, MB2)	1995	Sports / Track & Field	4	3	4	3	joy8way	59.7	R	H			288	224	
 machomou			Macho Mouse	1982	Maze / Outline	1	1	2	1	joy8way	60.606061	R	V			256	224	
 machridj	machridr		Vs. Mach Rider (Japan, Fighting Course Version)	1985	Shooter / Driving (chase view)			2			60	R	H	4	3	256	240	
 machridr			Vs. Mach Rider (Endurance Course Version)	1985	Shooter / Driving (chase view)	2	2	2	2	joy8way	60	R	H			256	240	
@@ -5482,8 +5482,8 @@ metlhawkj		metlhawk	Metal Hawk (Japan)	1988		2	2	2		stick	60.606061	R	V			288	22
 metlsavr			Metal Saver	1994	Platform / Run Jump	2	3	2	3	joy8way	60	R	H			320	240	
 metmqstr			Metamoqester (International)	1995	Fighter / Versus Co-op	2	4	2	4	joy8way	57.550645	R	H			384	240	
 metrocra	metrocrs		Metro-Cross (set 2)	1985	Platform / Run Jump Scrolling			2			60.60606	R	H	4	3	288	224	
-metrocrs			Metro-Cross (set 1)	1985	Platform / Run, Jump &amp; Scrolling	2	1	2	1	joy8way	60.60606	R	H			288	224	
-metrocrsa		metrocrs	Metro-Cross (set 2)	1985	Platform / Run, Jump &amp; Scrolling	2	1	2	1	joy8way	60.60606	R	H			288	224	
+metrocrs			Metro-Cross (set 1)	1985	Platform / Run, Jump & Scrolling	2	1	2	1	joy8way	60.60606	R	H			288	224	
+metrocrsa		metrocrs	Metro-Cross (set 2)	1985	Platform / Run, Jump & Scrolling	2	1	2	1	joy8way	60.60606	R	H			288	224	
 mexico86		kicknrun	Mexico 86 (bootleg of Kick and Run) (set 1)	1986	Sports / Soccer	4	2	4	2	joy8way	60	R	H			256	224	
 mf_achas		maxaflex	Astro Chase (Max-A-Flex)	1982		1	2	4	2	keyboard	59.923329	R	H			336	225	
 mf_bdash		maxaflex	Boulder Dash (Max-A-Flex)	1984		1	2	4	2	keyboard	59.923329	R	H			336	225	
@@ -5816,7 +5816,7 @@ mp_mazin		megaplay	Mazin Wars / Mazin Saga (Mega Play)	1993		2	4	2	4	joy8way	60	
 mpoker			Multi-Poker	1981		2	1	1		joy8way	60	R	H			512	256	
 mp_shnb3		megaplay	Shinobi III (Mega Play)	1993		2	4	2	4	joy8way	60	R	H			256	224	
 mp_soni2		megaplay	Sonic The Hedgehog 2 (Mega Play)	1993		2	4	2	4	joy8way	60	R	H			256	224	
-mp_sonic		megaplay	Sonic The Hedgehog (Mega Play)	1993	Platform / Run, Jump &amp; Scrolling	2	4	2	4	joy8way	60	R	H			256	224	
+mp_sonic		megaplay	Sonic The Hedgehog (Mega Play)	1993	Platform / Run, Jump & Scrolling	2	4	2	4	joy8way	60	R	H			256	224	
 mp_sor2		megaplay	Streets of Rage II (Mega Play)	1993		2	4	2	4	joy8way	60	R	H			256	224	
 mp_twc		megaplay	Tecmo World Cup (Mega Play)	1993		2	4	2	4	joy8way	60	R	H			256	224	
 mpu4met0			MPU4 Meter Clear ROM	198?		4	7	1		joy8way								
@@ -5931,7 +5931,7 @@ mt_arrow		megatech	Arrow Flash (Mega-Tech)	1990		4	4	2	4	joy8way	60	R	H			256	22
 mt_astrm		megatech	Alien Storm (Mega-Tech)	1990		4	4	2	4	joy8way	60	R	H			256	224	
 mt_astro		megatech	Astro Warrior (Mega-Tech, SMS based)	1986	Shooter / Flying Vertical	4	4	2	4	joy8way	60	R	H			256	224	
 mt_asyn		megatech	Alien Syndrome (Mega-Tech, SMS based)	1987		4	4	2	4	joy8way	60	R	H			256	224	
-mt_bbros		megatech	Bonanza Bros. (Mega-Tech)	1991	Platform / Run, Jump &amp; Scrolling	4	4	2	4	joy8way	60	R	H			256	224	
+mt_bbros		megatech	Bonanza Bros. (Mega-Tech)	1991	Platform / Run, Jump & Scrolling	4	4	2	4	joy8way	60	R	H			256	224	
 mt_beast		megatech	Altered Beast (Mega-Tech)	1988	Platform / Fighter Scrolling	4	4	2	4	joy8way	60	R	H			256	224	
 m_tbirds			Thunderbirds	199?		4	2	1		lightgun								
 mt_cols		megatech	Columns (Mega-Tech)	1990		4	4	2	4	joy8way	60	R	H			256	224	
@@ -5974,7 +5974,7 @@ mt_shnbi		megatech	Shinobi (Mega-Tech, SMS based)	1987	Platform / Fighter Scroll
 mt_smgp		megatech	Super Monaco GP (Mega-Tech)	1990	Driving / Race 1st Person	4	4	2	4	joy8way	60	R	H			256	224	
 mt_soni2		megatech	Sonic The Hedgehog 2 (Mega-Tech)	1992		4	4	2	4	joy8way	60	R	H			256	224	
 mt_sonia		mt_sonic	Sonic The Hedgehog (Mega-Tech, set 2)	1991		4	4	2	4	joy8way	60	R	H			256	224	
-mt_sonic		megatech	Sonic The Hedgehog (Mega-Tech, set 1)	1991	Platform / Run, Jump &amp; Scrolling	4	4	2	4	joy8way	60	R	H			256	224	
+mt_sonic		megatech	Sonic The Hedgehog (Mega-Tech, set 1)	1991	Platform / Run, Jump & Scrolling	4	4	2	4	joy8way	60	R	H			256	224	
 mt_spman			Spider-Man vs The Kingpin (Mega-Tech)	1991		4	4	2		joy8way	60.000000	R	H			256	224	
 mt_srage		megatech	Streets of Rage (Mega-Tech)	1991		4	4	2	4	joy8way	60	R	H			256	224	
 mt_srbb		megatech	Super Real Basketball (Mega-Tech)	1989		4	4	2	4	joy8way	60	R	H			256	224	
@@ -6048,7 +6048,7 @@ myhero			My Hero (US, not encrypted)	1985	Fighter / 2D	2	2	2	2	joy8way	60.096154
 myherobl	myhero		My Hero (bootleg, 315-5132 encryption)	1985	Fighter / 2D			2				R	H	4	3	512	224	
 myherok		myhero	My Hero (Korea)	1985	Fighter / 2D	2	2	2	2	joy8way	60.096154	R	H			256	224	
 myqbert		qbert	Mello Yello Q*bert	1982	Platform / Run Jump	2	2	2		joy4way	61.419025	R	V			256	240	
-mysticm			Mystic Marathon	1983	Sports / Track &amp; Field	3	1	1	1	joy8way	60.096154	R	H			276	240	
+mysticm			Mystic Marathon	1983	Sports / Track & Field	3	1	1	1	joy8way	60.096154	R	H			276	240	
 mysticri			Mystic Riders (World)	1992	Shooter / Flying Horizontal	2	2	2	2	joy8way	60	R	H			320	240	
 mysticrib	mysticri		Mystic Riders (bootleg?)	1992	Shooter / Flying Horizontal	2	2	2		joy8way	60.000000	R	H	4	3	320	240	
 myststno	mystston		Mysterious Stones - Dr. Kick in Adventure	1984	Maze / Shooter Large			2			57.444855	R	V	3	4	256	240	
@@ -6269,7 +6269,7 @@ nspirit			Ninja Spirit	1988	Fighter / 2D	2	4	2	4	joy8way	55.017606	R	H			384	256
 nspiritj		nspirit	Saigo no Nindou (Japan)	1988	Fighter / 2D	2	4	2	4	joy8way	55.017606	R	H			384	256	
 nss			Nintendo Super System BIOS	199?	System / BIOS	1	6>	2		joy8way	60	R	H	4	3	256	225	
 nss_actr		nss	Act Raiser (Nintendo Super System)	1992	Platform / Fighter Scrolling	1	6>	2	6	joy8way	60.098476	R	H			256	224	
-nss_adam		nss	The Addams Family (Nintendo Super System)	1992	Platform / Run, Jump &amp; Scrolling	1	6>	2	6	joy8way	60.098476	R	H			256	224	
+nss_adam		nss	The Addams Family (Nintendo Super System)	1992	Platform / Run, Jump & Scrolling	1	6>	2	6	joy8way	60.098476	R	H			256	224	
 nss_aten		nss	David Crane's Amazing Tennis (Nintendo Super System)	1992	Sports / Tennis	1	6>	2	6	joy8way	60.098476	R	H			256	224	
 nss_con3		nss	Contra 3: The Alien Wars (Nintendo Super System)	1992	Platform / Shooter Scrolling	1	6>	2	6	joy8way	60.098476	R	H			256	224	
 nss_fzer		nss	F-Zero (Nintendo Super System)	1991	Driving / Race (chase view)	1	6>	2	6	joy8way	60.098476	R	H			256	224	
@@ -6277,7 +6277,7 @@ nss_lwep		nss	Lethal Weapon (Nintendo Super System)	1992	Platform / Shooter Scro
 nss_ncaa		nss	NCAA Basketball (Nintendo Super System)	1992	Sports / Basketball	1	6>	2	6	joy8way	60.098476	R	H			256	224	
 nss_rob3		nss	Robocop 3 (Nintendo Super System)	1992	Platform / Shooter Scrolling	1	6>	2	6	joy8way	60.098476	R	H			256	224	
 nss_skin		nss	Skins Game (Nintendo Super System)	1992	Sports / Golf	1	6>	2	6	joy8way	60.098476	R	H			256	224	
-nss_smw		nss	Super Mario World (Nintendo Super System)	1991	Platform / Run, Jump &amp; Scrolling	1	6>	2	6	joy8way	60.098476	R	H			256	224	
+nss_smw		nss	Super Mario World (Nintendo Super System)	1991	Platform / Run, Jump & Scrolling	1	6>	2	6	joy8way	60.098476	R	H			256	224	
 nss_ssoc		nss	Super Soccer (Nintendo Super System)	1992	Sports / Soccer	1	6>	2	6	joy8way	60.098476	R	H			256	224	
 nss_sten		nss	Super Tennis (Nintendo Super System)	1991	Sports / Tennis	1	6>	2	6	joy8way	60.098476	R	H			256	224	
 nstocker			Night Stocker (10/6/86)	1986	Shooter / Driving 1st Person	2	1	2	1	lightgun	59.185606	R	H			256	240	
@@ -6285,9 +6285,9 @@ nstocker2		nstocker	Night Stocker (8/27/86)	1986	Shooter / Driving 1st Person	2	
 nsub			N-Sub (upright)	1980	Shooter / Gallery	1	2	1	2	joy8way	60	R	V			256	224	
 ntcash			NtCash	1999	Casino / Misc.	1	8	1		joy8way	60	R	H			512	256	
 ntopstar			Mahjong Nerae! Top Star (Japan)	1990	Tabletop / Mahjong	1	2	2		joy4way	60	R	H			640	240	
-numanath			Numan Athletics (World)	1993	Sports / Track &amp; Field	4	3	4	3	joy8way	60	R	H			288	224	
-numanathj		numanath	Numan Athletics (Japan)	1993	Sports / Track &amp; Field	4	3	4	3	joy8way	60	R	H			288	224	
-numanatj	numanath		Numan Athletics (Japan)	1993	Sports / Track &amp; Field			4			60	R	H	4	3	288	224	
+numanath			Numan Athletics (World)	1993	Sports / Track & Field	4	3	4	3	joy8way	60	R	H			288	224	
+numanathj		numanath	Numan Athletics (Japan)	1993	Sports / Track & Field	4	3	4	3	joy8way	60	R	H			288	224	
+numanatj	numanath		Numan Athletics (Japan)	1993	Sports / Track & Field			4			60	R	H	4	3	288	224	
 number10			Number Dieci (Poker)	2000	Casino / Cards	2	6	1		joy8way	57	R	H			512	256	
 numbr10l		number10	Number Dieci (Lattine)	2000	Casino / Cards	2	6	1		joy8way	57	R	H			512	256	
 nunchaku		ladymstr	Nunchackun	1985	Platform / Fighter Scrolling	2	2	2	2	joy4way	60	R	V			256	240	
@@ -6317,12 +6317,12 @@ offroadt			Ironman Ivan Stewart's Super Off-Road Track-Pak	1989	Driving / Race T
 offroadt2p		offroadt	Ironman Ivan Stewart's Super Off-Road Track-Pak (rev 4, 2 Players)	1989	Driving / Race Track	3	1	2	1	pedal	60	R	H			320	240	
 offrthnd			Offroad Thunder	2000		4	3	0>		pedal	60.000000	R	H			640	200	
 offtwalc	offtwall		Off the Wall (2-player cocktail)	1991	Breakout			3			60	R	H	4	3	336	240	
-offtwall			Off the Wall (2/3-player upright)	1991	Ball &amp; Paddle / Breakout	2	4	3	4	dial	59.922743	R	H			336	240	
-offtwallc		offtwall	Off the Wall (2-player cocktail)	1991	Ball &amp; Paddle / Breakout	2	4	3	4	dial	59.922743	R	H			336	240	
+offtwall			Off the Wall (2/3-player upright)	1991	Ball & Paddle / Breakout	2	4	3	4	dial	59.922743	R	H			336	240	
+offtwallc		offtwall	Off the Wall (2-player cocktail)	1991	Ball & Paddle / Breakout	2	4	3	4	dial	59.922743	R	H			336	240	
 ogonsiro		gladiatr	Ougon no Shiro (Japan)	1986	Fighter / 2D	2	3	2	3	joy8way	60	R	H			256	224	
 ohmygod			Oh My God! (Japan)	1993	Puzzle / Drop	2	1	2	1	joy8way	60	R	H			320	240	
 ohpaipee			Oh! Paipee (Japan 890227)	1989	Puzzle / Match	2	2	2	2	joy4way	60	R	V			512	240	
-oigas		gigas	Oigas (bootleg)	1986	Ball &amp; Paddle / Breakout	2	2	2	2	dial	60	R	V			256	224	
+oigas		gigas	Oigas (bootleg)	1986	Ball & Paddle / Breakout	2	2	2	2	dial	60	R	V			256	224	
 oisipuzl			Oishii Puzzle Ha Irimasenka	1993	Puzzle / Misc.	1	2	2	2	joy8way	60	R	H			320	224	
 ojanko2			Ojanko Yakata 2bankan (Japan)	1987	Tabletop / Mahjong	1	2	2		joy2way	60	R	H			288	224	
 ojankoc			Ojanko Club (Japan, Program Ver. 1.3)	1986	Tabletop / Mahjong	1	2	2		joy2way	60	R	H			256	240	
@@ -6338,7 +6338,7 @@ oldsplus		pgm	Oriental Legend 2 (Korea) / Xiyou Shi E Chuan Qunmoluanwu (World, 
 olibochu			Oli-Boo-Chu	1981	Maze / Collect	2	1	2		joy4way	60	R	V			256	240	
 ollie			Ollie King (GDX-0007)	2003	Sports / Skateboarding	4	6	2		joy8way	60.000000	R	H			640	480	
 olysoc92		cupsoc	Olympic Soccer '92 (set 1)	1992	Sports / Soccer	2	3	4	3	joy8way	60	R	H			320	224	
-omega		theend	Omega	1986	Ball &amp; Paddle / Breakout	2	1	2	1	joy2way	60.606061	R	V			768	224	
+omega		theend	Omega	1986	Ball & Paddle / Breakout	2	1	2	1	joy2way	60.606061	R	V			768	224	
 omegaf			Omega Fighter	1989	Shooter / Flying Vertical	2	2	2	2	joy8way	59.61	R	V			256	192	
 omegafs		omegaf	Omega Fighter Special	1989	Shooter / Flying Vertical	2	2	2	2	joy8way	59.61	R	V			256	192	
 omegrace			Omega Race (set 1)	1981	Shooter / Field	2	2	2		dial	40	V	H	4	3		0	
@@ -6454,14 +6454,14 @@ pacgal		mspacman	Pac-Gal (set 1)	1981	Maze / Collect	2	1	2	1	joy4way	60.606061	R
 pacheart		puckman	Pac-Man (Hearts)	1981	Maze / Collect	2	1	2	1	joy4way	60.606061	R	V			288	224	
 pachifev			Pachifever	1983		1	1	1		joy8way	59.922747	R	V			280	210	
 pachiten			Medal Mahjong Pachi-Slot Tengoku [BET] (Japan)	1993	Tabletop / Mahjong	2	2	2		joy4way	60	R	H			640	240	
-packbang			Pack'n Bang Bang (prototype)	1994	Ball &amp; Paddle / Breakout			2				R	V	3	4	256	224	
-pacland			Pac-Land (World)	1984	Platform / Run, Jump &amp; Scrolling	2	1	2	1	joy2way	60.60606	R	H			288	224	
+packbang			Pack'n Bang Bang (prototype)	1994	Ball & Paddle / Breakout			2				R	V	3	4	256	224	
+pacland			Pac-Land (World)	1984	Platform / Run, Jump & Scrolling	2	1	2	1	joy2way	60.60606	R	H			288	224	
 pacland2	pacland	pacland	Pac-Land (Japan newer)	1984	Platform / Run Jump Scrolling			2	1		60.60606	R	H			288	224	
 pacland3	pacland	pacland	Pac-Land (Japan older)	1984	Platform / Run Jump Scrolling			2	1		60.60606	R	H			288	224	
-paclandj	pacland		Pac-Land (Japan new)	1984	Platform / Run, Jump &amp; Scrolling	2	1	2		joy2way	60.606060	R	H	4	3	288	224	
-paclandjo	pacland		Pac-Land (Japan old)	1984	Platform / Run, Jump &amp; Scrolling	2	1	2		joy2way	60.606060	R	H	4	3	288	224	
-paclandjo2	pacland		Pac-Land (Japan older)	1984	Platform / Run, Jump &amp; Scrolling	2	1	2		joy2way	60.606060	R	H	4	3	288	224	
-paclandm		pacland	Pac-Land (Midway)	1984	Platform / Run, Jump &amp; Scrolling	2	1	2	1	joy2way	60.60606	R	H			288	224	
+paclandj	pacland		Pac-Land (Japan new)	1984	Platform / Run, Jump & Scrolling	2	1	2		joy2way	60.606060	R	H	4	3	288	224	
+paclandjo	pacland		Pac-Land (Japan old)	1984	Platform / Run, Jump & Scrolling	2	1	2		joy2way	60.606060	R	H	4	3	288	224	
+paclandjo2	pacland		Pac-Land (Japan older)	1984	Platform / Run, Jump & Scrolling	2	1	2		joy2way	60.606060	R	H	4	3	288	224	
+paclandm		pacland	Pac-Land (Midway)	1984	Platform / Run, Jump & Scrolling	2	1	2	1	joy2way	60.60606	R	H			288	224	
 pacman		puckman	Pac-Man (Midway)	1980	Maze / Collect	2	1	2	1	joy4way	60.606061	R	V			288	224	
 pacmanbl		puckman	Pac-Man (Galaxian hardware, set 1)	1981	Maze / Collect	2	1	2		joy4way	60.606061	R	V			768	224	
 pacmanbla		puckman	Pac-Man (Galaxian hardware, set 2)	1981	Maze / Collect	2	1	2		joy4way	60.606061	R	V			768	224	
@@ -6479,7 +6479,7 @@ pacnpal2		pacnpal	Pac & Pal (older)	1983	Maze / Collect	2	1	2	1	joy4way	60.60606
 pacplus			Pac-Man Plus	1982	Maze / Collect	2	1	2	1	joy4way	60.606061	R	V			288	224	
 pacslot			Pac-Slot	1996		2	1	1		joy8way	57.550645	R	H			320	240	
 pacuman	puckman		Pacu-Man (Spanish bootleg of Puck Man)	1980	Maze / Collect			2				R	V	3	4	288	224	
-paddle2		arkanoid	Paddle 2 (bootleg on Block hardware)	1988	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
+paddle2		arkanoid	Paddle 2 (bootleg on Block hardware)	1988	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			256	224	
 paddlema			Paddle Mania	1988	Sports / Misc.	2	2	4	2	joy8way	60	R	V			256	224	
 paintlad		splash	Painted Lady (Splash) (Ver. 1.3 US)	1992		2	2	2		joy8way	60	R	H			368	240	
 paintrlr		crush	Paint Roller (bootleg of Crush Roller)	1981	Maze / Paint	2	1	2		joy4way	60.606061	R	V			288	224	
@@ -6615,7 +6615,7 @@ pc_ebike		playch10	Excite Bike (PlayChoice-10)	1984	Driving / Motorbike	2	2	2	2	
 pc_ftqst		playch10	Uncle Fester's Quest: The Addams Family (PlayChoice-10)	1989	Maze / Shooter Large	2	2	2	2	joy8way	60	R	H			256	240	
 pc_gntlt		playch10	Gauntlet (PlayChoice-10)	1985	Maze / Shooter Large	2	2	2	2	joy8way	60	R	H			256	240	
 pc_golf		playch10	Golf (PlayChoice-10)	1984	Sports / Golf	2	2	2	2	joy8way	60	R	H			256	240	
-pc_goons		playch10	The Goonies (PlayChoice-10)	1986	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
+pc_goons		playch10	The Goonies (PlayChoice-10)	1986	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
 pc_grdue		pc_grdus	Gradius (PlayChoice-10, older)	1986	Shooter / Flying Horizontal	2	2	2	2	joy8way	60	R	H			256	240	
 pc_grdus		playch10	Gradius (PlayChoice-10)	1986	Shooter / Flying Horizontal	2	2	2	2	joy8way	60	R	H			256	240	
 pc_hgaly		playch10	Hogan's Alley (PlayChoice-10)	1984	Shooter / Gun	2	2	2	2	lightgun	60	R	H			256	240	
@@ -6637,7 +6637,7 @@ pc_mario		playch10	Mario Bros. (PlayChoice-10)	1983	Platform / Run Jump	2	2	2	2	
 pc_miket		playch10	Mike Tyson's Punch-Out!! (PlayChoice-10)	1987	Sports / Boxing	2	2	2	2	joy8way	60	R	H			256	240	
 pc_mman3		playch10	Mega Man III (PlayChoice-10)	1990	Platform / Shooter Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
 pc_moglf		playch10	Mario's Open Golf (PlayChoice-10)	1991	Sports / Golf	2	2	2	2	joy8way	60	R	H			256	240	
-pc_mtoid		playch10	Metroid (PlayChoice-10)	1986	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
+pc_mtoid		playch10	Metroid (PlayChoice-10)	1986	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
 pcnfrk3m		sys573	Percussion Freaks 3rd Mix (G*A23 VER. KAA)	2000		1	6	1	6	joy2way	60	R	H			640	480	
 pc_ngai2		playch10	Ninja Gaiden Episode II: The Dark Sword of Chaos (PlayChoice-10)	1990	Platform / Fighter Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
 pc_ngai3		playch10	Ninja Gaiden Episode III: The Ancient Ship of Doom (PlayChoice-10)	1991	Platform / Fighter Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
@@ -6650,16 +6650,16 @@ pc_radrc		playch10	Rad Racer (PlayChoice-10)	1987	Driving / Race (chase view)	2	
 pc_rcpam		playch10	R.C. Pro-Am (PlayChoice-10)	1987	Driving / Race	2	2	2	2	joy8way	60	R	H			256	240	
 pc_rkats		playch10	Rockin' Kats (PlayChoice-10)	1991	Platform / Fighter Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
 pc_rnatk		playch10	Rush'n Attack (PlayChoice-10)	1987	Platform / Shooter Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
-pc_rrngr		playch10	Chip'n Dale: Rescue Rangers (PlayChoice-10)	1990	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
+pc_rrngr		playch10	Chip'n Dale: Rescue Rangers (PlayChoice-10)	1990	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
 pc_rygar		playch10	Rygar (PlayChoice-10)	1987	Platform / Fighter Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
 pc_sjetm		playch10	Solar Jetman (PlayChoice-10)	1990	Maze / Shooter Large	2	2	2	2	joy8way	60	R	H			256	240	
-pc_smb		playch10	Super Mario Bros. (PlayChoice-10)	1985	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
-pc_smb2		playch10	Super Mario Bros. 2 (PlayChoice-10)	1988	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
-pc_smb3		playch10	Super Mario Bros. 3 (PlayChoice-10)	1988	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
+pc_smb		playch10	Super Mario Bros. (PlayChoice-10)	1985	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
+pc_smb2		playch10	Super Mario Bros. 2 (PlayChoice-10)	1988	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
+pc_smb3		playch10	Super Mario Bros. 3 (PlayChoice-10)	1988	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
 pc_suprc		playch10	Super C (PlayChoice-10)	1990	Platform / Shooter Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
 pc_tbowl		playch10	Tecmo Bowl (PlayChoice-10)	1989	Sports / Football	2	2	2	2	joy8way	60	R	H			256	240	
 pc_tenis		playch10	Tennis (PlayChoice-10)	1983	Sports / Tennis	2	2	2	2	joy8way	60	R	H			256	240	
-pc_tkfld		playch10	Track & Field (PlayChoice-10)	1987	Sports / Track &amp; Field	2	2	2	2	joy8way	60	R	H			256	240	
+pc_tkfld		playch10	Track & Field (PlayChoice-10)	1987	Sports / Track & Field	2	2	2	2	joy8way	60	R	H			256	240	
 pc_tmnt		playch10	Teenage Mutant Ninja Turtles (PlayChoice-10)	1989	Platform / Fighter	2	2	2	2	joy8way	60	R	H			256	240	
 pc_tmnt2		playch10	Teenage Mutant Ninja Turtles II: The Arcade Game (PlayChoice-10)	1990	Fighter / 2.5D	2	2	2	2	joy8way	60	R	H			256	240	
 pc_trjan		playch10	Trojan (PlayChoice-10)	1986	Fighter / 2D	2	2	2	2	joy8way	60	R	H			256	240	
@@ -6672,14 +6672,14 @@ pdrifta		pdrift	Power Drift (World)	1988	Driving / Race (chase view)	2	1	1	1	ped
 pdrifte		pdrift	Power Drift (World, Earlier)	1988	Driving / Race (chase view)	2	1	1	1	pedal	60	R	H			320	224	
 pdriftj		pdrift	Power Drift (Japan)	1988	Driving / Race (chase view)	2	1	1	1	pedal	60	R	H			320	224	
 pebe0014			Player's Edge Plus (BE0014) Blackjack	1994		1	15	1	15	joy8way	60	R	H			320	200	
-peekaboo			Peek-a-Boo!	1993	Ball &amp; Paddle / Breakout	4	4	2	4	paddle	60	R	H			256	224	
-peekaboou	peekaboo		Peek-a-Boo! (North America, ver 1.0)	1993	Ball &amp; Paddle / Breakout			2				R	H	4	3	256	224	
+peekaboo			Peek-a-Boo!	1993	Ball & Paddle / Breakout	4	4	2	4	paddle	60	R	H			256	224	
+peekaboou	peekaboo		Peek-a-Boo! (North America, ver 1.0)	1993	Ball & Paddle / Breakout			2				R	H	4	3	256	224	
 peepshow		mjfocus	Nozokimeguri Mahjong Peep Show (Japan 890404)	1989	Tabletop / Mahjong	1	2	2		joy4way	60	R	H			512	240	
-peggle			Peggle (Joystick, v1.0)	1991	Ball &amp; Paddle / Jump and Touch	4	4	1		joy2way	60	R	V			400	240	
-pegglet		peggle	Peggle (Trackball, v1.0)	1991	Ball &amp; Paddle / Jump and Touch	4	4	1		dial	60	R	V			400	240	
+peggle			Peggle (Joystick, v1.0)	1991	Ball & Paddle / Jump and Touch	4	4	1		joy2way	60	R	V			400	240	
+pegglet		peggle	Peggle (Trackball, v1.0)	1991	Ball & Paddle / Jump and Touch	4	4	1		dial	60	R	V			400	240	
 peke1012			Player's Edge Plus (KE1012) Keno	1994		1	15	1	15	lightgun	60	R	H			320	200	
 penbros			Penguin Brothers (Japan)	2000	Platform / Run Jump	2	2	2	2	joy8way	60	R	H			320	224	
-pengadvb			Penguin Adventure (bootleg of MSX version)	1988	Platform / Run, Jump &amp; Scrolling	1	2	1	1	joy8way	59.922747	R	H			280	210	
+pengadvb			Penguin Adventure (bootleg of MSX version)	1988	Platform / Run, Jump & Scrolling	1	2	1	1	joy8way	59.922747	R	H			280	210	
 pengo			Pengo (set 1 rev c)	1982	Maze / Move and Sort	3	1	2	1	joy4way	60.606061	R	V			288	224	
 pengo2		pengo	Pengo (set 2)	1982	Maze / Move and Sort	3	1	2	1	joy4way	60.606061	R	V			288	224	
 pengo2u		pengo	Pengo (set 2 not encrypted)	1982	Maze / Move and Sort	3	1	2	1	joy4way	60.606061	R	V			288	224	
@@ -6835,7 +6835,7 @@ pirates			Pirates (set 1)	1994	Shooter / 3rd Person	2	3	2	3	joy8way	60	R	H			288
 piratesb	pirates		Pirates (set 2)	1995	Shooter / 3rd Person			2				R	H	4	3	288	224	
 piratetr			Pirate Treasure	1982		2	4	2		joy8way	59.196429	R	H			256	256	
 pirati			Pirati	2001		1	8	1		joy8way	60	R	H			512	256	
-piratpet		junglek	Pirate Pete	1982	Platform / Run, Jump &amp; Scrolling	3	1	2	1	joy8way	60	R	H			256	224	
+piratpet		junglek	Pirate Pete	1982	Platform / Run, Jump & Scrolling	3	1	2	1	joy8way	60	R	H			256	224	
 pirpok2			Pirate Poker II (Version 2.4E Dual)	2003		3	12	1	12	joy8way	60	R	H			512	288	
 pirpok2b1		pirpok2	Pirate Poker II (Version 2.2R, set 1)	2003		3	12	1	12	joy8way	60	R	H			512	288	
 pirpok2d1		pirpok2	Pirate Poker II (Version 2.2R, set 2)	2003		3	12	1	12	joy8way	60	R	H			512	288	
@@ -6852,9 +6852,9 @@ pitbossc		pitboss	The Pit Boss (Set 4)	1983		2	6	1	6	joy8way	76.293945	R	H			512
 pitbossm			Pit Boss Megastar (9244-00-01)	1994		1	7	1	7	joy8way	60	R	H			544	480	
 pitbossma		pitbossm	Pit Boss Megastar (9243-00-01)	1994		1	7	1	7	joy8way	60	R	H			544	480	
 pitbosss			Pit Boss Superstar	1990		1	7	1	7	joy8way	60	R	H			544	480	
-pitfall2			Pitfall II (315-5093)	1985	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	60.096154	R	H			256	224	
-pitfall2a		pitfall2	Pitfall II (315-5093, Flicky Conversion)	1985	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	60.096154	R	H			256	224	
-pitfall2u		pitfall2	Pitfall II (not encrypted)	1985	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	60.096154	R	H			256	224	
+pitfall2			Pitfall II (315-5093)	1985	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	60.096154	R	H			256	224	
+pitfall2a		pitfall2	Pitfall II (315-5093, Flicky Conversion)	1985	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	60.096154	R	H			256	224	
+pitfall2u		pitfall2	Pitfall II (not encrypted)	1985	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	60.096154	R	H			256	224	
 pitfallu	pitfall2		Pitfall II (not encrypted)	1985	Platform / Run Jump Scrolling			2			60	R	H	4	3	512	224	
 pitfigh3	pitfight		Pit Fighter (rev 3)	1990	Fighter / Versus			3			60	R	H	4	3	336	240	
 pitfighb	pitfight		Pit Fighter (bootleg)	1990	Fighter / Versus			3			60	R	H	4	3	336	240	
@@ -6888,7 +6888,7 @@ pktgaldxj		pktgaldx	Pocket Gal Deluxe (Japan v3.00)	1993	Sports / Pool	2	3	2	3	j
 pkunwar			Penguin-Kun Wars (US)	1985	Sports / Misc.	1	1	2	1	joy2way	60	R	H			256	192	
 pkunwarj		pkunwar	Penguin-Kun Wars (Japan)	1985	Sports / Misc.	1	1	2	1	joy2way	60	R	H			256	192	
 platoon			Vs. Platoon	1987	Platform / Shooter Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
-playball			PlayBall! (prototype)	1983	Ball &amp; Paddle / Jump and Touch	3	2	1		joy2way	60.096154	R	V			292	231	
+playball			PlayBall! (prototype)	1983	Ball & Paddle / Jump and Touch	3	2	1		joy2way	60.096154	R	V			292	231	
 playch10			PlayChoice-10 BIOS	1986	System / BIOS	2	2	2		joy8way	60	R	H	4	3	256	240	
 plctr13b	policetr		Police Trainer (Rev 1.3B)	1996	Shooter / Gun			2			60	R	H	4	3	394	240	
 plegends			Gogetsuji Legends (US, Ver. 95/06/20)	1995	Fighter / Versus	2	4	2	4	joy8way	57.550645	R	H			320	240	
@@ -6900,7 +6900,7 @@ pleiadsb2	pleiads		Pleiads (bootleg set 2)	1981	Shooter / Gallery			2				R	V	3	4
 pleiadsi	pleiads		Pleiads (Irecsa)	1981	Shooter / Gallery			2				R	V	3	4	256	208	
 pleiadsn	pleiads		Pleiads (Niemer S.A.)	1981	Shooter / Gallery			2				R	V	3	4	256	208	
 pleiadss	pleiads		Pleiads (Spanish bootleg)	1981	Shooter / Gallery			2				R	V	3	4	256	208	
-plgirls			Play Girls	1992	Ball &amp; Paddle / Breakout	2	2	2	2	joy8way	60	R	V			320	224	
+plgirls			Play Girls	1992	Ball & Paddle / Breakout	2	2	2	2	joy8way	60	R	V			320	224	
 plgirls2			Play Girls 2	1993	Shooter / Gallery	2	2	2	2	joy8way	60	R	V			320	224	
 plotting			Plotting (World set 1)	1989	Puzzle / Toss	2	1	2	1	joy8way	60	R	H			320	224	
 plottinga		plotting	Plotting (World set 2, Protected)	1989		2	1	2	1	joy8way	60	R	H			320	224	
@@ -6910,7 +6910,7 @@ plsmaswd		cpzn2	Plasma Sword (USA 980316)	1998		2	6	2	6	joy8way	60	R	H			640	480
 plsmaswda		plsmaswd	Plasma Sword (ASIA 980316)	1998		2	6	2	6	joy8way	60	R	H			640	480	
 pltkids			Pilot Kids (Model 2B, Revision A)	1998		2	4	2	4	joy8way	60	R	H			496	384	
 pltkidsa		pltkids	Pilot Kids (Model 2A)	1998	Shooter / Flying Horizontal	2	4	2	4	joy8way	60	R	H			496	384	
-plumppop			Plump Pop (Japan)	1987	Ball &amp; Paddle / Jump and Touch	2	2	2	2	dial	60	R	H			256	224	
+plumppop			Plump Pop (Japan)	1987	Ball & Paddle / Jump and Touch	2	2	2	2	dial	60	R	H			256	224	
 plusalph			Plus Alpha	1989	Shooter / Flying Vertical	2	2	2	2	joy8way	60	R	V			256	224	
 plygonet			Polygonet Commanders (ver UAA)	1993	Shooter / Driving 1st Person	1	4	1	4	vdoublejoy2way	60	R	V			368	256	
 pma			PMA Poker	1983	Casino / Cards	3	1	1	1	joy8way	60	R	H			464	248	
@@ -6977,7 +6977,7 @@ pootan		pooyan	Pootan	1982	Shooter / 3rd Person	2	1	2	1	vjoy2way	60	R	V			256	22
 pooyan			Pooyan	1982	Shooter / 3rd Person	2	1	2	1	vjoy2way	60	R	V			256	224	
 pooyans		pooyan	Pooyan (Stern Electronics)	1982	Shooter / 3rd Person	2	1	2	1	vjoy2way	60	R	V			256	224	
 popbingo			Pop Bingo	1996	Puzzle / Drop	2	4	2	4	joy8way	60	R	H			384	240	
-popbounc		neogeo	Pop 'n Bounce / Gapporin	1997	Ball &amp; Paddle / Breakout	2	3	2	3	dial	59.185606	R	H			320	224	
+popbounc		neogeo	Pop 'n Bounce / Gapporin	1997	Ball & Paddle / Breakout	2	3	2	3	dial	59.185606	R	H			320	224	
 popeye			Popeye (revision D)	1982	Platform / Run Jump	2	1	2	1	joy4way	60	R	H			512	448	
 popeyebl		popeye	Popeye (bootleg set 1)	1982	Platform / Run Jump	2	1	2	1	joy4way	60	R	H			512	448	
 popeyef		popeye	Popeye (revision F)	1982	Platform / Run Jump	2	1	2	1	joy4way	60	R	H			512	448	
@@ -6989,7 +6989,7 @@ popflame			Pop Flamer (protected)	1982	Maze / Shooter Small	1	1	2	1	joy4way	60	R
 popflamea		popflame	Pop Flamer (not protected)	1982	Maze / Shooter Small	1	1	2	1	joy4way	60	R	V			288	224	
 popflameb		popflame	Pop Flamer (hack?)	1982	Maze / Shooter Small	1	1	2	1	joy4way	60	R	V			288	224	
 popflamen		popflame	Pop Flamer (bootleg on Naughty Boy PCB)	1982	Maze / Shooter Small	1	1	2	1	joy4way	60	R	V			288	224	
-pop_hh		hardhead	Popper (Hard Head bootleg)	1988	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	59.1	R	H			256	224	
+pop_hh		hardhead	Popper (Hard Head bootleg)	1988	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	59.1	R	H			256	224	
 popn2			Pop'n Music 2 (ver JA-A)	1999	Rhythm / Misc.	1	9	1	9	dial	58	R	H			488	384	
 popn5			Pop'n Music 5	2000	Rhythm / Misc.	1	9	1		paddle	60.000000	R	H			640	480	
 popn7			Pop'n Music 7	2001	Rhythm / Misc.	1	9	1	9	paddle	60	R	H			640	480	
@@ -7018,8 +7018,8 @@ poundforj		poundfor	Pound for Pound (Japan)	1990	Sports / Boxing	2	2	2	2	trackba
 poundforu		poundfor	Pound for Pound (US)	1990	Sports / Boxing	2	2	2	2	trackball	55.017606	R	V			384	256	
 poundfou	poundfor		Pound for Pound (US)	1990	Sports / Boxing			2			55	R	V	3	4	384	256	
 pow			P.O.W. - Prisoners of War (US version 1)	1988	Fighter / 2.5D	2	3	2	3	joy8way	59.185606	R	H			256	224	
-powerbal			Power Balls	1994	Ball &amp; Paddle / Pong	2	2	2	2	joy8way	61	R	H			320	240	
-powerbals		powerbal	Power Balls (Super Slam conversion)	1994	Ball &amp; Paddle / Pong	2	2	2	2	joy8way	58	R	H			320	240	
+powerbal			Power Balls	1994	Ball & Paddle / Pong	2	2	2	2	joy8way	61	R	H			320	240	
+powerbals		powerbal	Power Balls (Super Slam conversion)	1994	Ball & Paddle / Pong	2	2	2	2	joy8way	58	R	H			320	240	
 powerdrv			Power Drive	1986	Driving / Race	3	4	3	4	joy8way	30	R	H			512	480	
 powerina	powerins		Power Instinct (USA, bootleg set 1)	1993	Fighter / Versus			2			60	R	H	4	3	320	224	
 powerins			Power Instinct (USA)	1993	Fighter / Versus	2	4	2	4	joy8way	56	R	H			320	224	
@@ -7110,8 +7110,8 @@ ptblank2			Point Blank 2 (GNB5/VER.A)	1999	Shooter / Gun	2	1	2	1	lightgun	60	R	H
 ptblnk2a		ptblank2	Point Blank 2 (GNB3/VER.A)	1999	Not Classified	4	1	2	1	lightgun	30	R	H			640	480	
 ptrmj			PT Reach Mahjong (Japan)	1979	Tabletop / Mahjong	2	1	1	1	paddle	60	R	H			256	224	
 pturn			Parallel Turn	1984	Sports / Skiing	2	3	2	3	joy8way	60	R	V			256	224	
-puchicar			Puchi Carat (Ver 2.02O 1997/10/29)	1997	Ball &amp; Paddle / Breakout	4	4	4	4	dial	58.97	R	H			320	232	
-puchicarj		puchicar	Puchi Carat (Ver 2.02J 1997/10/29)	1997	Ball &amp; Paddle / Breakout	4	4	4	4	dial	58.97	R	H			320	232	
+puchicar			Puchi Carat (Ver 2.02O 1997/10/29)	1997	Ball & Paddle / Breakout	4	4	4	4	dial	58.97	R	H			320	232	
+puchicarj		puchicar	Puchi Carat (Ver 2.02J 1997/10/29)	1997	Ball & Paddle / Breakout	4	4	4	4	dial	58.97	R	H			320	232	
 puckman			Puck Man (Japan set 1)	1980	Maze / Collect	2	1	2	1	joy4way	60.606061	R	V			288	224	
 puckmana		puckman	Puck Man (Japan set 2)	1980	Maze	2	1	2	1	joy4way	60.606061	R	V			288	224	
 puckmanb	puckman		Puck Man (bootleg set 1)	1980	Maze / Collect			2				R	V	3	4	288	224	
@@ -7263,7 +7263,7 @@ quartt2j	quartet		Quartet 2 (Japan, 8751 317-unknown)	1986	Maze / Shooter Large	
 quasar			Quasar (set 1)	1980	Shooter / Misc.	2	4	2	4	joy2way	50	R	V			223	240	
 quasara		quasar	Quasar (set 2)	1980	Shooter / Misc.	2	4	2	4	joy2way	50	R	V			223	240	
 queen			Queen?	2002?	Casino / Misc.	4	6	1		joy8way	60	R	H			512	256	
-quester			Quester (Japan)	1987	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60.60606	R	V			288	224	
+quester			Quester (Japan)	1987	Ball & Paddle / Breakout	2	1	2	1	dial	60.60606	R	V			288	224	
 questers			Quester Special Edition (Japan)	1987		2	1	2		dial	60.606060	R	V			288	224	
 quickjac			Quick Jack	1993	Casino / Misc.	6	1	2	1	lightgun	60	R	H			384	280	
 quidgrid			Ten Quid Grid (v1.2)	199?	Not Classified	4	7	1		trackball	50.000000	R	H			504	296	
@@ -7540,13 +7540,13 @@ rdftj		rdft	Raiden Fighters (Japan, earlier)	1996	Shooter / Flying Vertical	2	3	
 rdftu		rdft	Raiden Fighters (US, earlier)	1996	Shooter / Flying Vertical	2	3	2	3	joy8way	54	R	V			320	240	
 re900			Ruleta RE-900	1993	Casino / Roulette	2	8	1	8	joy8way	60	R	V			280	210	
 reactor			Reactor	1982	Maze / Shooter Small	2	2	1	2	trackball	61.419025	R	H			256	240	
-reaktor			Reaktor (Track & Field conversion)	1987	Ball &amp; Paddle / Breakout	2	1	1	1	joy8way	60	R	V			256	224	
+reaktor			Reaktor (Track & Field conversion)	1987	Ball & Paddle / Breakout	2	1	1	1	joy8way	60	R	V			256	224	
 realbrk			Billiard Academy Real Break (Europe)	1998	Sports / Pool	2	2	2	2	joy8way	60	R	H			320	224	
 realbrkj		realbrk	Billiard Academy Real Break (Japan)	1998	Sports / Pool	2	2	2	2	joy8way	60	R	H			320	224	
 realbrkk		realbrk	Billiard Academy Real Break (Korea)	1998	Sports / Pool	2	2	2	2	joy8way	60	R	H			320	224	
 rebus			Rebus	1995	Puzzle / Match	2	2	2	2	joy8way	60	R	H			368	240	
-recalh			Recalhorn (Ver 1.42J 1994/5/11, prototype)	1994	Platform / Run, Jump &amp; Scrolling	4	4	4	4	dial	58.97	R	H			320	232	
-recordbr			Recordbreaker (World)	1988	Sports / Track &amp; Field	2	3	2	3	trackball	60	R	H			320	240	
+recalh			Recalhorn (Ver 1.42J 1994/5/11, prototype)	1994	Platform / Run, Jump & Scrolling	4	4	4	4	dial	58.97	R	H			320	232	
+recordbr			Recordbreaker (World)	1988	Sports / Track & Field	2	3	2	3	trackball	60	R	H			320	240	
 redalert			Red Alert	1981	Shooter / Gallery	2	1	2	1	joy2way	60	R	V			256	240	
 redbaron			Red Baron (Revised Hardware)	1980	Shooter / Flying 1st Person	2	1	1		stick	45	V	H	4	3		0	
 redclash			Red Clash	1981	Shooter / Flying Vertical	2	1	2	1	joy8way	60	R	V			240	192	
@@ -7564,7 +7564,7 @@ redhawke		stagger1	Red Hawk (Excellent Co., Ltd)	1997	Shooter / Flying Vertical	
 redhawki		stagger1	Red Hawk (Italy)	1997	Shooter / Flying Vertical	2	2	2	2	joy8way	56	R	H			256	224	
 redhawkk	stagger1		Red Hawk (Korea)	1997	Shooter / Flying Vertical			2				R	V	3	4	256	224	
 redlin2p			Redline Racer (2 players)	1987	Driving / Race Track	2	6	2		pedal	60	R	V			320	240	
-redrobin			Red Robin	1986	Platform / Run, Jump &amp; Scrolling	2	2	1	2	joy2way	60	R	V			256	224	
+redrobin			Red Robin	1986	Platform / Run, Jump & Scrolling	2	2	1	2	joy2way	60	R	V			256	224	
 redufo			Defend the Terra Attack on the Red UFO	1981	Shooter / Gallery	2	1	2	1	joy2way	60.606061	R	V			768	224	
 redufob	redufo		Defend the Terra Attack on the Red UFO (bootleg, set 1)	1981	Shooter / Gallery	2	1	2		joy2way	60.606061	R	V	3	4	768	224	
 reelfun			Reel Fun (Version 7.03)	1986	Quiz / Questions in English	2	5	1	5	joy8way	60	R	H			416	224	
@@ -7630,7 +7630,7 @@ ridheroh		ridhero	Riding Hero (set 2)	1990	Driving / Motorbike	2	4	2	4	joy8way	5
 ridingf			Riding Fight (Ver 1.0O)	1992	Fighter / Vertical	4	4	4	4	dial	58.97	R	H			320	224	
 ridingfj		ridingf	Riding Fight (Ver 1.0J)	1992	Fighter / Vertical	4	4	4	4	dial	58.97	R	H			320	224	
 ridingfu		ridingf	Riding Fight (Ver 1.0A)	1992	Fighter / Vertical	4	4	4	4	dial	58.97	R	H			320	224	
-ridleofp			Riddle of Pythagoras (Japan)	1986	Ball &amp; Paddle / Breakout	2	2	2	2	dial	60	R	V			256	192	
+ridleofp			Riddle of Pythagoras (Japan)	1986	Ball & Paddle / Breakout	2	2	2	2	dial	60	R	V			256	192	
 rimrck12	rimrockn		Rim Rockin' Basketball (V1.2)	1991	Sports / Basketball			4			60	R	H	4	3	352	240	
 rimrck16	rimrockn		Rim Rockin' Basketball (V1.6)	1991	Sports / Basketball			4			60	R	H	4	3	352	240	
 rimrck20	rimrockn		Rim Rockin' Basketball (V2.0)	1991	Sports / Basketball			4			60	R	H	4	3	352	240	
@@ -7699,9 +7699,9 @@ roadriot			Road Riot 4WD (set 1, 04 Dec 1991)	1991	Driving / Race (chase view)	2
 roadrun1	roadrunn		Road Runner (rev 1)	1985	Platform / Run Jump Scrolling			1			60	R	H	4	3	336	240	
 roadrun2	roadrunn		Road Runner (rev 1+)	1985	Platform / Run Jump Scrolling			1			60	R	H	4	3	336	240	
 roadrunm		desertgu	Road Runner (Midway)	1977	Shooter / Gun	1	1	1	1	lightgun	59.541985	R	H			260	224	
-roadrunn		atarisy1	Road Runner (rev 2)	1985	Platform / Run, Jump &amp; Scrolling	3	3	1	3	stick	59.922743	R	H			336	240	
-roadrunn1		roadrunn	Road Runner (rev 1)	1985	Platform / Run, Jump &amp; Scrolling	3	3	1	3	stick	59.922743	R	H			336	240	
-roadrunn2		roadrunn	Road Runner (rev 1+)	1985	Platform / Run, Jump &amp; Scrolling	3	3	1	3	stick	59.922743	R	H			336	240	
+roadrunn		atarisy1	Road Runner (rev 2)	1985	Platform / Run, Jump & Scrolling	3	3	1	3	stick	59.922743	R	H			336	240	
+roadrunn1		roadrunn	Road Runner (rev 1)	1985	Platform / Run, Jump & Scrolling	3	3	1	3	stick	59.922743	R	H			336	240	
+roadrunn2		roadrunn	Road Runner (rev 1+)	1985	Platform / Run, Jump & Scrolling	3	3	1	3	stick	59.922743	R	H			336	240	
 robadv			Robin's Adventure (Version 1.7E Dual)	2004	Slot Machine / Video Slot	3	12	1	12	joy8way	60	R	H			512	288	
 robadv2			Robin's Adventure 2 (Version 1.7E Dual)	2004	Slot Machine / Video Slot	3	12	1	12	joy8way	60	R	H			512	288	
 robadv2c1		robadv2	Robin's Adventure 2 (Version 1.7R, set 1)	2004	Slot Machine / Video Slot	3	12	1	12	joy8way	60	R	H			512	288	
@@ -7974,7 +7974,7 @@ sandscrpa		sandscrp	Sand Scorpion (Earlier)	1992	Shooter / Flying Vertical	2	2	2
 sandscrpb		sandscrp	Kuai Da Shizi Huangdi (China?, Revised Hardware)	1992	Shooter / Flying Vertical	2	2	2	2	joy8way	60	R	V			256	224	
 sanjeon		sasissu	DaeJeon! SanJeon SuJeon (AJTUE 990412 V1.000)	1999	Multiplay / Mini-Games	2	6	4	6	joy8way	59.828244	R	H			320	224	
 sarge			Sarge	1985	Shooter / Field	2	2	2	2	vdoublejoy2way	30	R	H			512	480	
-sarukani		vblokbrk	Saru-Kani-Hamu-Zou (Japan)	1997	Ball &amp; Paddle / Breakout	2	3	2	3	dial	59.5971	R	H			320	240	
+sarukani		vblokbrk	Saru-Kani-Hamu-Zou (Japan)	1997	Ball & Paddle / Breakout	2	3	2	3	dial	59.5971	R	H			320	240	
 sasissu		stvbios	Taisen Tanto-R Sashissu!! (J 980216 V1.000)	1998	Multiplay / Mini-Games	2	6	4	6	joy8way	59.828244	R	H			320	224	
 sassisu			Taisen Tanto-R Sashissu!! (J 980216 V1.000)	1996	Unplayable			2			60	R	H	4	3	320	224	
 sasuke			Sasuke vs. Commander	1980	Shooter / 3rd Person	1	1	2	1	joy2way	61	R	V			256	224	
@@ -8016,8 +8016,8 @@ sbomber			Space Bomber (ver. B)	1998	Shooter / Gallery			2				R	V	3	4	320	224
 sbombera	sbomber		Space Bomber	1998	Shooter / Gallery			2				R	V	3	4	320	224	
 sbomberb			Space Bomber (ver. B)	1998	Shooter / Gallery	2	2	2	2	joy8way	60	R	V			320	224	
 sbowling			Strike Bowling	1982	Sports / Bowling	2	1	2	1	trackball	60	R	V			240	224	
-sbrkout			Super Breakout (rev 04)	1978	Ball &amp; Paddle / Breakout	2	1	1	1	paddle	60.114504	R	V			256	224	
-sbrkout3		sbrkout	Super Breakout (rev 03)	1978	Ball &amp; Paddle / Breakout	2	1	1	1	paddle	60.114504	R	V			256	224	
+sbrkout			Super Breakout (rev 04)	1978	Ball & Paddle / Breakout	2	1	1	1	paddle	60.114504	R	V			256	224	
+sbrkout3		sbrkout	Super Breakout (rev 03)	1978	Ball & Paddle / Breakout	2	1	1	1	paddle	60.114504	R	V			256	224	
 sbsgomo		bioship	Space Battle Ship Gomorrah	1990	Shooter / Flying Horizontal	2	2	2	2	joy8way	56	R	H			256	224	
 sbugger			Space Bugger (set 1)	1981	Shooter / Gallery	1	2	1	2	vjoy2way	60	R	V			512	256	
 sbuggera		sbugger	Space Bugger (set 2)	1981	Shooter / Gallery	1	2	1	2	vjoy2way	60	R	V			512	256	
@@ -8337,9 +8337,9 @@ sfish2			Sport Fishing 2 (UET 951106 V1.10e)	1995	Sports / Fishing	2	6	4	6	joy8w
 sfish2j		sfish2	Sport Fishing 2 (J 951201 V1.100)	1995	Sports / Fishing	2	6	4	6	joy8way	59.828244	R	H			320	224	
 sfj		sf	Street Fighter (Japan) (protected)	1987	Fighter / Versus	2	6	2	6	joy8way	60	R	H			384	224	
 sfjan	sf		Street Fighter (Japan, pneumatic buttons)	1987	Fighter / Versus			2				R	H	4	3	384	224	
-sfkick			Super Free Kick (set 1)	1988	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			544	480	
-sfkicka		sfkick	Super Free Kick (set 2)	198?	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			544	480	
-sflush			Straight Flush	1979	Ball &amp; Paddle / Breakout	1	1	1		paddle	59.541985	R	V			260	224	
+sfkick			Super Free Kick (set 1)	1988	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			544	480	
+sfkicka		sfkick	Super Free Kick (set 2)	198?	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			544	480	
+sflush			Straight Flush	1979	Ball & Paddle / Breakout	1	1	1		paddle	59.541985	R	V			260	224	
 sfootbal			Street Football (11/12/86)	1986	Sports / Football	2	1	2	1	stick	59.185606	R	H			256	240	
 sformula		tail2nos	Super Formula (Japan, set 1)	1989	Driving / Race	2	2	1	2	joy2way	60	R	V			320	240	
 sfp		sf	Street Fighter (prototype)	1987	Fighter / Versus	2	6	2	6	joy8way	60	R	H			384	224	
@@ -8598,7 +8598,7 @@ sitv1	invaders		Space Invaders (TV Version rev 1)	1978	Shooter / Gallery			2				
 sjcd2kx3		jollycrd	Super Joly 2000 - 3x	1985	Casino / Cards	2	4	1		trackball	60	R	H			384	232	
 sjryuko			Sukeban Jansi Ryuko (set 2, System 16B, FD1089B 317-5021)	1988	Tabletop / Mahjong	2	3	1		joy8way	60.054389	R	H			320	224	
 sjryuko1		sjryuko	Sukeban Jansi Ryuko (set 1, System 16A, FD1089B 317-5021)	1987	Tabletop / Mahjong	2	3	1		joy8way	60	R	H			320	224	
-skatekds		suprmrio	Vs. Skate Kids. (Graphic hack of Super Mario Bros.)	1988	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
+skatekds		suprmrio	Vs. Skate Kids. (Graphic hack of Super Mario Bros.)	1988	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
 skattv			Skat TV	1994	Casino / Misc.	6	1	2	1	lightgun	60	R	H			384	280	
 skattva		skattv	Skat TV (version TS3)	1995	Casino / Misc.	6	1	2	1	lightgun	60	R	H			384	280	
 skeetsht			Skeet Shot	1991	Shooter / Gun	4	3	0		joy8way	29.315197	R	H			400	300	
@@ -8732,8 +8732,8 @@ smoto16		smoto20	Super Moto (Italy, v1.6)	1996	Casino / Cards	1	2	1		joy8way	60	
 smoto20			Super Rider (Italy, v2.0)	1996	Casino / Cards	1	2	1		joy8way	60	R	H			512	224	
 smshilo			HI-LO Double Up Joker Poker	1983	Casino / Cards	3	1	1	1	joy8way	60	R	H			464	248	
 snakepit			Snake Pit	1984	Fighter / Field	2	1	1	1	trackball	59.185606	R	H			256	240	
-snakjack			Snacks'n Jaxson	1984	Ball &amp; Paddle / Misc.	2	1	1	1	trackball	59.185606	R	H			256	240	
-snapjack			Snap Jack	1982	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	60	R	H			240	192	
+snakjack			Snacks'n Jaxson	1984	Ball & Paddle / Misc.	2	1	1	1	trackball	59.185606	R	H			256	240	
+snapjack			Snap Jack	1982	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	60	R	H			240	192	
 snapper			Snapper (Korea)	1990	Maze / Collect	1	3	1	3	joy8way	60.054389	R	H			320	224	
 sncwgltd		aerofgts	Sonic Wings Limited (Japan)	1996	Shooter / Flying Vertical	4	3	4	3	joy8way	60	R	V			640	480	
 sngkace		samuraia	Sengoku Ace (Japan, set 1)	1993	Shooter / Flying Vertical	2	3	2	3	joy8way	59.3	R	V			320	224	
@@ -8779,10 +8779,10 @@ solomon			Solomon's Key (US)	1986	Puzzle / Maze	2	2	2	2	joy8way	60	R	H			256	224
 solomonj		solomon	Solomon no Kagi (Japan)	1986	Puzzle / Maze	2	2	2	2	joy8way	60	R	H			256	224	
 solrwarr	xsleena		Solar-Warrior (US)	1986	Platform / Shooter Scrolling			2				R	H	4	3	256	240	
 solvalou			Solvalou (SV1, Japan)	1991	Shooter / Flying 1st Person	2	4	1	4	stick	60	R	H			496	480	
-sonic			SegaSonic The Hedgehog (Japan, rev. C)	1992	Platform / Run, Jump &amp; Scrolling	3	1	3	1	trackball	60	R	H			416	224	
+sonic			SegaSonic The Hedgehog (Japan, rev. C)	1992	Platform / Run, Jump & Scrolling	3	1	3	1	trackball	60	R	H			416	224	
 sonicbom			Sonic Boom (FD1094 317-0053)	1987	Shooter / Flying Vertical	2	3	2	3	joy8way	60.054389	R	V			320	224	
 sonicbomd	sonicbom		Sonic Boom (bootleg of FD1094 317-0053 set)	1987	Shooter / Flying Vertical			2				R	V	3	4	320	224	
-sonicp		sonic	SegaSonic The Hedgehog (Japan, prototype)	1992	Platform / Run, Jump &amp; Scrolling	3	1	3	1	trackball	60	R	H			416	224	
+sonicp		sonic	SegaSonic The Hedgehog (Japan, prototype)	1992	Platform / Run, Jump & Scrolling	3	1	3	1	trackball	60	R	H			416	224	
 sonicwi		aerofgt	Sonic Wings (Japan)	1992	Shooter / Flying Vertical	2	2	2	2	joy8way	60	R	V			320	224	
 sonicwi2		neogeo	Aero Fighters 2 / Sonic Wings 2	1994	Shooter / Flying Vertical	2	4	2	4	joy8way	59.185606	R	H			320	224	
 sonicwi3		neogeo	Aero Fighters 3 / Sonic Wings 3	1995	Shooter / Flying Vertical	2	4	2	4	joy8way	59.185606	R	H			320	224	
@@ -8790,7 +8790,7 @@ sonofphx	repulse		Son of Phoenix (bootleg of Repulse)	1985	Shooter / Gallery	2	2
 sonson			Son Son	1984	Platform / Shooter Scrolling	2	1	2	1	joy8way	60	R	H			240	240	
 sonsonj		sonson	Son Son (Japan)	1984	Platform / Shooter Scrolling	2	1	2	1	joy8way	60	R	H			240	240	
 sos			SOS	1980	Shooter / Flying Vertical	1	1	2	1	joy2way	60.606061	R	V			272	224	
-sosterm			S.O.S.	1988	Platform / Run, Jump &amp; Scrolling	1	2	1	2	joy8way	50	R	H			256	256	
+sosterm			S.O.S.	1988	Platform / Run, Jump & Scrolling	1	2	1	2	joy8way	50	R	H			256	256	
 sothello			Super Othello	1986	Tabletop / Othello - Reversi	1	4	2	4	joy8way	60	R	H			544	480	
 sotsugyo			Sotsugyo Shousho	1995	Multiplay / Mini-Games	2	3	2	3	joy8way	58	R	H			320	240	
 soukobdx		boxyboy	Souko Ban Deluxe (Japan, SB1)	1990	Puzzle / Misc.	2	3	2	3	joy8way	60.60606	R	H			288	224	
@@ -8863,7 +8863,7 @@ spacfura	spacfury		Space Fury (revision A)	1981	Shooter / Field			2			40	V	H	4	3
 spacfury			Space Fury (revision C)	1981	Shooter / Field	2	2	2		joy2way	40	V	H	4	3		0	
 spacfurya	spacfury		Space Fury (revision A)	1981	Shooter / Field	2	2	2		joy2way	40.000000	V	H					
 spacfuryb	spacfury		Space Fury (revision B)	1981	Shooter / Field	2	2	2		joy2way	40.000000	V	H					
-spacwalk			Space Walk	1978	Ball &amp; Paddle / Jump and Touch	1	2	2		paddle	59.541985	R	H			260	224	
+spacwalk			Space Walk	1978	Ball & Paddle / Jump and Touch	1	2	2		paddle	59.541985	R	H			260	224	
 spang			Super Pang (World 900914)	1990	Shooter / 3rd Person	1	2	2	2	joy8way	57.42	R	H			384	240	
 spangbl		spang	Super Pang (World 900914, bootleg, set 1)	1990	Shooter / 3rd Person	1	2	2	2	joy8way	57.42	R	H			384	240	
 spangj		spang	Super Pang (Japan 901023)	1990	Shooter / 3rd Person	1	2	2	2	joy8way	57.42	R	H			384	240	
@@ -8918,9 +8918,9 @@ speedup			Speed Up (Version 1.20)	1996	Driving / Race (chase view)	2	5	2	5	pedal
 speglsht			Super Eagle Shot	1994	Sports / Golf	2	3	2	3	joy8way	60	R	H			320	224	
 spellbnd		sidewndr	Spellbound	1981?	Slot Machine / Video Slot	4	10	1	10	vjoy2way	60	R	V			512	256	
 spelnkrj	spelunkr		Spelunker (Japan)	1985	Platform / Run Jump Scrolling			2			55	R	H	4	3	384	256	
-spelunk2			Spelunker II - 23 no Kagi (Japan)	1986	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	55	R	H			384	256	
-spelunkr			Spelunker	1985	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	55	R	H			384	256	
-spelunkrj		spelunkr	Spelunker (Japan)	1985	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	55	R	H			384	256	
+spelunk2			Spelunker II - 23 no Kagi (Japan)	1986	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	55	R	H			384	256	
+spelunkr			Spelunker	1985	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	55	R	H			384	256	
+spelunkrj		spelunkr	Spelunker (Japan)	1985	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	55	R	H			384	256	
 spf2t			Super Puzzle Fighter II Turbo (Euro 960529)	1996	Puzzle / Drop	2	2	2	2	joy8way	59.629403	R	H			384	224	
 spf2ta		spf2t	Super Puzzle Fighter II Turbo (Asia 960529)	1996	Puzzle / Drop	2	2	2	2	joy8way	59.629403	R	H			384	224	
 spf2td	spf2t		Super Puzzle Fighter II Turbo (USA 960620 Phoenix Edition) (bootleg)	1996	Puzzle / Drop	2	2	2		joy8way	59.629403	R	H	4	3	384	224	
@@ -8943,7 +8943,7 @@ spikeofe			Spikeout Final Edition	1999	Fighter / 3D	2	4	2	4	joy8way	60	R	H			496
 spikeout			Spikeout (Revision C)	1998	Fighter / 3D	2	4	2	4	joy8way	60	R	H			496	384	
 spiker			Spiker	1986	Sports / Volleyball	2	1	2	1	trackball	59.185606	R	H			256	240	
 spikes91		pspikes	1991 Spikes (Italian bootleg, set 1)	1991	Sports / Volleyball	2	3	2	3	joy8way	60	R	H			320	224	
-spinkick		sfkick	Hec's Spinkick	1988	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	V			544	480	
+spinkick		sfkick	Hec's Spinkick	1988	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	V			544	480	
 spinlbrj	spinlbrk		Spinal Breakers (Japan)	1990	Shooter / 3rd Person			2			60	R	H	4	3	352	240	
 spinlbrk			Spinal Breakers (World)	1990	Shooter / 3rd Person	2	3	2	3	joy8way	60	R	H			352	240	
 spinlbrkj		spinlbrk	Spinal Breakers (Japan)	1990	Shooter / 3rd Person	2	3	2	3	joy8way	60	R	H			352	240	
@@ -9329,7 +9329,7 @@ supcrash		headon	Super Crash (bootleg of Head On)	1979	Maze / Driving	1	1	1	1	jo
 supdrapo			Super Draw Poker (set 1)	1983	Casino / Cards	4	11	2	11	joy8way	60	R	V			256	256	
 supdrapoa	supdrapo		Super Draw Poker (set 2)	1983	Casino / Cards	4	11	2		joy8way	60.000000	R	V			256	256	
 supdrapob	supdrapo		Super Draw Poker (bootleg)	1983	Casino / Cards	4	11	2		joy8way	60.000000	R	V			256	256	
-superbar		wiggie	Super Bar	1994	Ball &amp; Paddle / Breakout	2	2	2	2	joy8way	60	R	V			384	240	
+superbar		wiggie	Super Bar	1994	Ball & Paddle / Breakout	2	2	2	2	joy8way	60	R	V			384	240	
 superbik			Superbike	1983	Shooter / Driving Horizontal	2	2	2	2	joy8way	60	R	V			240	248	
 superbon			Agent Super Bond (Super Cobra conversion)	1985	Maze / Shooter Small	2	2	1	2	joy8way	60.606061	R	V			768	224	
 superbug			Super Bug	1977	Driving / Race	2	7	1	7	dial	60	R	V			320	240	
@@ -9372,16 +9372,16 @@ suprlocoo	suprloco		Super Locomotive	1982	Maze / Driving			2				R	H	4	3	240	224
 suprmatk		missile	Super Missile Attack (for rev 1)	1981	Shooter / Command	3	3	2	3	trackball	61.035156	R	H			256	231	
 suprmatkd		missile	Super Missile Attack (not encrypted)	1981	Shooter / Command	3	3	2	3	trackball	61.035156	R	H			256	231	
 suprmous		funnymou	Super Mouse	1982	Platform / Run Jump	1	1	2	1	joy8way	60.606061	R	V			256	224	
-suprmrio			Vs. Super Mario Bros. (set SM4-4 E)	1986	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
-suprmrioa		suprmrio	Vs. Super Mario Bros. (set ?, harder)	1986	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
-suprmriobl		suprmrio	Vs. Super Mario Bros. (bootleg with Z80, set 1)	1986	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
-suprmriobl2		suprmrio	Vs. Super Mario Bros. (bootleg with Z80, set 2)	1986	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
+suprmrio			Vs. Super Mario Bros. (set SM4-4 E)	1986	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
+suprmrioa		suprmrio	Vs. Super Mario Bros. (set ?, harder)	1986	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
+suprmriobl		suprmrio	Vs. Super Mario Bros. (bootleg with Z80, set 1)	1986	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
+suprmriobl2		suprmrio	Vs. Super Mario Bros. (bootleg with Z80, set 2)	1986	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	60	R	H			256	240	
 suprpkr1			Super Poker (Version 10.15S)	1986		1	9	1		joy8way	60.000000	R	H			416	224	
 suprpokr			Super Poker (Version 10.19S)	1986	Casino / Cards	1	9	1	9	joy8way	60	R	H			416	224	
 suprpool			Super Pool (ver. 1.2)	1998	Casino / Cards	5	2	1		joy8way	60	R	H			384	240	
-suprridr			Super Rider	1983	Platform / Run, Jump &amp; Scrolling	1	2	2	2	joy2way	60	R	V			256	224	
+suprridr			Super Rider	1983	Platform / Run, Jump & Scrolling	1	2	2	2	joy2way	60	R	V			256	224	
 suprslam			From TV Animation Slam Dunk - Super Slams	1995	Sports / Basketball	3	4	2	4	joy8way	60	R	H			320	224	
-suprtrio			Super Trio	1994	Platform / Run, Jump &amp; Scrolling	1	3	2	3	joy8way	60	R	H			320	240	
+suprtrio			Super Trio	1994	Platform / Run, Jump & Scrolling	1	3	2	3	joy8way	60	R	H			320	240	
 supxevs			Vs. Super Xevious	1986	Shooter / Flying Vertical	1	2	2	2	joy8way	60	R	H			256	240	
 suratk			Surprise Attack (World ver. K)	1990	Platform / Shooter Scrolling	2	2	2	2	joy8way	60	R	H			288	224	
 suratka		suratk	Surprise Attack (Asia ver. L)	1990	Platform / Shooter Scrolling	2	2	2	2	joy8way	60	R	H			288	224	
@@ -9470,7 +9470,7 @@ taitogn			Taito GNET	1997		4	3	4		joy8way	60.000000	R	H			640	480
 taitotz			Type Zero BIOS	1999		1	7	0>		keyboard	60.000000	R	H			512	384	
 taiwanmb			Taiwan Mahjong [BET] (Japan 881208)	1988	Tabletop / Mahjong	2	2	2		joy4way	60	R	H			512	224	
 takoron		naomigd	Noukone Puzzle Takoron (Japan) (GDL-0042)	2006	Puzzle / Misc.	2	6	2	6	joy8way	60	R	H			640	480	
-talbot			Talbot	1982	Maze / Collect &amp; Put	2	2	2	2	joy8way	60	R	V			256	224	
+talbot			Talbot	1982	Maze / Collect & Put	2	2	2	2	joy8way	60	R	V			256	224	
 tangtang			Tang Tang (ver. 0526, 26/05/2000)	2000	Platform / Run Jump	2	2	2	2	joy8way	60	R	H			320	240	
 tank8			Tank 8 (set 1)	1976	Maze / Shooter Small	8	1	8	1	vdoublejoy2way	60	R	H			480	464	
 tank8a		tank8	Tank 8 (set 2)	1976	Maze / Shooter Small	8	1	8	1	vdoublejoy2way	60	R	H			480	464	
@@ -9500,7 +9500,7 @@ targeth			Target Hits (ver 1.1, Checksum 5152)	1994	Shooter / Gun	2	2	2	2	lightg
 targetha		targeth	Target Hits (ver 1.1, Checksum 86E1)	1994	Shooter / Gun	2	2	2	2	lightgun	60	R	H			384	240	
 tarzan	tarzanc		Tarzan Chuang Tian Guan (V109C, set 2)	1999	Slot Machine / Video Slot	3	5	2	5	joy8way	60	R	H			512	240	
 tarzana	tarzanc	tarzan	Tarzan (V107)	1999	Slot Machine / Video Slot	3	5	2	5	joy8way	60	R	H			512	240	
-tattack			Time Attacker	1983?	Ball &amp; Paddle / Breakout	1	3	1	3	joy8way	60	R	V			256	256	
+tattack			Time Attacker	1983?	Ball & Paddle / Breakout	1	3	1	3	joy8way	60	R	V			256	256	
 tattass			Tattoo Assassins (US prototype, Mar 14 1995)	1994	Fighter / Versus	2	6	2	6	joy8way	60	R	H			320	240	
 tattassa		tattass	Tattoo Assassins (Asia prototype, Mar 14 1995)	1994	Fighter / Versus	2	6	2	6	joy8way	60	R	H			320	240	
 taxidrvr			Taxi Driver	1984	Maze / Driving	2	2	2	2	joy4way	60	R	V			256	208	
@@ -9508,7 +9508,7 @@ tazmani2		tazmania	Tazz-Mania (set 2, alt hardware)	1982	Shooter / Walking	2	2	2
 tazmania			Tazz-Mania (set 1)	1982	Shooter / Walking	2	2	2	2	joy8way	60.606061	R	V			768	224	
 tazzmang		tazmania	Tazz-Mania (bootleg on Galaxian hardware)	1982	Shooter / Walking	2	1	2	1	joy8way	60.606061	R	V			256	224	
 tazzmang2	tazmania		Tazz-Mania (bootleg on Galaxian hardware with Starfield)	1982	Shooter / Walking			2				R	V	3	4	256	224	
-tblkkuzu		tps	The Block Kuzushi (Japan)	2000	Ball &amp; Paddle / Breakout	4	3	4	3	joy8way	60	R	H			640	480	
+tblkkuzu		tps	The Block Kuzushi (Japan)	2000	Ball & Paddle / Breakout	4	3	4	3	joy8way	60	R	H			640	480	
 tbowl			Tecmo Bowl (World, set 1)	1987	Sports / Football	4	2	4	2	joy8way	60	R	H			256	224	
 tbowlj		tbowl	Tecmo Bowl (Japan)	1987	Sports / Football	4	2	4	2	joy8way	60	R	H			256	224	
 tbyahhoo		konamigx	Twin Bee Yahhoo! (ver JAA)	1995	Shooter / Flying Vertical	2	3	4	3	joy8way	59.185606	R	H			288	224	
@@ -9693,7 +9693,7 @@ thrilldb	thrilld		Thrill Drive (JAB)	1998	Driving / Race (chase view)	2	3	1		ped
 thunderh			Operation Thunder Hurricane (ver EAA)	1997	Shooter / Gun	2	3	2	3	joy8way	60	R	H			512	384	
 thunderhu		thunderh	Operation Thunder Hurricane (ver UAA)	1997	Shooter / Gun	2	3	2	3	joy8way	60	R	H			512	384	
 thunderj			ThunderJaws (rev 3)	1990	Shooter / Misc. Horizontal	3	2	2	2	joy8way	59.922743	R	H			336	240	
-thunderl			Thunder & Lightning	1990	Ball &amp; Paddle / Breakout	2	2	2	2	joy8way	60	R	V			384	240	
+thunderl			Thunder & Lightning	1990	Ball & Paddle / Breakout	2	2	2	2	joy8way	60	R	V			384	240	
 thunderx			Thunder Cross (set 1)	1988	Shooter / Flying Horizontal	2	2	2	2	joy8way	60	R	H			288	224	
 thunderxa		thunderx	Thunder Cross (set 2)	1988	Shooter / Flying Horizontal	2	2	2	2	joy8way	60	R	H			288	224	
 thunderxb		thunderx	Thunder Cross (set 3)	1988	Shooter / Flying Horizontal	2	2	2	2	joy8way	60	R	H			288	224	
@@ -9824,14 +9824,14 @@ tnextspc			The Next Space (set 1)	1989	Shooter / Flying Vertical	2	2	2	2	joy8way
 tnextspcj		tnextspc	The Next Space (Japan)	1989	Shooter / Flying Vertical	2	2	2	2	joy8way	60	R	V			256	224	
 tnk3			T.N.K III (US)	1985	Shooter / Driving Vertical	1	2	2	2	joy8way	60	R	V			288	216	
 tnk3j		tnk3	T.A.N.K (Japan)	1985	Shooter / Driving Vertical	1	2	2	2	joy8way	60	R	V			288	216	
-tnzs			The NewZealand Story (World, new version) (P0-043A PCB)	1988	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	59.15	R	H			256	224	
+tnzs			The NewZealand Story (World, new version) (P0-043A PCB)	1988	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	59.15	R	H			256	224	
 tnzs2	tnzs		The NewZealand Story 2 (World)	1988	Not Classified						60	R	H	4	3	256	224	
 tnzsb	tnzs		The NewZealand Story (World, bootleg)	1988	Not Classified						60	R	H	4	3	256	224	
-tnzsj		tnzs	The NewZealand Story (Japan, new version) (P0-043A PCB)	1988	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	59.15	R	H			256	224	
-tnzsjo		tnzs	The NewZealand Story (Japan, old version) (P0-041A PCB)	1988	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	59.15	R	H			256	224	
-tnzso		tnzs	The NewZealand Story (World, old version) (P0-041A PCB)	1988	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	59.15	R	H			256	224	
-tnzsop		tnzs	The NewZealand Story (World, prototype) (P0-041-1 PCB)	1988	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	59.15	R	H			256	224	
-tnzsuo	tnzs		The NewZealand Story (US, old version) (P0-041A PCB)	1988	Platform / Run, Jump &amp; Scrolling			2				R	H	4	3	256	224	
+tnzsj		tnzs	The NewZealand Story (Japan, new version) (P0-043A PCB)	1988	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	59.15	R	H			256	224	
+tnzsjo		tnzs	The NewZealand Story (Japan, old version) (P0-041A PCB)	1988	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	59.15	R	H			256	224	
+tnzso		tnzs	The NewZealand Story (World, old version) (P0-041A PCB)	1988	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	59.15	R	H			256	224	
+tnzsop		tnzs	The NewZealand Story (World, prototype) (P0-041-1 PCB)	1988	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	59.15	R	H			256	224	
+tnzsuo	tnzs		The NewZealand Story (US, old version) (P0-041A PCB)	1988	Platform / Run, Jump & Scrolling			2				R	H	4	3	256	224	
 todruaga			The Tower of Druaga (New Ver.)	1984	Maze / Collect	2	1	2	1	joy4way	60.606061	R	V			288	224	
 todruagao		todruaga	The Tower of Druaga (Old Ver.)	1984	Maze / Collect	2	1	2	1	joy4way	60.606061	R	V			288	224	
 todruagas		todruaga	The Tower of Druaga (Sidam)	1984	Maze / Collect	2	1	2	1	joy4way	60.606061	R	V			288	224	
@@ -9885,7 +9885,7 @@ toppyrap			Toppy & Rappy	1996	Platform / Run Jump	2	3	2	3	joy8way	57.5	R	H			256
 topracer		polepos	Top Racer (with MB8841 + MB8842, 1984)	1984	Driving / Race (chase view)	2	1	1	1	pedal	60.60606	R	H			256	224	
 topracera		polepos	Top Racer (with MB8841 + MB8842, 1983)	1983	Driving / Race (chase view)	2	1	1	1	pedal	60.60606	R	H			256	224	
 topracern		polepos	Top Racer (no MB8841 + MB8842)	1982	Driving / Race (chase view)	1	1	1	1	pedal	60.60606	R	H			256	224	
-toprollr			Top Roller	1983	Platform / Run, Jump &amp; Scrolling	3	1	2	1	joy8way	60	R	V			256	224	
+toprollr			Top Roller	1983	Platform / Run, Jump & Scrolling	3	1	2	1	joy8way	60	R	V			256	224	
 topsecex			Top Secret (Exidy) (version 1.0)	1986	Shooter / Driving	2	8	1	8	dial	60	R	H			320	236	
 topsecrt		bionicc	Top Secret (Japan, old revision)	1987	Platform / Shooter Scrolling	2	2	2	2	joy8way	60	R	H			256	224	
 topshoot			Top Shooter	1995	Sports / Basketball	2	4	1	4	joy8way	60	R	H			256	224	
@@ -9945,17 +9945,17 @@ tp84b		tp84	Time Pilot '84 (set 3)	1984	Shooter / Field	2	2	2	2	joy8way	60	R	V		
 tpgolf		neogeo	Top Player's Golf (NGM-003 ~ NGH-003)	1990	Sports / Golf	2	4	2	4	joy8way	59.185606	R	H			320	224	
 tpoker2			Turbo Poker 2	1993	Casino / Cards	3	1	1	1	joy8way	60	R	H			464	248	
 tps			TPS	1997	System / BIOS	4	3	4		joy8way	60	R	H	4	3	640	480	
-trackflc	trackfld		Track & Field (Centuri)	1983	Sports / Track &amp; Field			4			60	R	H	4	3	256	224	
-trackfld			Track & Field	1983	Sports / Track &amp; Field	2	3	4	3	joy8way	60	R	H			256	224	
-trackfldc		trackfld	Track & Field (Centuri)	1983	Sports / Track &amp; Field	2	3	4	3	joy8way	60	R	H			256	224	
-trackfldnz		trackfld	Track & Field (NZ bootleg?)	1982	Sports / Track &amp; Field	2	3	4	3	joy8way	60	R	H			256	224	
+trackflc	trackfld		Track & Field (Centuri)	1983	Sports / Track & Field			4			60	R	H	4	3	256	224	
+trackfld			Track & Field	1983	Sports / Track & Field	2	3	4	3	joy8way	60	R	H			256	224	
+trackfldc		trackfld	Track & Field (Centuri)	1983	Sports / Track & Field	2	3	4	3	joy8way	60	R	H			256	224	
+trackfldnz		trackfld	Track & Field (NZ bootleg?)	1982	Sports / Track & Field	2	3	4	3	joy8way	60	R	H			256	224	
 trailblz			Trail Blazer	1987	Quiz / Questions in English	4	3	1	3	joy2way	60	R	H			368	256	
 trally		neogeo	Thrash Rally (ALM-003 ~ ALH-003)	1991	Driving / Race	2	4	2	4	joy8way	59.185606	R	H			320	224	
 tranqgun			Tranquillizer Gun	1980	Maze / Shooter Small	1	1	2	1	joy4way	60	R	V			256	224	
 transfrm			Transformer	1986	Shooter / Flying Horizontal	2	2	1	2	joy8way	60	R	H			256	192	
 travrusa			Traverse USA / Zippy Race	1983	Driving / Motorbike	3	2	2	2	joy2way	56.75	R	V			240	256	
-trckydoc			Tricky Doc (set 1)	1987	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	55.72	R	H			240	224	
-trckydoca		trckydoc	Tricky Doc (set 2)	1987	Platform / Run, Jump &amp; Scrolling	2	2	2	2	joy8way	55.72	R	H			240	224	
+trckydoc			Tricky Doc (set 1)	1987	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	55.72	R	H			240	224	
+trckydoca		trckydoc	Tricky Doc (set 2)	1987	Platform / Run, Jump & Scrolling	2	2	2	2	joy8way	55.72	R	H			240	224	
 treahunt		jack	Treasure Hunt	1982	Climbing / Tree - Plant	2	2	2	2	joy8way	60	R	V			256	224	
 trebltop			Treble Top (39-360-070)	1991	Quiz / Questions in English	4	10	1	10	joy8way	50	R	H			512	256	
 trgheart		naomigd	Trigger Heart Exelica Ver.A (Japan) (GDL-0036A)	2006	Shooter / Flying Vertical	2	6	2	6	joy8way	60	R	V			640	480	
@@ -10113,7 +10113,7 @@ twinqix			Twin Qix (Ver 1.0A 1995/01/17, prototype)	1995	Puzzle / Outline	4	4	4	
 twins			Twins	1993	Puzzle / Match	2	2	2	2	joy8way	50	R	H			320	200	
 twinsa		twins	Twins (set 2)	1994	Puzzle / Match	2	2	2	2	joy8way	50	R	H			320	200	
 twinspri		neogeo	Twinkle Star Sprites	1996	Shooter / Flying Vertical	2	4	2	4	joy8way	59.185606	R	H			320	224	
-twinsqua			Twin Squash	1991	Ball &amp; Paddle / Breakout	2	1	2	1	dial	60	R	H			256	224	
+twinsqua			Twin Squash	1991	Ball & Paddle / Breakout	2	1	2	1	dial	60	R	H			256	224	
 twocrude		cbuster	Two Crude (US FT revision 1)	1990	Platform / Fighter Scrolling	3	3	2	3	joy8way	58	R	H			256	240	
 twocrudea	cbuster		Two Crude (US FT version)	1990	Platform / Fighter Scrolling			2				R	H	4	3	256	240	
 twotiger			Two Tigers (dedicated)	1984	Shooter / Field	2	3	2	3	stick	30	R	H			512	480	
@@ -10148,7 +10148,7 @@ umk3r10		umk3	Ultimate Mortal Kombat 3 (rev 1.0)	1994	Fighter / Versus	4	6	2	6	j
 umk3r11		umk3	Ultimate Mortal Kombat 3 (rev 1.1)	1994	Fighter / Versus	4	6	2	6	joy8way	54.81517	R	H			399	253	
 unclepoo			Uncle Poo	1983	Maze / Collect	2	2	2	2	joy8way	60	R	V			256	240	
 undefeat		naomigd	Under Defeat (Japan) (GDL-0035)	2005	Shooter / Flying Vertical	2	6	2	6	joy8way	60	R	V			640	480	
-undoukai		fieldday	The Undoukai (Japan)	1984	Sports / Track &amp; Field	2	3	4	3	joy4way	60	R	H			256	224	
+undoukai		fieldday	The Undoukai (Japan)	1984	Sports / Track & Field	2	3	4	3	joy4way	60	R	H			256	224	
 undrfire			Under Fire (World)	1993	Shooter / Gun	2	3	2	3	lightgun	60	R	H			320	232	
 undrfirej		undrfire	Under Fire (Japan)	1993	Shooter / Gun	2	3	2	3	lightgun	60	R	H			320	232	
 undrfireu		undrfire	Under Fire (US)	1993	Shooter / Gun	2	3	2	3	lightgun	60	R	H			320	232	
@@ -10222,14 +10222,14 @@ vastar			Vastar (set 1)	1983	Shooter / Flying Horizontal	3	2	2	2	joy8way	60	R	V	
 vastar2		vastar	Vastar (set 2)	1983	Shooter / Flying Horizontal	3	2	2	2	joy8way	60	R	V			256	224	
 vastar3	vastar		Vastar (set 3)	1983	Shooter / Flying Horizontal			2				R	V	3	4	256	224	
 vastar4	vastar		Vastar (set 4)	1983	Shooter / Flying Horizontal			2				R	V	3	4	256	224	
-vathlete		naomigd	Virtua Athletics / Virtua Athlete (GDS-0019)	2001	Sports / Track &amp; Field	2	6	2	6	joy8way	60	R	H			640	480	
+vathlete		naomigd	Virtua Athletics / Virtua Athlete (GDS-0019)	2001	Sports / Track & Field	2	6	2	6	joy8way	60	R	H			640	480	
 vautour		phoenix	Vautour (bootleg of Phoenix) (8085A CPU)	1980	Shooter / Gallery	1	2	2	2	joy2way	61.035156	R	V			256	208	
 vautourz		phoenix	Vautour (bootleg of Phoenix) (Z80 CPU)	1980	Shooter / Gallery	2	2	2	2	joy2way	61.035156	R	V			256	208	
 vautourza	phoenix		Vautour (bootleg of Phoenix) (Z80 CPU, single PROM)	1980	Shooter / Gallery			2				R	V	3	4	256	208	
 vball			U.S. Championship V'ball (US)	1988	Sports / Volleyball	2	2	4	2	joy8way	57.444853	R	H			256	240	
 vball2pj		vball	U.S. Championship V'ball (Japan)	1988	Sports / Volleyball	2	2	2	2	joy8way	57.444853	R	H			256	240	
 vballb		vball	U.S. Championship V'ball (bootleg of US set)	1988	Sports / Volleyball	2	2	4	2	joy8way	57.444853	R	H			256	240	
-vblokbrk		skns	VS Block Breaker (Europe)	1997	Ball &amp; Paddle / Breakout	2	3	2	3	dial	59.5971	R	H			320	240	
+vblokbrk		skns	VS Block Breaker (Europe)	1997	Ball & Paddle / Breakout	2	3	2	3	dial	59.5971	R	H			320	240	
 vbowl			Virtua Bowling (World, V101XCM)	1996	Sports / Bowling	2	3	2	3	trackball	60	R	H			512	240	
 vbowlj		vbowl	Virtua Bowling (Japan, V100JCM)	1996	Sports / Bowling	2	3	2	3	trackball	60	R	H			512	240	
 vcarn			Video Carnival 1999 / Super Royal Card (Version 0.11)	1998	Casino / Cards	2	2	1		joy8way	60.000000	R	H			512	240	
@@ -10467,9 +10467,9 @@ vulgusa	vulgus		Vulgus (set 2)	1984	Shooter / Flying Vertical			2				R	V	3	4	256
 vulgusj		vulgus	Vulgus (Japan?)	1984	Shooter / Flying Vertical	2	2	2	2	joy8way	60	R	V			256	224	
 wacko			Wacko	1982	Shooter / Field	2	1	2		trackball	30	R	H			512	480	
 wakuwak7		neogeo	Waku Waku 7	1996	Fighter / Versus	2	4	2	4	joy8way	59.185606	R	H			320	224	
-wallc			Wall Crash (set 1)	1984	Ball &amp; Paddle / Breakout	3	2	1	2	dial	60	R	H			256	256	
-wallca		wallc	Wall Crash (set 2)	1984	Ball &amp; Paddle / Breakout	3	2	1	2	dial	60	R	H			256	256	
-wallst			Wall Street	1982	Ball &amp; Paddle / Jump and Touch	2	1	2	1	joy8way	60	R	V			240	248	
+wallc			Wall Crash (set 1)	1984	Ball & Paddle / Breakout	3	2	1	2	dial	60	R	H			256	256	
+wallca		wallc	Wall Crash (set 2)	1984	Ball & Paddle / Breakout	3	2	1	2	dial	60	R	H			256	256	
+wallst			Wall Street	1982	Ball & Paddle / Jump and Touch	2	1	2	1	joy8way	60	R	V			240	248	
 wangmid		chihiro	Wangan Midnight Maximum Tune (Export, Rev B) (GDX-0009B)	2004	Driving / Race (chase view)	4	6	2		joy8way	60	R	H			640	480	
 wangmid2		chihiro	Wangan Midnight Maximum Tune 2 (Export, Rev A) (GDX-0016A)	2005	Driving / Race (chase view)	4	6	2		joy8way	60	R	H			640	480	
 wanted			Wanted	1984	Shooter / 3rd Person	2	1	2	1	joy8way	60	R	V			256	224	
@@ -10477,7 +10477,7 @@ wardner			Wardner (World)	1987	Platform / Fighter Scrolling	2	2	2	2	joy8way	56	R
 wardnerj		wardner	Wardner no Mori (Japan)	1987	Platform / Fighter Scrolling	2	2	2	2	joy8way	56	R	H			320	240	
 warfa			War: The Final Assault (EPROM 1.9 Mar 25 1999, GUTS 1.3 Apr 20 1999, GAME Apr 20 1999)	1999	Shooter / 1st Person	4	3	4	3	stick	57	R	H			640	480	
 wargods			War Gods (HD 10/09/1996 - Dual Resolution)	1995	Fighter / Versus	4	6	2	6	joy8way	57.349016	R	H			512	400	
-warlords			Warlords	1980	Ball &amp; Paddle / Breakout	2	1	4	1	paddle	60	R	H			256	240	
+warlords			Warlords	1980	Ball & Paddle / Breakout	2	1	4	1	paddle	60	R	H			256	240	
 warofbug			War of the Bugs or Monsterous Manouvers in a Mushroom Maze	1981	Shooter / Gallery	1	1	2	1	joy8way	60.606061	R	V			768	224	
 warofbugg	warofbug		War of the Bugs or Monsterous Manouvers in a Mushroom Maze (German)	1981	Shooter / Gallery	1	1	2		joy8way	60.606061	R	V			768	224	
 warofbugu	warofbug		War of the Bugs or Monsterous Manouvers in a Mushroom Maze (US)	1981	Shooter / Gallery			2				R	V	3	4	768	224	
@@ -10589,7 +10589,7 @@ whizz		twinfalc	Whizz	1989	Shooter / Flying Horizontal	2	2	2	2	joy8way	60	R	H			
 whodunit			Who Dunit (version 9.0)	1988	Shooter / Gun	2	1	1	1	lightgun	60	R	H			320	240	
 whoopee		pipibibs	Pipi & Bibis / Whoopee!! (Teki Paki hardware)	1991	Platform / Run Jump	2	2	2	2	joy8way	60	R	H			320	240	
 whp		neogeo	World Heroes Perfect	1995	Fighter / Versus	2	4	2	4	joy8way	59.185606	R	H			320	224	
-wiggie			Wiggie Waggie	1994	Ball &amp; Paddle / Breakout	2	2	2	2	joy8way	60	R	V			384	240	
+wiggie			Wiggie Waggie	1994	Ball & Paddle / Breakout	2	2	2	2	joy8way	60	R	V			384	240	
 wildfang			Wild Fang / Tecmo Knight	1989	Platform / Fighter Scrolling	2	3	2	3	joy8way	59.17	R	H			256	224	
 wildfangs	wildfang		Wild Fang	1989	Platform / Fighter Scrolling	2	3	2		joy8way	59.170000	R	H			256	224	
 wildplt			Wild Pilot	1992	Shooter / Gun	1	3	2	3	lightgun	30	R	H			256	224	
@@ -10598,7 +10598,7 @@ willowj		willow	Willow (Japan)	1989	Platform / Shooter Scrolling	2	3	2	3	joy8way
 willowje		willow	Willow (Japan, English)	1989	Platform / Shooter Scrolling	2	3	2	3	joy8way	59.61	R	H			384	224	
 willowu	willow		Willow (USA)	1989	Platform / Shooter Scrolling			2				R	H	4	3	384	224	
 willowuo	willow		Willow (USA Old Ver.)	1989	Platform / Shooter Scrolling			2				R	H	4	3	384	224	
-wilytowr			Wily Tower	1984	Platform / Run, Jump &amp; Scrolling	2	1	2	1	joy8way	60	R	H			256	224	
+wilytowr			Wily Tower	1984	Platform / Run, Jump & Scrolling	2	1	2	1	joy8way	60	R	H			256	224	
 winbingo			Win Win Bingo (set 1)	2005?	Casino / Misc.	2	5	1		joy8way	58.846000	R	H			320	240	
 winbingoa	winbingo		Win Win Bingo (set 2)	2005?	Casino / Misc.	2	5	1		joy8way	58.846000	R	H			320	240	
 windheat			Winding Heat (EAA, Euro v2.11)	1996	Driving / Race (chase view)	1	6	1	4	pedal	60	R	H			512	384	
@@ -10609,8 +10609,8 @@ wingwar			Wing War (World)	1994	Shooter / Flying 1st Person	1	7	1	7	pedal	57.524
 wingwara	wingwar	wingwar	Wing War	1994				1	7		57.52416	R	H			496	384	
 wingwarj	wingwar		Wing War (Japan)	1994	Shooter / Flying 1st Person	1	7	1		pedal	57.524160	R	H			496	384	
 wingwaru	wingwar		Wing War (US)	1994	Shooter / Flying 1st Person	1	7	1		pedal	57.524160	R	H			496	384	
-wink			Wink (set 1)	1985	Ball &amp; Paddle / Breakout	3	3	1	3	dial	60	R	H			256	256	
-winka		wink	Wink (set 2)	1985	Ball &amp; Paddle / Breakout	3	3	1	3	dial	60	R	H			256	256	
+wink			Wink (set 1)	1985	Ball & Paddle / Breakout	3	3	1	3	dial	60	R	H			256	256	
+winka		wink	Wink (set 2)	1985	Ball & Paddle / Breakout	3	3	1	3	dial	60	R	H			256	256	
 winrun			Winning Run (World) (89/06/06, Ver.09)	1988	Driving / Race 1st Person	2	2	1	2	stick	60	R	H			496	480	
 winrun91			Winning Run '91 (Japan) (1991/03/05, Main Ver 1.0, Sub Ver 1.0)	1991	Driving / Race 1st Person	2	2	1	2	stick	60	R	H			496	480	
 winspike		konamigx	Winning Spike (ver EAA)	1997	Sports / Volleyball	2	3	4	3	joy8way	59.185606	R	H			384	224	
@@ -10647,7 +10647,7 @@ wldcourt			World Court (Japan)	1988	Sports / Tennis	2	3	2	3	joy8way	60.60606	R	H
 wldkicks			World Kicks	2000		2	6	2		joy8way	60.000000	R	H			640	480	
 wldrider		naomi2	Wild Riders	2001	Driving / Motorbike	2	6	2	6	joy8way	60	R	H			640	480	
 wlstar			Wonder League Star - Sok-Magicball Fighting (Korea)	1995	Sports / Baseball	2	3	2	3	joy8way	60	R	H			320	240	
-wmatch			Water Match (315-5064)	1984	Sports / Track &amp; Field	2	1	2	1	doublejoy8way	60.096154	R	V			240	224	
+wmatch			Water Match (315-5064)	1984	Sports / Track & Field	2	1	2	1	doublejoy8way	60.096154	R	V			240	224	
 wndrmomo			Wonder Momo	1987	Fighter / 2D	2	2	2	2	joy4way	60.60606	R	H			288	224	
 wndrplnt			Wonder Planet (Japan)	1987	Shooter / Flying Vertical	2	2	2	3	joy8way	60	R	V			256	240	
 wof			Warriors of Fate (World 921031)	1992	Fighter / 2.5D	3	2	3	2	joy8way	59.61	R	H			384	224	
@@ -10902,7 +10902,7 @@ zigzagb2	zigzagb		Zig Zag (Dig Dug conversion on Galaxian hardware, bootleg set 
 zingzip			Zing Zing Zip	1992	Shooter / Flying Vertical	1	2	2	2	joy8way	60	R	V			384	240	
 zintrckb		neogeo	Zintrick / Oshidashi Zentrix (bootleg of CD version)	1996	Puzzle / Toss	2	4	2	4	joy8way	59.185606	R	H			320	224	
 zintrkcd												R	H	4	3	320	224	
-zipzap			Zip & Zap	1995	Ball &amp; Paddle / Breakout	2	3	2	3	joy8way	60	R	V			256	224	
+zipzap			Zip & Zap	1995	Ball & Paddle / Breakout	2	3	2	3	joy8way	60	R	V			256	224	
 znpwfv		stvbios	Zen Nippon Pro-Wrestling Featuring Virtua (J 971123 V1.000)	1997	Sports / Wrestling	2	6	4	6	joy8way	59.828244	R	H			320	224	
 zoar			Zoar	1982	Shooter / Flying Vertical	2	3	2	3	joy8way	57.444853	R	V			256	240	
 zodiack			Zodiack	1983	Shooter / Flying Vertical	1	1	2	1	joy8way	60	R	V			256	224	
