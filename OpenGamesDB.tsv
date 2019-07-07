@@ -1,4 +1,4 @@
-game.cloneof	game.romof	game.name	game.year	game.genre	game.coinslots	game.control.buttons	game.control.count	game.controller	game.control.type	monitor.freq	monitor.type	monitor.orientation	monitor.ratio.horizontal	monitor.ratio.vertical	monitor.resolution.horizontal	monitor.resolution.vertical
+game.rom	game.cloneof	game.romof	game.name	game.year	game.genre	game.coinslots	game.control.buttons	game.control.count	game.controller	game.control.type	monitor.freq	monitor.type	monitor.orientation	monitor.ratio.horizontal	monitor.ratio.vertical	monitor.resolution.horizontal	monitor.resolution.vertical
 005			005	1981	Maze / Shooter Small	2	1	2		joy4way	60	R	V	3	4	256	224	
 10yard			10-Yard Fight (World, set 1)	1983	Sports / Football	2	2	2	2	joy8way	56.737589	R	H			256	224	
 10yard85	10yard		10-Yard Fight '85 (US, Taito license)	1985	Sports / Football	2	2	2		joy8way	56.737589	R	H			256	224	
