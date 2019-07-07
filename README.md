@@ -1,4 +1,4 @@
-#OpenGamesDB
+# OpenGamesDB
 
 I wasn't able to find something I could easily query to generate configs/etc that I wanted... so I took a ton of data I found & normalied it.
 
