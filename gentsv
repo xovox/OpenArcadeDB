@@ -2,10 +2,10 @@
 
 ##############################################################################
 #
-# gentsv (c) 2019 duncan brown (http://github.com/xovox/OpenGamesDB
+# gentsv (c) 2019 duncan brown (http://github.com/xovox/OpenArcadeDB
 #
 # This is a simple script to demonstrate a single type of usefullness of the
-# OpenGamesDB.  It generates a .tsv file to stdout that's suitable for
+# OpenArcadeDB.  It generates a .tsv file to stdout that's suitable for
 # importing to many spreadsheet applications.
 #
 ##############################################################################
