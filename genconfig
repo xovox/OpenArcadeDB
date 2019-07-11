@@ -1,5 +1,12 @@
 #!/bin/bash
 
+##############################################################################
+# genconfig (c) 2019 duncan brown (http://github.com/xovox/OpenArcadeDB
+#
+# This is an example script to generate RetroArch configs on a per-rom basis
+# for CRT gaming.
+##############################################################################
+
 resolution="$(cat $1/monitor.resolution.vertical)"
 rotation="$(cat $1/monitor.orientation)"
 outputfile="$resolution.$rotation.cfg"
