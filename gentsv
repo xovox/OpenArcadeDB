@@ -1,5 +1,15 @@
 #!/bin/bash
 
+##############################################################################
+#
+# gentsv (c) 2019 duncan brown (http://github.com/xovox/OpenGamesDB
+#
+# This is a simple script to demonstrate a single type of usefullness of the
+# OpenGamesDB.  It generates a .tsv file to stdout that's suitable for
+# importing to many spreadsheet applications.
+#
+##############################################################################
+
 fields="
 game.cloneof
 game.romof
@@ -30,22 +40,3 @@ for game in * ; do
 done
 
 exit
-game.cloneof
-game.coinslots
-game.control.buttons
-game.control.count
-game.controller
-game.control.type
-game.genre
-game.name
-game.players
-game.players.buttons
-game.romof
-game.year
-monitor.freq
-monitor.orientation
-monitor.ratio.horizontal
-monitor.ratio.vertical
-monitor.resolution.horizontal
-monitor.resolution.vertical
-monitor.type
