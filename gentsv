@@ -11,23 +11,22 @@
 ##############################################################################
 
 fields="
-game.cloneof
-game.romof
 game.name
 game.year
 game.genre
+game.romof
+game.cloneof
 game.coinslots
 game.control.buttons
 game.control.count
-game.controller
 game.control.type
 monitor.freq
-monitor.type
 monitor.orientation
 monitor.ratio.horizontal
 monitor.ratio.vertical
 monitor.resolution.horizontal
 monitor.resolution.vertical
+monitor.type
 "
 
 echo game.rom $fields | sed 's/ /	/g'
