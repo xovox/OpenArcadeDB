@@ -19,6 +19,7 @@ yieartf
 ├── game.control.type
 ├── game.genre
 ├── game.name
+├── game.publisher
 ├── game.year
 ├── monitor.freq
 ├── monitor.orientation
@@ -39,6 +40,7 @@ game.control.count		2
 game.control.type		joy8way
 game.genre			Fighter / Versus
 game.name			Yie Ar Kung-Fu (GX361 conversion)
+game.publisher			Konami
 game.year			1985
 monitor.freq			60.000000
 monitor.orientation		H
