@@ -1,5 +1,7 @@
 # OpenArcadeDB
 
+Currently tracking 148,300 attributes of 10,925 games!
+
 I wasn't able to find something I could easily query to generate configs/etc that I wanted... so I took a ton of data I found & normalized it.
 
 The structure is very simple. Each game has a directory, and then there are several files within that describe aspects of that game.
