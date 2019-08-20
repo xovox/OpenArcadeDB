@@ -10,16 +10,19 @@
 #
 ##############################################################################
 
-fields="
+columns="
 game.name
+game.publisher
 game.year
 game.genre
 game.romof
+game.bios
 game.cloneof
 game.coinslots
 game.control.buttons
 game.control.count
 game.control.type
+monitor.count
 monitor.freq
 monitor.orientation
 monitor.ratio.horizontal
@@ -29,10 +32,10 @@ monitor.resolution.vertical
 monitor.type
 "
 
-echo game.rom $fields | sed 's/ /	/g'
+echo game.rom $columns | sed 's/ /	/g'
 for game in * ; do
 	echo -n "$game	"
-	for field in $fields ; do
+	for field in $columns ; do
 		echo -n "$(cat "$game/$field" 2> /dev/null)	"
 	done
 	echo
