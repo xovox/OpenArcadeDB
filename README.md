@@ -1,6 +1,6 @@
 # OpenArcadeDB
 
-Currently tracking 148,300 attributes of 10,925 games!
+Currently tracking 205,960 attributes of 16,657 games, BIOS & platforms!
 
 I wasn't able to find something I could easily query to generate configs/etc that I wanted... so I took a ton of data I found & normalized it.
 
