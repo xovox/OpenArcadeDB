@@ -1,0 +1,28 @@
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=en_US.UTF-8,Utf16=on,HugeFiles=on,64 bits,2 CPUs Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz (506E3),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1881505 bytes (1838 KiB)
+
+Listing archive: OpenArcadeDB.20210428.7z
+
+--
+Path = OpenArcadeDB.20210428.7z
+Type = 7z
+Physical Size = 1881505
+Headers Size = 293
+Method = LZMA2:48m
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2021-04-28 19:36:12 D....            0            0  OpenArcadeDB.20210428
+2021-04-28 17:07:28 ....A      2074461      1881212  OpenArcadeDB.20210428/OpenArcadeDB_DOS.20210428.tsv
+2021-04-28 17:07:28 ....A     16142646               OpenArcadeDB.20210428/OpenArcadeDB_DOS.20210428.txt
+2021-04-28 17:07:25 ....A      2057803               OpenArcadeDB.20210428/OpenArcadeDB_Linux.20210428.tsv
+2021-04-28 17:07:28 ....A     15936690               OpenArcadeDB.20210428/OpenArcadeDB_Linux.20210428.txt
+2019-12-19 11:43:41 ....A           52               OpenArcadeDB.20210428/README.txt
+------------------- ----- ------------ ------------  ------------------------
+2021-04-28 19:36:12           36211652      1881212  5 files, 1 folders
