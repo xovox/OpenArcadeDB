@@ -1,0 +1,75 @@
+#!/bin/bash
+
+##############################################################################
+#
+# gentsv (c) 2019 duncan brown (http://github.com/xovox/OpenArcadeDB
+#
+# This is a simple script to demonstrate a single type of usefullness of the
+# OpenArcadeDB.  It generates a .tsv file to stdout that's suitable for
+# importing to many spreadsheet applications.
+#
+##############################################################################
+
+columns="
+game.name
+game.name.short
+game.publisher
+game.year
+game.genre
+game.romof
+game.bios
+game.cloneof
+game.coinslots
+game.control.buttons
+game.control.count
+game.control.type
+monitor.count
+monitor.freq
+monitor.orientation
+monitor.ratio.horizontal
+monitor.ratio.vertical
+monitor.resolution.horizontal
+monitor.resolution.vertical
+monitor.type
+"
+
+geninfo() {
+    echo -n "$game	"
+    for field in $columns ; do
+        echo -n "$(cat "$game/$field" 2> /dev/null)	"
+    done
+    echo
+}
+
+tempdir=$(mktemp -d)
+targetdir=$PWD/OpenArcadeDB.$(date +%Y%m%d)
+mkdir -pv $targetdir
+clearline="$(tput el)"
+
+gamecount="$(find games -mindepth 1 -maxdepth 1 | wc -l)"
+gamenum=0
+pushd games
+for game in * ; do
+    gamenum=$[ $gamenum + 1 ]
+    echo -en "$clearline ($gamenum/$gamecount)	$game\r"
+    geninfo > $tempdir/$game &
+    while [ "$(jobs | wc -l)" -ge 100 ]; do
+        sleep 1
+    done
+done
+
+echo "assembling tsv"
+
+{
+    echo game.rom $columns | sed 's/ /	/g'
+    cat $tempdir/*
+}  > $targetdir/OpenArcadeDB_Linux.$(date +%Y%m%d).tsv
+
+egrep -ris . * | sed 's/:/ /' | column -t -s'      ' > $targetdir/OpenArcadeDB_Linux.$(date +%Y%m%d).txt
+unix2dos < $targetdir/OpenArcadeDB_Linux.$(date +%Y%m%d).tsv > $targetdir/OpenArcadeDB_DOS.$(date +%Y%m%d).tsv
+unix2dos < $targetdir/OpenArcadeDB_Linux.$(date +%Y%m%d).txt > $targetdir/OpenArcadeDB_DOS.$(date +%Y%m%d).txt
+popd
+
+echo "Obtained from https://github.com/xovox/OpenArcadeDB" > $targetdir/README.txt
+
+exit
