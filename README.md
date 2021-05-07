@@ -6,6 +6,10 @@ I wasn't able to find something I could easily query to generate configs/etc tha
 
 Currently I'm only tracking arcade data, though console data is forthcoming
 
+# Downloading
+
+Check out https://github.com/xovox/OpenVGDB/releases
+
 # Compiled Files
 
 I've compiled several files for quick searches of the data:
