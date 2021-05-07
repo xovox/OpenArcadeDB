@@ -33,6 +33,37 @@ monitor.resolution.vertical
 monitor.type
 "
 
+
+# sqlite doesn't like dots in column names
+sqlite_columns="$(sed 's/\./_/g' <<< "$columns")"
+
+# column types for sqlite
+declare -A sqlite_column_type="(
+[game_rom]="text"
+[game_name]="text"
+[game_name_short]="text"
+[game_publisher]="text"
+[game_year]="int"
+[game_genre]="text"
+[game_romof]="text"
+[game_bios]="text"
+[game_cloneof]="text"
+[game_coinslots]="int"
+[game_control_buttons]="int"
+[game_control_count]="int"
+[game_control_type]="text"
+[monitor_count]="int"
+[monitor_freq]="real"
+[monitor_orientation]="text"
+[monitor_ratio_horizontal]="int"
+[monitor_ratio_vertical]="int"
+[monitor_resolution_horizontal]="int"
+[monitor_resolution_vertical]="int"
+[monitor_type]="text"
+)"
+
+
+
 geninfo() {
     echo -n "$game	"
     for field in $columns ; do
@@ -41,14 +72,16 @@ geninfo() {
     echo
 }
 
-tempdir=$(mktemp -d)
-targetdir=$PWD/OpenArcadeDB.$(date +%Y%m%d)
+today=$(date +%Y%m%d)
+
+tempdir=$(mktemp -d /dev/shm/OpenArcade-XXX)
+targetdir=$PWD/OpenVGDB.$today
 mkdir -pv $targetdir
 clearline="$(tput el)"
 
-gamecount="$(find games -mindepth 1 -maxdepth 1 | wc -l)"
+gamecount="$(find arcade -mindepth 1 -maxdepth 1 | wc -l)"
 gamenum=0
-pushd games
+pushd arcade
 for game in * ; do
     gamenum=$[ $gamenum + 1 ]
     echo -en "$clearline ($gamenum/$gamecount)	$game\r"
@@ -58,17 +91,43 @@ for game in * ; do
     done
 done
 
-echo "assembling tsv"
+echo
 
+echo "assembling arcade tsv base"
+
+cat $tempdir/* \
+    | sort \
+    | sed 's/	$//' \
+        > $targetdir/OpenArcadeDB_Linux.$today.tsv.tmp
+
+echo "generating arcade db table"
 {
-    echo game.rom $columns | sed 's/ /	/g'
-    cat $tempdir/*
-}  > $targetdir/OpenArcadeDB_Linux.$(date +%Y%m%d).tsv
+    echo -n "create table arcade ("
+    for column in game_rom $sqlite_columns ; do
+        echo -n "$column ${sqlite_column_type[$column]}	"
+    done | sed 's/	$//;s/	/, /g'
+    echo ");"
+cat << EOF
+.separator "\t"
+.import $targetdir/OpenArcadeDB_Linux.$today.tsv.tmp arcade
+EOF
+} | sqlite3 $targetdir/OpenVGDB.sqlite3
 
-egrep -ris . * | sed 's/:/ /' | column -t -s'      ' > $targetdir/OpenArcadeDB_Linux.$(date +%Y%m%d).txt
-unix2dos < $targetdir/OpenArcadeDB_Linux.$(date +%Y%m%d).tsv > $targetdir/OpenArcadeDB_DOS.$(date +%Y%m%d).tsv
-unix2dos < $targetdir/OpenArcadeDB_Linux.$(date +%Y%m%d).txt > $targetdir/OpenArcadeDB_DOS.$(date +%Y%m%d).txt
+echo "assembling final tsv"
+{
+echo $game.rom $columns | sed 's/ /	/g'
+cat $targetdir/OpenArcadeDB_Linux.$today.tsv.tmp 
+} > $targetdir/OpenArcadeDB_Linux.$today.tsv
+
+echo "generating line by line breakdown"
+egrep -ris . * | sed 's/:/	/' | column -t -s'	' > $targetdir/OpenArcadeDB_Linux.$today.txt
+
+# generating dos friendly versions
+unix2dos < $targetdir/OpenArcadeDB_Linux.$today.tsv > $targetdir/OpenArcadeDB_DOS.$today.tsv
+unix2dos < $targetdir/OpenArcadeDB_Linux.$today.txt > $targetdir/OpenArcadeDB_DOS.$today.txt
 popd
+
+rm -fv $targetdir/*tmp
 
 echo "Obtained from https://github.com/xovox/OpenArcadeDB" > $targetdir/README.txt
 
