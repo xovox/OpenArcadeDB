@@ -23,6 +23,7 @@ game.coinslots
 game.control.buttons
 game.control.count
 game.control.type
+game.mature
 monitor.count
 monitor.freq
 monitor.orientation
@@ -52,6 +53,7 @@ declare -A sqlite_column_type="(
 [game_control_buttons]="int"
 [game_control_count]="int"
 [game_control_type]="text"
+[game_mature]="text"
 [monitor_count]="int"
 [monitor_freq]="real"
 [monitor_orientation]="text"
@@ -72,7 +74,7 @@ geninfo() {
     echo
 }
 
-today=$(date +%Y%m%d)
+today=$(date +%Y%m%d_%H%M)
 
 tempdir=$(mktemp -d /dev/shm/OpenArcade-XXX)
 targetdir=$PWD/OpenVGDB.$today
@@ -84,7 +86,7 @@ gamenum=0
 pushd arcade
 for game in * ; do
     gamenum=$[ $gamenum + 1 ]
-    echo -en "$clearline ($gamenum/$gamecount)	$game\r"
+    echo -en "$clearline ($gamenum/$gamecount | $[ ${gamenum}00 / $gamecount ]%)	$game\r"
     geninfo > $tempdir/$game &
     while [ "$(jobs | wc -l)" -ge 100 ]; do
         sleep 1
@@ -111,7 +113,7 @@ cat << EOF
 .separator "\t"
 .import $targetdir/OpenArcadeDB_Linux.$today.tsv.tmp arcade
 EOF
-} | sqlite3 $targetdir/OpenVGDB.sqlite3
+} | sqlite3 $targetdir/OpenVGDB_$today.sqlite3
 
 echo "assembling final tsv"
 {

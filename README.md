@@ -1,8 +1,9 @@
 # OpenVGDB
 
-The Open Video Game DataBase is currently tracking 205,960 attributes of 16,657 games, BIOS & platforms!
+The Open Video Game DataBase is currently tracking 333,893 attributes of 16,750 games, BIOS & platforms!
 
-I wasn't able to find something I could easily query to generate configs/etc that I wanted... so I took a ton of data I found & normalized it.
+I wasn't able to find something I could easily query to generate configs/etc that I wanted...
+so I took a ton of data I found & normalized it.
 
 Currently I'm only tracking arcade data, though console data is forthcoming
 
@@ -27,6 +28,7 @@ select monitor_resolution_horizontal from arcade where game_rom = "mspacman";
 select monitor_freq from arcade where game_rom = "mspacman";
 select game_name from arcade where game_year between 1981 and 1982;
 select game_rom from arcade where game_publisher = "Capcom";
+select game_rom from arcade where game_mature = "TRUE";
 ```
 
 Or you can get more specific
@@ -78,33 +80,39 @@ sys     0m0.013s
 
 # Directory/File Structure
 
-For ease of change tracking in GitHub.com, I elected to use separate text files for each data point.
+For ease of management & tracking changes/additions in GitHub.com, I elected to use separate files for each datapoint.
+While this makes generation of the actual SQLite3 DB & TSV files, it takes 4m30s on my relatively old i5-4278U @ 2.6GHz.
 
-The structure is very simple. Each game has a directory, and then there are several files within that describe aspects of that game.
+Each game has a directory, and then there are several files within that describe aspects of that game.
 
-The basic structure is pretty self-explanatory.  Here's an example tree for a game.  It's missing game.romof, which is typically a BIOS.
+The basic structure is pretty self-explanatory.
+Here's an example tree for a game:
 
 ~~~~
-yieartf
-├── game.cloneof
-├── game.coinslots
-├── game.control.buttons
-├── game.control.count
-├── game.control.type
-├── game.genre
-├── game.name
-├── game.publisher
-├── game.year
-├── monitor.freq
-├── monitor.orientation
-├── monitor.ratio.horizontal
-├── monitor.ratio.vertical
-├── monitor.resolution.horizontal
-├── monitor.resolution.vertical
-└── monitor.type
+game.name
+game.name.short
+game.publisher
+game.year
+game.genre
+game.romof
+game.bios
+game.cloneof
+game.coinslots
+game.control.buttons
+game.control.count
+game.control.type
+game.mature
+monitor.count
+monitor.freq
+monitor.orientation
+monitor.ratio.horizontal
+monitor.ratio.vertical
+monitor.resolution.horizontal
+monitor.resolution.vertical
+monitor.type
 ~~~~
 
-And here's the contents of those individual files:
+And here's an example of the contents of those individual files:
 
 ~~~~
 game.cloneof			yiear
