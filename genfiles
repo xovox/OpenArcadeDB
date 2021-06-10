@@ -10,6 +10,11 @@
 #
 ##############################################################################
 
+required_packages="
+dos2unix
+sqlite3
+"
+
 columns="
 game.name
 game.name.short
@@ -74,6 +79,11 @@ geninfo() {
     echo
 }
 
+if ! dpkg -l $required_packages > /dev/null; then
+    sudo apt update
+    sudo apt -y install $required_packages
+fi
+
 today=$(date +%Y%m%d_%H%M)
 
 tempdir=$(mktemp -d /dev/shm/OpenArcade-XXX)
@@ -95,12 +105,13 @@ done
 
 echo
 
+
 echo "assembling arcade tsv base"
 
 cat $tempdir/* \
     | sort \
     | sed 's/	$//' \
-        > $targetdir/OpenArcadeDB_Linux.$today.tsv.tmp
+        > $targetdir/OpenArcadeDB_Linux.tsv.tmp
 
 echo "generating arcade db table"
 {
@@ -111,26 +122,25 @@ echo "generating arcade db table"
     echo ");"
 cat << EOF
 .separator "\t"
-.import $targetdir/OpenArcadeDB_Linux.$today.tsv.tmp arcade
+.import $targetdir/OpenArcadeDB_Linux.tsv.tmp arcade
 EOF
-} | sqlite3 $targetdir/OpenVGDB_$today.sqlite3
+} | sqlite3 $targetdir/OpenVGDB.sqlite3
 
 echo "assembling final tsv"
 {
 echo $game.rom $columns | sed 's/ /	/g'
-cat $targetdir/OpenArcadeDB_Linux.$today.tsv.tmp 
-} > $targetdir/OpenArcadeDB_Linux.$today.tsv
+cat $targetdir/OpenArcadeDB_Linux.tsv.tmp 
+} > $targetdir/OpenArcadeDB_Linux.tsv
 
 echo "generating line by line breakdown"
-egrep -ris . * | sed 's/:/	/' | column -t -s'	' > $targetdir/OpenArcadeDB_Linux.$today.txt
+egrep -ris . * | sed 's/:/	/' | column -t -s'	' > $targetdir/OpenArcadeDB_Linux.txt
 
 # generating dos friendly versions
-unix2dos < $targetdir/OpenArcadeDB_Linux.$today.tsv > $targetdir/OpenArcadeDB_DOS.$today.tsv
-unix2dos < $targetdir/OpenArcadeDB_Linux.$today.txt > $targetdir/OpenArcadeDB_DOS.$today.txt
+unix2dos < $targetdir/OpenArcadeDB_Linux.tsv > $targetdir/OpenArcadeDB_DOS.tsv
+unix2dos < $targetdir/OpenArcadeDB_Linux.txt > $targetdir/OpenArcadeDB_DOS.txt
 popd
 
 rm -fv $targetdir/*tmp
-
-echo "Obtained from https://github.com/xovox/OpenArcadeDB" > $targetdir/README.txt
+#echo "Obtained from https://github.com/xovox/OpenArcadeDB" > $targetdir/README.txt
 
 exit
