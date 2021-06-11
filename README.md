@@ -127,7 +127,8 @@ sys     0m0.013s
 # Directory/File Structure
 
 For ease of management & tracking changes/additions in GitHub.com, I elected to use separate files for each datapoint.
-While this makes generation of the actual SQLite3 DB & TSV files, it takes 4m30s on my relatively old i5-4278U @ 2.6GHz.
+While this makes maintaining and tracking changes far easier, it takes ~8m on my i5-7500 @ 3.8ghz to generate all files.
+About half of the run time is inserting the historical data (2/3rds of the entire database's size), a third is collating the separate files, and the rest is generating TSV/TXT output
 
 Each game has a directory, and then there are several files within that describe aspects of that game.
 
