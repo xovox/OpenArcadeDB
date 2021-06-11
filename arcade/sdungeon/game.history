@@ -1,0 +1,44 @@
+Space Dungeon (c) 1981 Taito America Corp.
+
+Space Dungeon is a single-screen shoot-em-up in which the goal is to guide an armed craft through enemy-infested dungeons, collecting as many treasure items as possible before finding the exit to progress to the next level. 
+
+Each level consists of 36 rooms, arranged in a six-by-six grid. An auto-map is displayed at the top of the screen, together with any items of treasure currently carried. The rooms are connected by open doorways of varying sizes and players can choose which rooms to visit next by choosing the relavent exit from the current room. 
+
+The game utilises a dual joystick control system, with the left stick controlling player movement and the right controlling the direction of fire. The player&apos;s craft is armed wity a laser cannon that fires a pulsing, solid beam in any one of eight directions. 
+
+To exit a level, players must find the &quot;Collect Bonus&quot; room, which contains a rectagle. Entering the rectagle ends the level, with bonus points awarded depending on how many treasure items the player is carrying at the time. If the player&apos;s ship collides with an enemy or any of their projectiles before reaching the &quot;Collect Bonus&quot; cube, all collected treasure is dropped in the room in which the ship was destroyed. This room is designated on the map by a flashing cross symbol.
+
+A 10,000-point bonus is awarded if the player visits every single room on the level, whether or not all treasures on the level have been collected. An extra ship is awarded to the player every 10,000 points.
+
+TREASURE ITEMS
+* Iron Cross (500 points). Appears as a red cross.
+* Copper Piece (1000 points). Appears as a red barbell.
+* Silver Star (2000 points). Appears as a white star.
+* Golden Fleece (4000 points). Appears as a white circle with a glowing middle. First appears on level 4.
+* Platinum Ark (8000 points). Appears as a glowing circle with a white &quot;I&quot; in the middle. First appears on level 6.
+
+ENEMIES
+
+* Piker (100 points)
+Slow-moving, spiked ships that attempt to collide with the player&apos;s ship. The player&apos;s laser must hit the core of a Piker to destroy it. Destroying its spikes earns the player 10 points each. If a Piker is left with its core intact, even if some of its spikes have been destroyed, then the entire Piker will be restored if the player leaves then re-enters the room.
+
+* Corner Zapper (25 points)
+These always appears in sets of four, one in each corner of the room. They fire beams randomly and intermittently between different pairs and the player&apos;s ship is destroyed if caught in the crossfire. If any Zappers are left intact when the player exits a room, all will regenerate upon re-entering.
+
+* Deathsquare (25 points)
+Slow-moving obstacles. A single shot will destroy them.
+
+* Guard (125 points)
+These red creatures tend to be found near treasure items and mimic the player&apos;s movements, though at a slower speed, while shooting spores at the player.
+
+* Executioner (125 points)
+These creatures actively hunt and chase the player, firing spores and attempting to collide with the player&apos;s ship.
+
+* Enforcer (250 points)
+Resembling a smiley face, these will materialize in a room and charge at the player. It takes several shots to destroy an Enforcer, making it a high-priority target. If the player moves into another room with an Enforcer on the screen, the Enforcer will appear in the new room at the same location and resume its charge.
+
+* Spore Case (500 points)
+Spore cases do not shoot or chase the player but if they themselves are shot, they will spit out three spores, often in the direction of the player&apos;s ship. Spore Cases appear in all rooms, with more Spore Cases appearing over time. Spore Cases first appear on level 3.
+
+* Thief (50 points)
+The Thief moves around the dungeon autonomously and picks up treasure, but the player cannot kill him. When the player shoots him, he drops any treasure that he might be carrying and changes directions. He may also leave behind Guards if shot multiple times. The Thief first appears on level 2.

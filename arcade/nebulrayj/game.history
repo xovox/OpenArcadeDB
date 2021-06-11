@@ -1,0 +1,18 @@
+Nebulasray (c) 1994 Namco.
+
+NebulasRay is a vertically scrolling shoot&apos;em up for one or two players. Civil war has broken out in the Austral star system, with the militaristic &apos;Master Forces&apos; ousting the ruling government and looking to seize control of the entire system. 
+
+Taking on the role of resistance fighters, players must battle through waves of enemy ships across 6 levels, before finally reaching and destroying the &apos;Master Fortress&apos;. As well as forward-firing weapons, each player ship also carries a limited number of powerful bombs that inflict much greater damage on the enemy than the standard weapons. Initially, each player ship is armed with only 3 bombs. 
+
+Numerous weapons and power-ups can be picked up during play, each of which can itself be powered-up: 
+* WIDE SHOT - Increases shot width. 5 levels available. 
+* GAIN POWER - Increases destructive power. 5 levels available. 
+* SPEED UP - Increases player ship speed. 5 levels available. 
+* BOMB - Extra bomb. Maximum of 7 can be carried. 
+* FOUR-BARREL PHOTON - Powerful Photon torpedoes. Time-based. 
+* HOMING LASER - Powerful lasers that automatically target enemies. Time-based. 
+* LIGHTING BURST - Powerful short-range lightning burst. Time-based. 
+* DEFLECTOR - Shield to protect player ships. Time-based. 
+* EXTRA POINTS - Pick up for 3000 points. 
+
+Visually, NebulasRay employs complex sprite rotation and scaling techniques - as well as multi-layered parallax scrolling - to create impressive and highly detailed graphics with a true sense of depth.

@@ -1,0 +1,18 @@
+Tetris (c) 1989 Atari Games.
+
+Tetris is a legendary tile-matching puzzle game for one or two players in which a random sequence of Tetriminos (geometric shapes composed of four square blocks) fall down the playing field and must be destroyed by positioning them to form complete horizontal lines.
+
+The Tetriminos can be moved left and right and can be rotated 90 degrees. When a complete horizontal line is created, it gets destroyed and any block above the deleted line will fall. Once a certain number of lines have been cleared, the player progresses to the next stage, in which the Tetriminos begin to fall faster, giving players less time to plan and react.
+
+The game&apos;s seven tetrominos are:
+* I (also a &quot;straight polyomino&quot;): four blocks in a straight line.
+* O (also a &quot;square polyomino&quot;): four blocks in a 2×2 square.
+* T (also a &quot;T-polyomino&quot;): a row of three blocks with one added below the center.
+* J: a row of three blocks with one added below the right side.
+* L: a row of three blocks with one added below the left side.
+* S: two stacked horizontal dominoes with the top one offset to the right.
+* Z: two stacked horizontal dominoes with the top one offset to the left.
+
+All seven Tetriminos are capable of single and double line clears. The I, J, and L pieces are able to clear triples. Only the I Tetrimino has the capacity to clear four lines simultaneously and this is referred to as a &quot;Tetris&quot;.
+
+The game ends when the stack of Tetriminos reaches the top of the playing field and no new Tetriminos are able to enter the play-field.

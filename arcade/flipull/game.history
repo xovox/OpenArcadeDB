@@ -1,0 +1,13 @@
+Flipull (c) 1989 Taito.
+
+Flipull is an action-based puzzle game for one or two players where the aim is to remove a formation of symbol-bearing blocks from the play area. Players fire one block at a time at matching-symboled blocks in the formation to remove them.
+
+The fired block will remove all blocks with the same symbol it hits until it meets an unmatched block. The unmatched block then bounces back into the player&apos;s control and replaces it in the formation. Players must then find a matching target for the new block and repeat the process.
+
+As well as firing blocks directly at the formation, blocks can also be bounced off angled walls at the top of the play area, allowing players to target previously inaccessible blocks from above.
+
+Levels must be completed within a set time limit and if the player drops the throwing block or targets a block with a different symbol, the throwing block bounces back to the player and valuable seconds are lost.
+
+There are four different standard blocks to remove. The game also features special blocks (bearing a lightning symbol) which will destroy any target blocks that they hit.
+
+The game is over if either the time limit expires before the minimum number of blocks is removed, or if players find themselves in a position in which no matching formation blocks can be targeted.

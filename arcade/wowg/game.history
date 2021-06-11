@@ -1,0 +1,20 @@
+Wizard of Wor (c) 1980 Midway.
+
+Wizard of Wor is a maze-based shoot-em-up featuring one or co-operative two-player gameplay. In a two-player game, player one controls yellow Worriors while player two controls blue Worriors. Players are also able to shoot each other&apos;s Worriors, earning bonus points and causing the other player to lose a life. Team-oriented players can successfully advance through the game by standing back-to-back and firing at anything that comes at them.
+
+Each single-screen dungeon consists of a grid forming walls and corridors. There are doors situated at the left and right edges of the screen that are inter-connected, making the dungeon wrap around. Whenever a door is used by a player or monster, it deactivates for a short period, making it impassable. A small radar display indicates the positions of all active monsters.
+
+As long as a player has at least one life in reserve, a backup Worrior is displayed in a small sealed box at the corresponding bottom corner of the dungeon. When the current Worrior is killed, the box opens and the player has 10 seconds to move the back-up into play before automatically being forced in.
+
+The various monsters include the following:
+* Burwor: A blue wolf-type creature.
+* Garwor: A yellow Tyrannosaurus rex-type creature.
+* Thorwor: A red scorpion-like creature.
+* Worluk: An Insectoid-type creature.
+* Wizard of Wor: A blue wizard.
+
+Both Garwors and Thorwors have the ability to turn invisible but will always appear on the radar. All enemies except the Worluk can shoot at the Worriors.
+
+Each dungeon starts filled with six Burwors. In the first dungeon, killing the last Burwor will make a Garwor appear. In the second, the last two Burwors are replaced by Garwors when killed; and so on. From the sixth dungeon on, a Garwor will replace every Burwor when killed. 
+
+There will never be more than six enemies on the screen at once. On all screens, killing a Garwor causes a Thorwor to appear. From the second dungeon on, after the last Thorwor is killed, a Worluk will appear and try to escape through one of the side doors. The level ends when the Worluk either escapes or is killed; in the latter case, all point values for the next dungeon are doubled.

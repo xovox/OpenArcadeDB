@@ -1,0 +1,11 @@
+Omega Fighter (c) 1989 UPL.
+
+While similar to most vertical scrolling shooters, Omega Fighter is unique in its gameplay, level and enemy focus: rather than flying through multiple levels, the player faces an enormous space battle cruiser which contains every level.
+
+There are two weapons that the player picks up, and if the player picks up a different powerup, it will always reset to its lowest level:
+(I) - Ion Laser: Shoots straight, pick up more to increase damage at a cost of decreasing length. Ideal for close combat.
+(W) - Wide Shot: Shoots bullets in wider range when collecting more of them. Ideal for taking enemies from afar but deals less damage.
+
+There are also two items that are pressed by the bomb button, and players may pick up to two of them:
+Silver - Activate to slow down everything on screen. Useful to dodge bullets and getting closer for higher score.
+Gold - Destroy all enemies on screen, score depends on closeness to player prior to using the item.

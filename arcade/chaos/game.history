@@ -1,0 +1,6 @@
+Chaos 2 (c) 1983 David Greaves.
+
+A homebrew system.
+
+List of commands:
+access, ask, ascdis, bpclr, bpset, close, control, copy, devfive, dir, end, exec, execute, fill, find, goto, if, input, let, list, load, lowercase, memdis, memset, open, port, read, reboot, runhex, run, save, type, typesl, verify.

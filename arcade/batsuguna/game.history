@@ -1,0 +1,11 @@
+Batsugun (c) 1993 Toaplan.
+
+A vertically scrolling shoot&apos;em up game. As is the standard with most arcade shooters, the player controls their ship with a joystick and two buttons. One button (Fire) shoots the main guns, and the other button (Bomb) releases a smart bomb that spreads huge energy balls all around the player&apos;s ship.
+
+As enemies are destroyed, the player gains experience points that are separate from the score. For every 288 experience points gained, the main gun will &apos;level up&apos;, becoming much stronger. This is analogous to experience points and leveling up in role playing games. The weapon can only level up twice, so after it has achieved its maximum level, 288 experience points will grant the player an extra bomb.
+
+The player can also grab P icons to increase the power of the current level gun. A maximum of five &quot;P&quot;s can be collected per experience level; getting more after this gives extra points instead.
+
+Collecting B icons increases the number of bombs, to a maximum of 7.
+
+Apart from destroying enemies, points can be gained from collecting golden V-shaped medals. After the level is finished, 3000 points are awarded for every small one, and 5000 points for every large one. If the player&apos;s ship is destroyed during a level, all medals collected are lost.

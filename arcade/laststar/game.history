@@ -1,0 +1,19 @@
+The Last Starfighter (c) 1984 Atari.
+
+An alien entrepreneur has placed Starfighter games machines on Earth as a test for prospective Starfighters. Although Starfighter appears to be another arcade game, it contacts the alien when the high score record is broken.
+
+Alex, a 19-year old who lives in a trailer park, is an ace at Starfighter and gets whisked off to the planet Rylos as a draftee to combat the evil Xur and the Ko-Dan armada. Having been fooled into coming, Alex refuses and is returned to Earth. While Alex is gone from Rylos, a Ko-Dan attack destroys all the Gunstar ships (Starfighters) and crews, except for a prototype equipped with a special weapons system called Death Blossom.
+
+Alexis, meanwhile, changes his mind and, with the help of the alien, returns to Rylos where, with Navigator/Pilot Grigg, he takes off in the last Gunstar to take on the whole enemy fleet. Fighting through a series of space battles, Alex and Grigg succees in saving the universe and then return to earth to pick up Alex&apos;s girlfriend before assuming the role of commander of Rylos armed forces and being given the hero treatment on Rylos.
+
+BASIC GAMEPLAY:
+Player controls weapons on Gunstar and orientation of Gunstar chair; he is not piloting ship. Player&apos;s head-up display shows information on weapons system and coolant (shields), as well as on currently targeted enemy, surrounding enemy positions and Gunstar chair orientation. Not all information is available in each round.
+
+Each of the enemy ships takes a different amount of energy to destroy. Enemy condition is shown by the &apos;Target temperature gauge&apos;. When the enemy temperature hits max, it will explode. The rate at which the gauge rises is determined by the type of ship. Temperature rises while player&apos;s lasers are contacting enemy ship and may fall if this ceases before destruction.
+
+The condition of the Gunstar is shown by the &apos;Hull temperature gauge&apos;. When the Gunstar is being hit by the enemy fire, the hull temperature increases. When the hull temperature gets high, coolant flows in (around the gauge on screen from the on-screen reservoir) to coll the hull. This depletes the reservoir of coolant. If no coolant remains, the hull temperature will reach maximum and the Gunstar is destroyed. A coolant recharge is given at the end of a complete round.
+
+LASERS:
+Player&apos;s laser energy is shown for each side laser. Laser energy decreases with time of laser use and increases far more slowly. This encourages short bursts of fire from one laser at a time. If both lasers are fired simultaneously, a third laser also fires from below without additional depletion of energy, but with additional effect on the target. This contradictorily encourages use of both lasers simultaneously. As players increase in skill, they will learn to use shot, single laser bursts on small targets and twin laser bursts on large targets. This combination will ensure best energy usage and maximum destructive effect. It is possible for a player to be stranded with inadequate energy and be destroyed of insufficient ability to retaliate, but this cannot happen on beginner rounds where energy drain is very low.
+
+Death Blossom (laser blossom) is fired with rear buttons on Star Wars controller. The central circle will light up on screen to show when Death Blossom is charged and usable. Activation causes the screen to be blanketed with laser fire destroying (or greatly heating up if mother ship) all targets on screen. Does not destroy Control Tower and Xur&apos;s transport.

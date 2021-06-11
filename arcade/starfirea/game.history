@@ -1,0 +1,29 @@
+Star Fire (c) 1978 Exidy.
+
+Exidy STARFIRE is a single player game which simulates combat between space-going fighters. The player can control the speed and direction of his fighter and attack enemy fighters with his lasers; the enemy fighters shoot fireballs at the player. The object of play is to accumulate points by destroying enemy fighters. A player can buy extra playtime during play and continue the game he is playing, as long as he has any time left; he earns bonus playtime each time he exceeds a bonus score. The game keeps track of 20 high scores - one score for each number of coins accumulated. The initials of high scoring players are displayed during the game&apos;s attract mode.
+
+Play Mode - The screen shows a crosshair gun sight at the center of a background of stars; enemy ships move across this background. The background moves as the player works the controls, but the crosshairs always stay at the center of the screen.
+
+The bottom of the screen has several indicators and a message panel.  A thrust indicator shows the player&apos;s speed and forward-reverse direction, and a long range scan indicator shows the presence and direction of any enemy ships off the main screen. Other indicators show the player&apos;s current score and fuel level. The message panel tells whether the player has hit an enemy ship or been hit himself, whether his laser is ready to fire, etc.
+
+Enemy fighters move in all directions on the screen, getting larger or smaller as they move toward or away from the player. Bonus Exidy pirate ships move from left to right across the screen, and always stay the same size. The fighters and pirate ships come in three colors: blue, green, and gold (actually orange). Blue fighters are worth 10 points, green fighters 20 points, and gold fighters 40 points; all bonus Exidy pirate ships are worth 50 points.
+
+When a target (an enemy fighter or bonus Exidy pirate ship) comes near the crosshairs, two gauge scales appear - one from the right side and one from the bottom of the screen.  At the same time, a warning beep sounds. If the player maneuvers the target into the crosshairs, it is locked-on - the enemy is frozen in the crosshairs for several seconds, and the player can easily destroy it with his laser. When the player locks onto the enemy, a second warning beep sounds, a &apos;LOCKED!&apos; message appears on the message panel, and the target flashes in the crosshairs.
+
+Press the laser fire button, and four simulated laser beams converge on the center crosshairs from the corners of the screen. If the lasers hit a target, it explodes. Enemy fighters can shoot fireballs at the player; if a fireball hits, the screen flashes and the player is penalized by being reset to blue targets.
+
+STARFIRE produces a wide variety of sound effects. An ENGINE RUMBLE sounds throughout the play, and an EXPLOSION sounds whenever an enemy explodes or the player is hit by enemy fire. There is a LASER sound whenever the player pushes the laser fire button, and a HISS whenever an enemy fighter fires at the player.
+
+There are four different kinds of WARNING BEEP. These warn the player when he is almost locked onto a target, when he is actually locked on, when a target is just off the edge of the screen, and when the laser overheats.
+
+These sounds are heard only during the play mode. There is only one operator adjustment for the sound effects - the volume control.
+
+STARFIRE has 3 player controls: a steering yoke, a thrust control, and a laser fire button. To steer right or left across the screen, turn the steering yoke like an automobile steering wheel; to move down or up, move the yoke in or out. Slide the thrust control T-handle up or down to move forward or back. The laser fire button is on the left handgrip of the steering yoke.
+
+Awards and Bonuses - The operator can set the bonus score to 300, 500, or 700 points, or can turn off the bonus feature.  If the bonus has been set, a player has one chance of a bonus for each 300 fuel units he buys. If he tops the bonus score during any 300 unit period, the game awards him a bonus of 150 fuel units. This bonus fuel is added after the fuel indicator reaches zero. The player can only get one bonus for each 300 fuel units he buys.
+
+The coin accumulator keeps track of the coins a player has spent. STARFIRE maintains twenty high scores : one for players who have only inserted one coin, a second for two-coin players, and so on. Players who spend more than twenty coins are lumped together in the twenty-coin score.
+
+When a player finishes playing, STARFIRE counts the coins he has spent and compares his point score to the appropriate high score. If he has topped that score, the game asks him for his initials (one, two, or three letters); as long as his high score stands, his initials will be on the attract mode score table. If switch 7 of the DIP switch is ON, the score table will stay on screen as long as the laser fire button is pressed.
+
+Every third coin a player spends buys double playtime. That is, STARFIRE awards four coins worth of playtime for each three coins spent.

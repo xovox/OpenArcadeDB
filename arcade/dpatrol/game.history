@@ -1,0 +1,9 @@
+Desert Patrol (c) 1977 Project Support Engineering.
+
+One of 3 shooting-type gun games produced by PSE using similar hardware.
+
+Desert Patrol is a timer based, single player game. Players shoot at various aircraft targets flying on screen from left to right or right to left with a mounted machine gun on the control panel. The objective is to successfully shoot down various aircraft targets consisting of planes, jets, and a helicopter within an allotted amount of time. The time setting is operator adjustable with a pot for speeding up or slowing down of how fast the time counts down to zero.
+
+If an aircraft is successfully hit, a figure then appears on the screen as a parachuting pilot. Players have to avoid hitting the pilot or else points are deducted from point total and also the ability to shoot gun is disabled for a few seconds. This is the penalty for shooting down a parachuting pilot.
+
+If player shoots down the parachuting pilot, the parachute disappears and the pilot then immediately plummets to the ground at a fast rate. When that happens, a scream sound effect is played as pilot plummets to the ground. The machine gun is then disabled for a few seconds as a form of a penalty for shooting at the parchuting pilot.

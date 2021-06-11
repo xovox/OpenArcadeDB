@@ -1,0 +1,11 @@
+Pengo (c) 1982 Sega.
+
+Pengo is an action game set in an overhead maze constructed of ice blocks. The player controls Pengo, a red penguin that lives in the Antarctic and fights the blob-like Sno-Bees. The objective of the game is for Pengo to survive a series of rounds by eliminating all Sno-Bees, while amassing bonuses by bringing together the three diamonds dispersed in the maze.
+
+The Maze itself is an interactive environment. Each section of wall is a block of ice that can be pushed onto the Sno-bees to destroy them. Pressing the button while pushing the joystick will cause Pengo to push the ice block in the direction he is facing. The block will slide until it hits either a wall or another ice block, crushing any Sno-Bees in its path. Crushing more than one Sno-Bee at once will increase the number of points awarded.
+
+As the player crushes the Sno-Bees, new ones hatch from eggs located within ice blocks. At the start of each level, blocks that contain these eggs are briefly identified by flashing the colour of that level&apos;s Sno-Bees. Eggs can be eliminated by crushing the ice blocks that contain them. If Pengo pushes a side wall at the edge of the screen, the water vibrates, any adjacent Sno-Bees will be briefly stunned and are eliminated if Pengo walks over them in this state. 
+
+The Sno-bees themselves will destroy the ice blocks as they move around each level, so speed is of the essence. Some of the blocks are &apos;Diamond blocks&apos; which cannot be destroyed but can be re-used by Pengo. 
+
+After 60 seconds elapse in a round without a player or enemy death, the game enters into sudden death mode; the music tempo and movement of the Sno-Bees accelerates. If a single Sno-Bee remains in the round, a jingle plays and the Sno-Bee accelerates in an attempt to reach a corner, where it safely fades away.

@@ -1,0 +1,5 @@
+Cops n&apos; Robbers (c) 1976 Atari.
+
+From 1 to 4 people can play at once, with the computer adding in a player as needed to keep the number of players at either 2 or 4. Players number 1 and 2 play the part of the cops, while players 3 and 4 are the robbers.
+
+The screen is an overhead view of a city street, with the cops on one side, and the robbers on the other. Each car is in it&apos;s own lane, and an extra wide lane marks the area between the cop and robber side. Each player can move up and down in their own lane, the object is to shoot down the cars of the opposite side. A beer truck moves randomly up and down the center lane, generally getting in the way.

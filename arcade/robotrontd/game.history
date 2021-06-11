@@ -1,0 +1,10 @@
+Robotron: 2084 (c) 2015 Unknown.
+
+2015 &apos;tie-die V2&apos; hack. The changes are:
+1) Number of Lives shown at bottom of screen for each player (they still wrap at 256)
+2) 10 Million digit now shows
+3) 10 Million+ scores are correctly placed in High Score table which goes up to 9.999.999
+4) Extra Ships now settable at 10-15-20-25-30-40-50-60-70-75K
+5) Set HSTD initials to &apos;4&apos; to start game at 99,900,000 to see Goldilocks mode. Will not register as HSTD
+6) If 3 blanks entered for initials then score is not entered into the High Score Table
+7) Default initials changed for entries 3, 4 an 5

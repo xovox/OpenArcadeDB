@@ -1,0 +1,15 @@
+Studio II (c) 1977 RCA.
+
+An early cartridge based videogame console in black and white graphics.
+
+It had 5 built-in games: Doodle, Patterns, Bowling, Freeway, Addition.
+
+Doodle: A simple program that allows the user to draw (doodle) on the screen. There is a cursor and the user can move it in 8 different directions, deciding whether it should paint or erase pixels on the screen.
+
+Patterns: Another drawing program, this time enabling the user to create a doodle that can be infinitely repeated on screen by the system, inverting all the pixels it comes across in the process and generating unexpected patterns. If the user launches the program after drawing with Doodle first, the patterns are drawn on top of the original doodle.
+
+Bowling: A simplistic top-down rendition of bowling for (exactly) two players. The ball moves automatically up and down the lane and the players just need to choose when to throw it. There are 3 different throws: straight, hook down, and hook up. After 10 frames are played, the final scores are shown and the game ends.
+
+Freeway: A racing game where the player drives a car in a straight freeway and must steer to avoid collisions with other cars. Accidents will only slow the player down, but this has a great impact on the score as the goal is to make the best mileage within 2 minutes.
+
+Addition: A math educational game for one or two players. The goal is to simply add 3 digits that show up on the screen simultaneously and press the according button on the keyboard. In a two player game, the player that hits the correct button first wins the round. The game ends after 20 rounds.

@@ -1,0 +1,9 @@
+ZX97 (c) 1997 Rigter.
+
+The ZX97 is a discrete logic clone of the ZX81. It is functionally equivalent and 100% compatible but has numerous enhancements over the original ZX81. The all CMOS design draws only 50mA and can be easily powered from a small battery. 
+
+The total memory is increased from 9K to a 192K including 32K of EPROM and 160K of battery backed up SRAM. A SHADOW RAM feature  allows users to enhance or replace the ZX81 operating system with the ZX80, FORTH or any other OS software. 
+
+The 16 parallel bi-directional I/O lines are connected to an IBM compatible printer port (LPT1) and can also be used for high speed communication with a PC or for robotics applications. 
+
+Aside from the existing ZX81 screen text and graphics, the ZX97 offers a full 128 upper and lowercase text characters and unlimited user defined graphics (UDG) And finally, the ZX97 supports both pseudo hires and true bitmapped graphics (192x256) programs.

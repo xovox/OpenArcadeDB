@@ -1,0 +1,7 @@
+7 Ordi (c) 2002 Yun Sung.
+
+7 Ordi is a seven card stud medal game. Once the player meets the minimum number of credits the player is dealt a hand. Three cards are dealt to the player and the computer and one card is chosen to show face up.  Next a card is dealt and a round of betting takes place. Two more cards are dealt face up with a round of betting after each. Then one more card is dealt face down with one more round of betting.
+
+If the player wins then the player may choose to either take his winnings or play a mini-game where he bets on whether the next card will be a low card (1-5), a high card (6-10), or a face card (J,Q,K). After every winning guess the player may choose to continue or drop out.
+
+Hands are dealt until the players credits fall below the minimum level to play.

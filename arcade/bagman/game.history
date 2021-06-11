@@ -1,0 +1,12 @@
+Bagman (c) 1982 Valadon Automation [VA].
+
+The objective of the game is to maneuver Bagman through various mine shafts, picking up money bags and placing them in a wheelbarrow at the surface of the mine. The player must avoid pursuing guards, moving ore carts, and descending elevators. The player may temporarily stun the guards by striking them with a pickaxe or by dropping money bags on them when they are below the player on the same ladder. The player may move between the three screens which make up the level via shafts and on the surface.
+
+Bagman is played using one 4-way joystick and one action button. The joystick is also used to jump out of the ore cart. The Action Button is used to make the Bagman perform the following tasks:
+Pick up and drop money bags
+Pick up and drop pickaxe
+Grab and release the ceiling beam to avoid the ore cart (this can be done while carrying a money bag)
+Placing a money bag in the wheelbarrow
+Pick up and drop the wheelbarrow
+
+Points are scored for each horizontal step the player takes, for each money bag placed in the wheelbarrow, and for each guard stunned.
