@@ -2,7 +2,7 @@
 
 Open Video Game Database (c) 2021 (https://github.com/xovox/OpenVGDB)
 
-The Open Video Game DataBase is currently tracking 333,893 attributes of 16,750 games, BIOS & platforms!
+The Open Video Game DataBase is currently tracking 349,900 attributes of 16,821 games, BIOS & platforms!
 
 I wasn't able to find something I could easily query to generate configs/etc that I wanted...
 so I took a ton of data I found & normalized it.
