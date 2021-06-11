@@ -8,6 +8,14 @@
 # OpenArcadeDB.  It generates a .tsv file to stdout that's suitable for
 # importing to many spreadsheet applications.
 #
+# Is it ugly?  Yes.  Does it work?  Most of the time.  Is it slow?  Not as
+# much as the first generation.  I run this once every few months, and only if
+# I have new data to add into the database so speed & elegance aren't at the
+# top of my list
+#
+# What do you want for free?
+#   -- Ilsundal, 1995
+#
 ##############################################################################
 
 required_packages="
@@ -15,7 +23,7 @@ dos2unix
 sqlite3
 "
 
-columns="
+arcade_columns="
 game.name
 game.name.short
 game.publisher
@@ -41,10 +49,10 @@ monitor.type
 
 
 # sqlite doesn't like dots in column names
-sqlite_columns="$(sed 's/\./_/g' <<< "$columns")"
+arcade_sqlite_columns="$(sed 's/\./_/g' <<< "$arcade_columns")"
 
 # column types for sqlite
-declare -A sqlite_column_type="(
+declare -A arcade_sqlite_column_type="(
 [game_rom]="text"
 [game_name]="text"
 [game_name_short]="text"
@@ -73,7 +81,7 @@ declare -A sqlite_column_type="(
 
 geninfo() {
     echo -n "$game	"
-    for field in $columns ; do
+    for field in $arcade_columns ; do
         echo -n "$(cat "$game/$field" 2> /dev/null)	"
     done
     echo
@@ -91,6 +99,10 @@ targetdir=$PWD/OpenVGDB.$today
 mkdir -pv $targetdir
 clearline="$(tput el)"
 
+##############################################################################
+echo "gathering arcade information"
+##############################################################################
+
 gamecount="$(find arcade -mindepth 1 -maxdepth 1 | wc -l)"
 gamenum=0
 pushd arcade
@@ -106,18 +118,23 @@ done
 echo
 
 
+##############################################################################
 echo "assembling arcade tsv base"
+##############################################################################
 
 cat $tempdir/* \
     | sort \
     | sed 's/	$//' \
         > $targetdir/OpenArcadeDB_Linux.tsv.tmp
 
+##############################################################################
 echo "generating arcade db table"
+##############################################################################
+
 {
     echo -n "create table arcade ("
-    for column in game_rom $sqlite_columns ; do
-        echo -n "$column ${sqlite_column_type[$column]}	"
+    for column in game_rom $arcade_sqlite_columns ; do
+        echo -n "$column ${arcade_sqlite_column_type[$column]}	"
     done | sed 's/	$//;s/	/, /g'
     echo ");"
 cat << EOF
@@ -126,13 +143,38 @@ cat << EOF
 EOF
 } | sqlite3 $targetdir/OpenVGDB.sqlite3
 
-echo "assembling final tsv"
+
+##############################################################################
+echo "inserting arcade history"
+##############################################################################
+
 {
-echo $game.rom $columns | sed 's/ /	/g'
+cat << EOF
+create table history (game_rom text, game_history text);
+EOF
+
+for game in $(find $HOME/git/OpenVGDB/arcade -name game.history | cut -d'/' -f7 | sort) ; do
+
+cat << EOF 
+insert into history values("$game", "$(cat $HOME/git/OpenVGDB/arcade/$game/game.history)");
+EOF
+
+done
+} | sqlite3 $targetdir/OpenVGDB.sqlite3
+
+##############################################################################
+echo "assembling final tsv"
+##############################################################################
+
+{
+echo $game.rom $arcade_columns | sed 's/ /	/g'
 cat $targetdir/OpenArcadeDB_Linux.tsv.tmp 
 } > $targetdir/OpenArcadeDB_Linux.tsv
 
+##############################################################################
 echo "generating line by line breakdown"
+##############################################################################
+
 egrep -ris . * | sed 's/:/	/' | column -t -s'	' > $targetdir/OpenArcadeDB_Linux.txt
 
 # generating dos friendly versions
@@ -140,7 +182,11 @@ unix2dos < $targetdir/OpenArcadeDB_Linux.tsv > $targetdir/OpenArcadeDB_DOS.tsv
 unix2dos < $targetdir/OpenArcadeDB_Linux.txt > $targetdir/OpenArcadeDB_DOS.txt
 popd
 
-rm -fv $targetdir/*tmp
+##############################################################################
+echo "cleanup"
+##############################################################################
+
+rm -rf $tempdir $targetdir/*tmp
 #echo "Obtained from https://github.com/xovox/OpenArcadeDB" > $targetdir/README.txt
 
 exit
