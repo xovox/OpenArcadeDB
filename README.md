@@ -9,9 +9,18 @@ so I took a ton of data I found & normalized it.
 
 Currently I'm only tracking arcade data, though console data is forthcoming
 
-# Downloading
+# Sources
 
-Check out https://github.com/xovox/OpenVGDB/releases
+* https://www.progettosnaps.net
+* https://arcade-history.com
+
+# Projects that use OpenVGDB
+
+None that I'm aware of, but I am going to implement using it with one current and a few future projects
+
+* https://github.com/xovox/RetroCRT/
+
+I'm also going to start writing my own EmulationStation scraper that strictly utilizes my database for information and then downloads images/videos.  This should help alieviate people experiencing timeouts.
 
 # Compiled Files
 
@@ -21,32 +30,67 @@ I've compiled several files for quick searches of the data:
 * tsv
 * txt
 
-# Querying SQLite3
+# Querying from inside of SQLite3
 
 Here are a few simple queries you can run against the database
+
+## Get the arcade-history.com entry for Rolling Thunder
+
+```
+select game_history from history where game_rom = "rthunder";
+```
+
+## Find all games published by Capcom
+
+```
+select game_rom from arcade where game_publisher = "Capcom";
+```
+
+## Find all games published, licensed, or co-published by Capcom
+
+```
+select game_rom from arcade where game_publisher like "%Capcom%";
+```
+
+## Find the naughty games!
+
+```
+select game_rom from arcade where game_mature = "TRUE";
+```
+
+## Pull up some monitor specs for Ms Pac-Man
 
 ```
 select monitor_resolution_horizontal from arcade where game_rom = "mspacman";
 select monitor_freq from arcade where game_rom = "mspacman";
-select game_name from arcade where game_year between 1981 and 1982;
-select game_rom from arcade where game_publisher = "Capcom";
-select game_rom from arcade where game_mature = "TRUE";
 ```
 
-Or you can get more specific
+## What games came out between 1981-1982?
+
+```
+select game_name from arcade where game_year between 1981 and 1982;
+```
+
+## Or you can get more specific like vertical games with a 4 way joystick & one button
 
 ```
 select game_rom from arcade where game_control_buttons = 1 and monitor_orientation = "V" and game_control_type = "joy4way";
 ```
 
-Queries run from a bash shell
+## Find games where the history mentions Evil Otto!
+
+```
+select game_rom from history where game_history like "%Evil Otto%";
+```
+
+# Queries run from a bash shell
 
 ```
 sqlite3 OpenVGDB.20210506.sqlite3 <<< "select game_rom from arcade where game_publisher = 'Capcom';"
 echo "select game_rom from arcade where game_publisher = 'Capcom';" | sqlite3 OpenVGDB.20210506.sqlite3
 ```
 
-Simple shell function for queries
+## Simple shell function for queries
 
 ```
 rominfo() {
@@ -56,7 +100,7 @@ rominfo() {
 rominfo mspacman monitor_resolution_horizontal
 ```
 
-Speed on a Raspberry Pi 3 B+ is very respectable
+# Speed on a Raspberry Pi 3 B+ is very respectable
 
 ```
 (pi@RetroCRT:tmp)$ time sqlite3 OpenVGDB.20210506.sqlite3 <<< "select monitor_resolution_vertical from arcade where game_rom = 'mspacman';"
