@@ -9,3 +9,5 @@ If players manage to fill in all four corner rectangles of a board, they are bri
 On the even-numbered paint roller levels, the roller cannot move too far from grid rectangles that have already been filled without running out of paint and having to return to completed parts of the map to refresh its supply. When this happens, any painted lines that are not part of a filled rectangle will vanish and must be painted again. This means that the player must build their completed squares around the starting point of the level and spread outwards, rather than completing squares on any part of the board as they can on the odd-numbered Gorilla levels. This makes filling in the corner rectangles to become invincible much more difficult.
 
 In between levels players are given the possibility of earning 5,000 bonus points. Here, an Amidar moves across the top of the screen, by pushing the jump button the Amidar traces a random path down towards the bottom of the screen. If the Amidar reaches a bunch of bananas, a bonus is awarded.
+
+(c) Arcade-History.com

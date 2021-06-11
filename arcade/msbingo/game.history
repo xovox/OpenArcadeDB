@@ -9,3 +9,5 @@ Once the set number of tiles are removed, the play area is cleared and the photo
 Clearing tiles advances a bar at the bottom of the screen.  Once the bar is filled the game is interrupted by a bonus game.  Once the bonus game is completed the game returns to the exact spot where it had left off.
 
 If any tiles cross the dead line then the game is over. Upon continuing, the game removes the bottom few rows of tiles from the board so that gameplay can continue.
+
+(c) Arcade-History.com

@@ -1,3 +1,5 @@
 Breakout (c) 1976 Atari, Incorporated.
 
 Breakout sets up with eight rows of bricks; each two rows are different colors. The color order from the bottom up is yellow, green, orange, and red. Players get three balls to try to knock down as many bricks as possible by ricocheting the ball against the wall off of a video sledge hammer. The higher the row, the more points the bricks are worth. To add to the challenge, the hammer decreases to half its size after the ball breaks through the red row and hits the upper wall. Ball speed increases after four hits, increased again after twelve, to highest speed in the orange and red rows.
+
+(c) Arcade-History.com

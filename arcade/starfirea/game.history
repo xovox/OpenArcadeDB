@@ -27,3 +27,5 @@ The coin accumulator keeps track of the coins a player has spent. STARFIRE maint
 When a player finishes playing, STARFIRE counts the coins he has spent and compares his point score to the appropriate high score. If he has topped that score, the game asks him for his initials (one, two, or three letters); as long as his high score stands, his initials will be on the attract mode score table. If switch 7 of the DIP switch is ON, the score table will stay on screen as long as the laser fire button is pressed.
 
 Every third coin a player spends buys double playtime. That is, STARFIRE awards four coins worth of playtime for each three coins spent.
+
+(c) Arcade-History.com

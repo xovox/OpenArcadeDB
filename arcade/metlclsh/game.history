@@ -7,3 +7,5 @@ The player pilots his robot around the screen destroying enemy robots using punc
 When hit by enemies, the player will lose energy and will drop any weapons that he has equipped. When the player&apos;s life energy is completely depleted he will lose a life. The game is over once all of the player&apos;s lives are lost.  The game features no continues.
 
 The two player game is a vs. match between players. Gameplay continues until one player has lost all of his lives.
+
+(c) Arcade-History.com

@@ -42,3 +42,5 @@ Spore cases do not shoot or chase the player but if they themselves are shot, th
 
 * Thief (50 points)
 The Thief moves around the dungeon autonomously and picks up treasure, but the player cannot kill him. When the player shoots him, he drops any treasure that he might be carrying and changes directions. He may also leave behind Guards if shot multiple times. The Thief first appears on level 2.
+
+(c) Arcade-History.com

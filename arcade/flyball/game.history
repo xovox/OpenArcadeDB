@@ -1,3 +1,5 @@
 Flyball (c) 1976 Atari.
 
 This game is a very basic implementation of the game of baseball. The graphics are in black and white monochrome, and each side only has a single player (well the pitching team only has the pitcher, but several men can get on base at once). The game uses analog controls to simulate both pitching and hitting, so a smooth motion of the joystick will produce the best results. The pitcher is the only person on the field besides the base runners, so it is often best to make for one base further than the one you would have thrown the ball to (the pitcher has to run after the batter). The game only lasts for 1 or 2 innings (depending on how it is set), so each at bat really counts.
+
+(c) Arcade-History.com

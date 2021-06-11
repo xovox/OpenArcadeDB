@@ -19,3 +19,5 @@ At the end of each wave, a bonus wave begins and a low humming sound is heard. &
 Other targets enter as the game progresses. When the number of targets is less than the wave number, or if no splitting targets have been hit in some time, saucer enters and shoots at targets and ships. The saucer shots become more accurate as play continues. Saucers may also enter as a pair. They shoot at, but do not destroy, each other. Anything caught between them will be shot. Each time the pair goes across the screen, the distance between them increases.
 
 A player&apos;s ship may be destroyed by a shot or collision. The game is over when all ships are destroyed.
+
+(c) Arcade-History.com

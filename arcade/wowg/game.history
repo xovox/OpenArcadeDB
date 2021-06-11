@@ -18,3 +18,5 @@ Both Garwors and Thorwors have the ability to turn invisible but will always app
 Each dungeon starts filled with six Burwors. In the first dungeon, killing the last Burwor will make a Garwor appear. In the second, the last two Burwors are replaced by Garwors when killed; and so on. From the sixth dungeon on, a Garwor will replace every Burwor when killed. 
 
 There will never be more than six enemies on the screen at once. On all screens, killing a Garwor causes a Thorwor to appear. From the second dungeon on, after the last Thorwor is killed, a Worluk will appear and try to escape through one of the side doors. The level ends when the Worluk either escapes or is killed; in the latter case, all point values for the next dungeon are doubled.
+
+(c) Arcade-History.com

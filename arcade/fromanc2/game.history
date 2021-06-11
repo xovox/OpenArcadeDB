@@ -9,3 +9,5 @@ A strip sequence is shown every time the player wins a hand. Strip sequences con
 Occasionally, after defeating an opponent, the player is given the opportunity to play a mini-game of high-low. The player is shown a tile and must guess if the next tile will be higher or lower than the tile shown.  If the player wins all three rounds, he is given a cheat item.
 
 The player looses the game once all of his betting funds are depleted. Upon continuing the player keeps any unused cheat items and may buy more items from the store, but all of the player&apos;s wins against the current opponent are wiped out.
+
+(c) Arcade-History.com

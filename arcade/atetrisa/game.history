@@ -16,3 +16,5 @@ The game&apos;s seven tetrominos are:
 All seven Tetriminos are capable of single and double line clears. The I, J, and L pieces are able to clear triples. Only the I Tetrimino has the capacity to clear four lines simultaneously and this is referred to as a &quot;Tetris&quot;.
 
 The game ends when the stack of Tetriminos reaches the top of the playing field and no new Tetriminos are able to enter the play-field.
+
+(c) Arcade-History.com

@@ -7,3 +7,5 @@ As time progresses entire rows of blocks are added to the bottom of the play are
 After clearing a stage, all of the remaining blocks are momentarily removed from the board and a bonus game begins. In the bonus game the background image is broken up and shuffled around in a sliding puzzle game. The progress bar at the bottom of the screen counts down the time left to return the tiles to their proper place and points are awarded for any extra time left after the game is completed. Once the bonus game is over the background image is changed, the blocks remaining from the previous stage are returned to the screen and the game continues.
 
 If the blocks reach the top of the screen where the columns are dropped from then the game is over. Upon continuing all of the blocks are removed from play and the columns fall at the original speed.
+
+(c) Arcade-History.com

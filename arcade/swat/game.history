@@ -17,3 +17,5 @@ There are four types of enemies :
 * ANNGRERS - These cubed-shaped foes are invulnerable to the SWAT agent&apos;s fire. Shooting this type of enemy will cause it to chase the players very quickly. They can be destroyed by using bombs, but a new Anngrer will be created in its place at the bottom of the screen. These enemies can travel in and out of the tunnel system wherever they choose.
 
 * SWEEPERS - Along with additional enemy fire, these foes appear in pairs on the left and right sides of the tunnel along if the bottom and top portions of the screen are connected by one continuous tunnel. They will line up with each other on either side of the players&apos; SWAT agents and fire at them. Sweepers require multiple shots to be destroyed.
+
+(c) Arcade-History.com

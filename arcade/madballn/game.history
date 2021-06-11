@@ -7,3 +7,5 @@ Blocks and enemies can be destroyed by both the ball and by shooting them with t
 When enemies and blocks are destroyed coins and jewels fall to the bottom of the screen to be caught by the paddle for points. At the end of each stage these points may be used to buy power-ups for use in the next stage.
 
 Every time the ball (or last ball in the case of multi-ball) falls past the paddle the player loses a life.  The game is over when the player loses all his lives.
+
+(c) Arcade-History.com

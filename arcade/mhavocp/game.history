@@ -13,3 +13,5 @@ The Space-station has reduced gravity, making Major Havoc react slowly to player
 Major Havoc features a warp system that allows players to skip levels and gain bonus points or extra lives. The warps are activated by a utilizing a Breakout-style mini-game at the bottom-right corner of the screen. 
 
 The mini-game is available at the start of each wave and the way it works is this: a two or three-digit number is displayed and players must move the controller until the number matches the one required to warp. For example, the RED WARP requires the number &apos;23&apos;, so the player must move the controller left or right until the first digit matches &apos;2&apos;, then must press the fire button. The Breakout game begins and must be played while moving the joystick to the &apos;3&apos;. Once players have successfully entered the warp code, they are transported to a higher level.
+
+(c) Arcade-History.com

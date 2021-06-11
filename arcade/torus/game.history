@@ -3,3 +3,5 @@ Torus (c) 1996 Yun Sung.
 Torus is a puzzle game where the player must clear rings from the columns by matching the same color across any row in all three columns.
 
 To accomplish this the player controls a peg upon which they can take rings from the bottom of the columns and move them to different columns by pushing them onto and popping them off of the peg. New rings fall in groups from the top of the screen onto all of the columns. If any of the columns is filled to the top as another set of rings falls into them then the game is over.
+
+(c) Arcade-History.com

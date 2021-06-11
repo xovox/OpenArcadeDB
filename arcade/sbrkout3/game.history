@@ -11,3 +11,5 @@ One paddle is provided in this game, and only one ball is served, unlike in Doub
 * Progressive Breakout : before serving the ball, the Progressive Breakout playfield contains 4x13 brick walls (one blue and the other green). The blue brick wall, which consists of 52 bricks, is at the top. Then occurs a space equivalent to this wall. In the middle of the screen is a green brick wall consisting of 52 bricks. 
 The brick walls move or &apos;scroll&apos; toward the paddle at a rate determined by the number of hits on the ball. As the bricks are knocked out and the walls progressively creep up on the player&apos;s paddle, new bricks enter the playfield at a progressively faster rate. Four rows of bricks are always separated by four rows of blanks. 
 As the brick walls scroll down, their colors change, indicating a new point score for that brick at that instant of time.
+
+(c) Arcade-History.com

@@ -28,3 +28,5 @@ There are several bits of information on the screen. These include the:
 * Drop Count, which shows the number of dropped tiles. The drop count is continuously calculated. When the number of tiles dropped is reached, the wave is over.
 * High Score, which shows the highest score to date, regardless of the number of continues that player had.
 * Wave Indicator, which shows what wave you are playing.
+
+(c) Arcade-History.com

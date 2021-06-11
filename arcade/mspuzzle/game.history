@@ -3,3 +3,5 @@ Miss Puzzle (c) 1994 Min Corp.
 Miss Puzzle is a sliding puzzle game where the player must slide three or more matching tiles together in horizontal, vertical, or diagonal lines to clear them from the screen.  When tiles are removed from the screen surrounding tiles slide around to fill the gaps. Additional tiles are added to the screen over time and the objective is to prevent the screen from being completely filled in with tiles. 
 
 A timer bar counts down the time till the end of the stage.  When the timer runs completely down the stage is cleared and the background image is changed. The player can also use a bomb to clear all the tiles with the same design from the screen if necessary.  The player is granted one bomb per stage and they can be carried over to following stages. When the screen is completely filled with tiles then the game is over.
+
+(c) Arcade-History.com

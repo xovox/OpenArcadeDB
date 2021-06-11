@@ -7,3 +7,5 @@ The total memory is increased from 9K to a 192K including 32K of EPROM and 160K 
 The 16 parallel bi-directional I/O lines are connected to an IBM compatible printer port (LPT1) and can also be used for high speed communication with a PC or for robotics applications. 
 
 Aside from the existing ZX81 screen text and graphics, the ZX97 offers a full 128 upper and lowercase text characters and unlimited user defined graphics (UDG) And finally, the ZX97 supports both pseudo hires and true bitmapped graphics (192x256) programs.
+
+(c) Arcade-History.com

@@ -5,3 +5,5 @@ Gals Panic II is a &quot;Qix&quot;-style adult puzzle game. The objective is to 
 There is a bar with a pointer at the top of the screen. If the pointer dips below a certain level (indicated by the change in color) the image will change to that of a monster. If a round is completed while the monster&apos;s image is shown then the round must be repeated. But unlike in the original, the bar is unaffected by revealing the silhouetted and un-silhouetted parts of the image.
 
 After completing three rounds, there is a break-out styled mini-game where the player may gain an extra life if he clears the blocks before the time limit.
+
+(c) Arcade-History.com

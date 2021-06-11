@@ -17,3 +17,5 @@ The scenes are based on three distinct locations taken from the original movie. 
 * SPLIT SCENE: Play switches between scenes 2 and 3. 
 
 The scenes loop for as long as the player has lives remaining; although to increase variety, the order in which they appear is randomised as play progresses. Each successive wave increases in difficulty.
+
+(c) Arcade-History.com

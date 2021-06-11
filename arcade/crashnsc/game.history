@@ -7,3 +7,5 @@ In Crash&apos;n Score a player&apos;s objective is to build up his/her point sco
 On the screen the following playfield obstacles appear: oil slicks, unlighted flags, a player-selectable set of barriers, and (in a 2-player game only) collisions with the opponent car.
 
 Each flag is labeled with a numeral ranging from 1 to 7, and at any one moment no more than a single flag can be lighted. When a player succeeds in driving through a lighted flag, a number of points equal to that flag&apos;s numeral is added to the player&apos;s accumulated score. The scores are continuously displayed near the top of the screen. After a car has driven through a lighted flag, that flag will cease to be lighted and some other flag, randomly chosen, will light up. During the final one-eighth of game time the number of points added to a player&apos;s score will be double the numeral shown in the lighted flag.
+
+(c) Arcade-History.com

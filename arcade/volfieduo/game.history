@@ -7,3 +7,5 @@ The player controls a craft (called &apos;The Monotros&apos;) that can move arou
 Each stage features a large enemy and several smaller enemies and when the player&apos;s spaceship succeeds in claiming a rectangular section, the side in which the main enemy is located is considered to be the &apos;outside&apos;. Any smaller enemies ending up on the &apos;inside&apos; are killed, resulting in point bonuses. Players are only in danger from enemies while they are actually drawing a line, although each level must be completed within a tight time limit.
 
 Grey boxes sometimes appear on the field that award a random power-up when collected (by being trapped &apos;inside&apos; a completed rectangle). These range from extra speed or upgraded weapons, to a temporary enemy freeze.
+
+(c) Arcade-History.com

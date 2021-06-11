@@ -25,3 +25,5 @@ TWO-PLAYER MODE
 The play of MEGATACK in a two-player game is identical to single-play with the players alternating turns. On the Upright Version, the players use one common set of controls. On the cocktail version there are two sets of controls on opposite sides of the table. The computer activates control alternately between player 1 and 2 and flip-flops the screen image so that it is oriented to the player in control.
 
 The GIP message, which appears after each turn, clearly indicates which player is up by flashing it in the player&apos;s color. This also allows time for the players to position themselves at the controls, but is brief enough to avoid unnecessary &quot;dead-time&quot;. The use of two different player-colors eliminates any confusion as to which player is in control.
+
+(c) Arcade-History.com
