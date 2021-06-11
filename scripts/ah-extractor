@@ -1,0 +1,34 @@
+#!/bin/bash
+
+##############################################################################
+# ah-extractor (c) xovox (https://github.com/xovox/OpenVGDB)
+#
+# a pretty ugly brute-force way of extracting xml information from
+# arcade-history.com's history.xml
+##############################################################################
+
+doextract() {
+	xmlfile="$(grep -lrisw "<system name=\"$1\"" .)"
+
+	if [ "$xmlfile" ]; then
+		awk '/<text>/,/<\/text>/' $xmlfile \
+			| sed '/^-/q;/years ago:$/d;/<text>/d;/-$/d' \
+			| sed '/-$/d' \
+			| sed -e :a -e '/./,$!d;/^\n*$/{$d;N;};/\n$/ba' \
+			| sed -e '$a\\n(c) Arcade-History.com' \
+			> $HOME/git/OpenVGDB/arcade/$1/game.history
+	fi
+}
+
+gamelist="$(find $HOME/git/OpenVGDB/arcade -type d | cut -d'/' -f7 | sort)"
+
+xml_split history.xml
+mv -v history.xml /tmp
+
+for game in $gamelist ; do
+	echo "$game"
+	doextract "$game" &
+	while [ "$(jobs | wc -l)" -ge "25" ]; do
+		sleep .5
+	done
+done
