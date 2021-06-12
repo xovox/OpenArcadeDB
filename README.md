@@ -1,6 +1,6 @@
-# OpenVGDB
+# OpenArcadeDB
 
-Open Video Game Database (c) 2021 (https://github.com/xovox/OpenVGDB)
+Open Video Game Database (c) 2021 (https://github.com/xovox/OpenArcadeDB)
 
 The Open Video Game DataBase is currently tracking 349,900 attributes of 16,821 games, BIOS & platforms!
 
@@ -14,7 +14,7 @@ Currently I'm only tracking arcade data, though console data is forthcoming
 * https://www.progettosnaps.net
 * https://arcade-history.com
 
-# Projects that use OpenVGDB
+# Projects that use OpenArcadeDB
 
 None that I'm aware of, but I am going to implement using it with one current and a few future projects
 
@@ -86,15 +86,15 @@ select game_rom from history where game_history like "%Evil Otto%";
 # Queries run from a bash shell
 
 ```
-sqlite3 OpenVGDB.20210506.sqlite3 <<< "select game_rom from arcade where game_publisher = 'Capcom';"
-echo "select game_rom from arcade where game_publisher = 'Capcom';" | sqlite3 OpenVGDB.20210506.sqlite3
+sqlite3 OpenArcadeDB.sqlite3 <<< "select game_rom from arcade where game_publisher = 'Capcom';"
+echo "select game_rom from arcade where game_publisher = 'Capcom';" | sqlite3 OpenArcadeDB.sqlite3
 ```
 
 ## Simple shell function for queries
 
 ```
 rominfo() {
-	sqlite3 OpenVGDB.20210506.sqlite3 <<< "select $2 from arcade where game_rom = '$1';"
+	sqlite3 OpenArcadeDB.sqlite3 <<< "select $2 from arcade where game_rom = '$1';"
 }
 
 rominfo mspacman monitor_resolution_horizontal
@@ -103,7 +103,7 @@ rominfo mspacman monitor_resolution_horizontal
 # Speed on a Raspberry Pi 3 B+ is very respectable
 
 ```
-(pi@RetroCRT:tmp)$ time sqlite3 OpenVGDB.20210506.sqlite3 <<< "select monitor_resolution_vertical from arcade where game_rom = 'mspacman';"
+(pi@RetroCRT:tmp)$ time sqlite3 OpenArcadeDB.sqlite3 <<< "select monitor_resolution_vertical from arcade where game_rom = 'mspacman';"
 224
 
 real    0m0.049s
@@ -116,7 +116,7 @@ sys     0m0.028s
 We also have a very limited and relatively slow "API" that's provided by simply using a curl
 
 ```
-(pi@RetroCRT:~)$ time curl -sL "https://raw.githubusercontent.com/xovox/OpenVGDB/master/games/mspacman/monitor.resolution.vertical"
+(pi@RetroCRT:~)$ time curl -sL "https://raw.githubusercontent.com/xovox/OpenArcadeDB/master/games/mspacman/monitor.resolution.vertical"
 224
 
 real    0m0.260s
