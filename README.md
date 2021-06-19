@@ -1,8 +1,8 @@
 # OpenArcadeDB
 
-Open Video Game Database (c) 2021 (https://github.com/xovox/OpenArcadeDB)
+Open Arcade DataBase (c) 2021 (https://github.com/xovox/OpenArcadeDB)
 
-The Open Video Game DataBase is currently tracking 349,900 attributes of 16,821 games, BIOS & platforms!
+The OpenArcadeDB is currently tracking 349,900 attributes of 16,821 games, BIOS & platforms!
 
 I wasn't able to find something I could easily query to generate configs/etc that I wanted...
 so I took a ton of data I found & normalized it.
@@ -179,3 +179,17 @@ monitor.resolution.horizontal	256
 monitor.resolution.vertical	224
 monitor.type			R
 ~~~~
+
+# Sparse Checkout
+
+If you just want the database to be updated whenever upstream is updated *and* you don't want the other 1.4GB of space used up (it's still like 100MB thanks to git history), do a sparse checkout of just the DB!
+
+```
+mkdir $HOME/OpenArcadeDB &&
+cd $HOME/OpenArcadeDB &&
+git init &&
+git config core.sparsecheckout true &&
+echo release/ >> .git/info/sparse-checkout &&
+git remote add -f origin https://github.com/xovox/OpenArcadeDB &&
+git pull --depth=1 origin master
+```
