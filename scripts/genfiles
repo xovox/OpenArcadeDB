@@ -95,7 +95,7 @@ fi
 today=$(date +%Y%m%d_%H%M)
 
 tempdir=$(mktemp -d /dev/shm/OpenArcade-XXX)
-targetdir=$PWD/OpenVGDB.$today
+targetdir=$PWD/OpenArcadeDB.$today
 mkdir -pv $targetdir
 clearline="$(tput el)"
 
@@ -141,7 +141,7 @@ cat << EOF
 .separator "\t"
 .import $targetdir/OpenArcadeDB_Linux.tsv.tmp arcade
 EOF
-} | sqlite3 $targetdir/OpenVGDB.sqlite3
+} | sqlite3 $targetdir/OpenArcadeDB.sqlite3
 
 
 ##############################################################################
@@ -153,14 +153,14 @@ cat << EOF
 create table history (game_rom text, game_history text);
 EOF
 
-for game in $(find $HOME/git/OpenVGDB/arcade -name game.history | cut -d'/' -f7 | sort) ; do
+for game in $(find $HOME/git/OpenArcadeDB/arcade -name game.history | cut -d'/' -f7 | sort) ; do
 
 cat << EOF 
-insert into history values("$game", "$(cat $HOME/git/OpenVGDB/arcade/$game/game.history)");
+insert into history values("$game", "$(cat $HOME/git/OpenArcadeDB/arcade/$game/game.history)");
 EOF
 
 done
-} | sqlite3 $targetdir/OpenVGDB.sqlite3
+} | sqlite3 $targetdir/OpenArcadeDB.sqlite3
 
 ##############################################################################
 echo "assembling final tsv"
