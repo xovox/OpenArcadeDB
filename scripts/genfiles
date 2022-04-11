@@ -150,6 +150,9 @@ echo "inserting arcade history"
 
 {
 cat << EOF
+PRAGMA synchronous = OFF;
+PRAGMA journal_mode = MEMORY;
+BEGIN TRANSACTION;
 create table history (game_rom text, game_history text);
 EOF
 
@@ -160,6 +163,10 @@ insert into history values("$game", "$(cat $HOME/git/OpenArcadeDB/arcade/$game/g
 EOF
 
 done
+
+cat << EOF
+END TRANSACTION;
+EOF
 } | sqlite3 $targetdir/OpenArcadeDB.sqlite3
 
 ##############################################################################
