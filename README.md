@@ -11,8 +11,6 @@ games, BIOS & platforms!
 I wasn't able to find something I could easily query to generate configs/etc that I wanted...
 so I took a ton of data I found & normalized it.
 
-Currently I'm only tracking arcade data, though console data is forthcoming
-
 # Sources
 
 * https://github.com/finalburnneo/FBNeo
