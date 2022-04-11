@@ -22,9 +22,9 @@ None that I'm aware of, but I am going to implement using it with one current an
 
 I'm also going to start writing my own EmulationStation scraper that strictly utilizes my database for information and then downloads images/videos.  This should help alieviate people experiencing timeouts.
 
-# Compiled Files
+# Downloading Compiled Files
 
-I've compiled several files for quick searches of the data:
+The [releases](https://github.com/xovox/OpenArcadeDB/releases) page has already generated coallated files for ease of use
 
 * SQLite3
 * tsv
