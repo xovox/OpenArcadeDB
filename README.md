@@ -2,7 +2,11 @@
 
 Open Arcade DataBase (c) 2021 (https://github.com/xovox/OpenArcadeDB)
 
-The OpenArcadeDB is currently tracking 349,900 attributes of 16,821 games, BIOS & platforms!
+The OpenArcadeDB is currently tracking
+349,900
+attributes of 
+17,775
+games, BIOS & platforms!
 
 I wasn't able to find something I could easily query to generate configs/etc that I wanted...
 so I took a ton of data I found & normalized it.
@@ -11,6 +15,7 @@ Currently I'm only tracking arcade data, though console data is forthcoming
 
 # Sources
 
+* https://github.com/finalburnneo/FBNeo
 * https://www.progettosnaps.net
 * https://arcade-history.com
 
