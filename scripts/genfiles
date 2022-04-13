@@ -95,7 +95,8 @@ fi
 today=$(date +%Y%m%d_%H%M)
 
 tempdir=$(mktemp -d /dev/shm/OpenArcade-XXX)
-targetdir=$PWD/OpenArcadeDB.$today
+targettmp="$(mktmp -d /dev/shm/OpenArcade-XXX)"
+targetdir=/var/www/html/OpenArcadeDB.$today
 mkdir -pv $targetdir
 clearline="$(tput el)"
 
@@ -125,7 +126,7 @@ echo "assembling arcade tsv base"
 cat $tempdir/* \
     | sort \
     | sed 's/	$//' \
-        > $targetdir/OpenArcadeDB_Linux.tsv.tmp
+        > $targettmp/OpenArcadeDB_Linux.tsv.tmp
 
 ##############################################################################
 echo "generating arcade db table"
@@ -139,9 +140,9 @@ echo "generating arcade db table"
     echo ");"
 cat << EOF
 .separator "\t"
-.import $targetdir/OpenArcadeDB_Linux.tsv.tmp arcade
+.import $targettmp/OpenArcadeDB_Linux.tsv.tmp arcade
 EOF
-} | sqlite3 $targetdir/OpenArcadeDB.sqlite3
+} | sqlite3 $targettmp/OpenArcadeDB.sqlite3
 
 
 ##############################################################################
@@ -152,8 +153,8 @@ echo "inserting arcade history"
 cat << EOF
 PRAGMA synchronous = OFF;
 PRAGMA journal_mode = MEMORY;
-BEGIN TRANSACTION;
 create table history (game_rom text, game_history text);
+BEGIN TRANSACTION;
 EOF
 
 for game in $(find $HOME/git/OpenArcadeDB/arcade -name game.history | cut -d'/' -f7 | sort) ; do
@@ -167,7 +168,7 @@ done
 cat << EOF
 END TRANSACTION;
 EOF
-} | sqlite3 $targetdir/OpenArcadeDB.sqlite3
+} | sqlite3 $targettmp/OpenArcadeDB.sqlite3
 
 ##############################################################################
 echo "assembling final tsv"
@@ -175,25 +176,34 @@ echo "assembling final tsv"
 
 {
 echo $game.rom $arcade_columns | sed 's/ /	/g'
-cat $targetdir/OpenArcadeDB_Linux.tsv.tmp 
-} > $targetdir/OpenArcadeDB_Linux.tsv
+cat $targettmp/OpenArcadeDB_Linux.tsv.tmp 
+} > $targettmp/OpenArcadeDB_Linux.tsv
 
 ##############################################################################
 echo "generating line by line breakdown"
 ##############################################################################
 
-egrep -ris . * | sed 's/:/	/' | column -t -s'	' > $targetdir/OpenArcadeDB_Linux.txt
+egrep -ris . * | sed 's/:/	/' | column -t -s'	' > $targettmp/OpenArcadeDB_Linux.txt
 
 # generating dos friendly versions
-unix2dos < $targetdir/OpenArcadeDB_Linux.tsv > $targetdir/OpenArcadeDB_DOS.tsv
-unix2dos < $targetdir/OpenArcadeDB_Linux.txt > $targetdir/OpenArcadeDB_DOS.txt
+unix2dos < $targettmp/OpenArcadeDB_Linux.tsv > $targettmp/OpenArcadeDB_DOS.tsv
+unix2dos < $targettmp/OpenArcadeDB_Linux.txt > $targettmp/OpenArcadeDB_DOS.txt
 popd
+
+##############################################################################
+
+##############################################################################
+
+cd "$targetdir"/..
+rsync -av --delete "$targettmp/" "$targetdir/"
+7z a -mx=9 OpenArcadeDB.$today.7z OpenArcadeDB.$today
+
 
 ##############################################################################
 echo "cleanup"
 ##############################################################################
 
-rm -rf $tempdir $targetdir/*tmp
+rm -rf $tempdir $targetdir/*tmp $targettmp
 #echo "Obtained from https://github.com/xovox/OpenArcadeDB" > $targetdir/README.txt
 
 exit
