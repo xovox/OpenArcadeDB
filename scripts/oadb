@@ -1,0 +1,19 @@
+#!/bin/bash
+
+oadbquery() {
+	sqlite3 "$oadbfile" <<< "$1"
+}
+
+tableinfo() {
+	oadbquery "pragma table_info('arcade');" | column -t -s'|' 
+}
+
+rominfo() {
+	oadbquery "select $2 from arcade where game_rom = '$1';"
+}
+
+if [ "$2" ]; then
+	rominfo "$1" "$2" || (echo ; tableinfo)
+else
+	tableinfo
+fi
