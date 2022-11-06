@@ -1,8 +1,8 @@
 Gals Panic! (c) 1990 Kaneko.
 
-Gals Panic! is a &quot;Qix&quot;-style adult puzzle game.  The objective is to reveal 80% of the silhouetted girl&apos;s image within the time limit while avoiding the enemies.
+Gals Panic! is a "Qix"-style adult puzzle game.  The objective is to reveal 80% of the silhouetted girl's image within the time limit while avoiding the enemies.
 
-To complicate things, there is a bar with a pointer at the top of the screen. If the pointer dips below a certain level (indicated by the change in color) the image will change to that of a monster. The pointer slowly creeps towards the monster side of the bar over time and whenever the player reveals a significant piece of the silhouette.  Revealing the un-silhouetted part of the image moves the pointer back towards the girl side of the bar.  If a round is completed while the monster&apos;s image is shown then the round must be repeated.
+To complicate things, there is a bar with a pointer at the top of the screen. If the pointer dips below a certain level (indicated by the change in color) the image will change to that of a monster. The pointer slowly creeps towards the monster side of the bar over time and whenever the player reveals a significant piece of the silhouette.  Revealing the un-silhouetted part of the image moves the pointer back towards the girl side of the bar.  If a round is completed while the monster's image is shown then the round must be repeated.
 
 After every round there is a roulette game where the player can earn rewards or penalties that will take effect in the following round.
 

@@ -1,6 +1,6 @@
 Columns (c) 1990 Sega.
 
-The rules are simple. A column of 3 square pieces stacked one on top of the other is dropped into the play area. The player can move this piece left and right as it falls (as in &quot;Tetris&quot;), but cannot rotate it. Instead, pressing a button will cause the order of the blocks to shift by one position.
+The rules are simple. A column of 3 square pieces stacked one on top of the other is dropped into the play area. The player can move this piece left and right as it falls (as in "Tetris"), but cannot rotate it. Instead, pressing a button will cause the order of the blocks to shift by one position.
 
 The object of the game is to place columns at the bottom of the pit in such a way that lines of 3 or more same-coloured blocks are created (either horizontally, vertically or diagonally). When this happens, these blocks disappear, and any blocks resting upon them immediately fall in accordance to gravity. Often this will cause additional lines to be arranged, producing a cascade effect. The key to a long game (and therefore a high score) is to set up these cascades.
 

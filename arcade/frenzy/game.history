@@ -1,14 +1,14 @@
 Frenzy (c) 1982 Stern.
 
-A sequel to the 1980 game, &quot;Berzerk&quot;, &quot;Frenzy&quot; once again has the player battling through a maze of rooms populated by deadly, armed robots. The robots now come in two forms, &apos;Skeletons&apos; and &apos;Eyeballs&apos;, and the object of the game is to destroy as many robots as possible before escaping the room through one of the open doorways. 
+A sequel to the 1980 game, "Berzerk", "Frenzy" once again has the player battling through a maze of rooms populated by deadly, armed robots. The robots now come in two forms, 'Skeletons' and 'Eyeballs', and the object of the game is to destroy as many robots as possible before escaping the room through one of the open doorways. 
 
-If the player lingers too long in a room, a bouncing smiley face known as &apos;Evil Otto&apos; appears and relentlessly chases the player. Otto will destroy any robots in his way and can pass through walls. Unlike the first game, Otto can now be killed. Shooting him once changes him from a smiley to a neutral face, another shot converts him to a frowning face and a third shot kills him. However, When he returns Otto will move faster than before he was killed.
+If the player lingers too long in a room, a bouncing smiley face known as 'Evil Otto' appears and relentlessly chases the player. Otto will destroy any robots in his way and can pass through walls. Unlike the first game, Otto can now be killed. Shooting him once changes him from a smiley to a neutral face, another shot converts him to a frowning face and a third shot kills him. However, When he returns Otto will move faster than before he was killed.
 
-Another difference from &quot;Berzerk&quot; is that walls are no longer electrified and deadly to the touch. Some walls are composed of dots that can be shot; this opens up strategies such as blasting a hole in the side of a room through which to escape when in trouble. Solid white walls are indestructible and now reflect shots. If the dotted walls are also white, all walls, whether solid or dotted, reflect shots. As such, players can trick robots into killing themselves by standing on the opposite side of a reflective wall and letting them shoot themselves. However, players can also be killed by their own shots.
+Another difference from "Berzerk" is that walls are no longer electrified and deadly to the touch. Some walls are composed of dots that can be shot; this opens up strategies such as blasting a hole in the side of a room through which to escape when in trouble. Solid white walls are indestructible and now reflect shots. If the dotted walls are also white, all walls, whether solid or dotted, reflect shots. As such, players can trick robots into killing themselves by standing on the opposite side of a reflective wall and letting them shoot themselves. However, players can also be killed by their own shots.
 
 After you escape from a maze, the next maze you enter will have a closed gate at your starting point.
 
-Around the outer perimeter of the maze, there are &quot;joint&quot; dots about every 10 pixels. They can neither be destroyed nor reflect shots, and they are the same color as the closed gates.
+Around the outer perimeter of the maze, there are "joint" dots about every 10 pixels. They can neither be destroyed nor reflect shots, and they are the same color as the closed gates.
 
 Each fourth room features interactive, decorative elements that drastically effect how the room is played. The elements and order in which they appear are:
 

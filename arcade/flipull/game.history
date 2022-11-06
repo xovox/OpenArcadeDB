@@ -2,7 +2,7 @@ Flipull (c) 1989 Taito.
 
 Flipull is an action-based puzzle game for one or two players where the aim is to remove a formation of symbol-bearing blocks from the play area. Players fire one block at a time at matching-symboled blocks in the formation to remove them.
 
-The fired block will remove all blocks with the same symbol it hits until it meets an unmatched block. The unmatched block then bounces back into the player&apos;s control and replaces it in the formation. Players must then find a matching target for the new block and repeat the process.
+The fired block will remove all blocks with the same symbol it hits until it meets an unmatched block. The unmatched block then bounces back into the player's control and replaces it in the formation. Players must then find a matching target for the new block and repeat the process.
 
 As well as firing blocks directly at the formation, blocks can also be bounced off angled walls at the top of the play area, allowing players to target previously inaccessible blocks from above.
 

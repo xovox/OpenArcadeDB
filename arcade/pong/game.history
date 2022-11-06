@@ -2,7 +2,7 @@ Pong (c) 1972 Atari, Incorporated.
 
 Pong is a basic simulation of the racket sport of table tennis. A small square representing a ping pong ball travels across the screen in a linear trajectory. If the square strikes the perimeter of the playing field, or one of the simulated paddles, the square ricochets based on the angle of the impact.
 
-Game play consists of players moving their respective paddles vertically to defend their scoring zones. Players score one point by maneuvering the square past their opponent&apos;s paddle.
+Game play consists of players moving their respective paddles vertically to defend their scoring zones. Players score one point by maneuvering the square past their opponent's paddle.
 
 Atari coin-op version of Pong can only be played with two players with each player controlling a paddle.
 

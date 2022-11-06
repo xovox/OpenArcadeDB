@@ -2,10 +2,10 @@ Anteater (c) 1982 Tago Electronics
 
 Anteater is an abstract maze game in which the player controls an anteater that elongates its tongue through maze-like anthills eating ants and ant larvae. The object of the game is to eat all of the larvae - represented as round dots - before the timer runs out. Once all larvae have been eaten, play moves onto the next stage.
 
-Players can only eat ants with the tip of the anteater&apos;s tongue, if an ant touches any other part of the tongue, the anteater is bitten and a player life is lost. As well as the ants, worms also roam the stages, worms will not harm the anteater upon contact with the extended tongue but if the head of the worm touches the tongue&apos;s tip, the player loses a life. Worms can be safely eaten from behind. 
+Players can only eat ants with the tip of the anteater's tongue, if an ant touches any other part of the tongue, the anteater is bitten and a player life is lost. As well as the ants, worms also roam the stages, worms will not harm the anteater upon contact with the extended tongue but if the head of the worm touches the tongue's tip, the player loses a life. Worms can be safely eaten from behind. 
 
 Large queen ants are situated at the bottom of the nest and eating these will temporarily clear all insects from the screen.  
 
-Anteater has a short day-night cycle represented by a moving Sun at the top of the screen. Once the sun has traveled across the screen and night falls, a spider will appear. The spider climbs down the anteater&apos;s tongue, taking a life if it reaches the tongue&apos;s tip. The spider can only be killed by eating a queen ant.
+Anteater has a short day-night cycle represented by a moving Sun at the top of the screen. Once the sun has traveled across the screen and night falls, a spider will appear. The spider climbs down the anteater's tongue, taking a life if it reaches the tongue's tip. The spider can only be killed by eating a queen ant.
 
 (c) Arcade-History.com

@@ -10,7 +10,7 @@ Each route has dead-ends, zig-zags, and multiple entrances and exits.
 
 Some routes have the dollar symbol ($), and the player scores 200 points each time this symbol is cleared. The dollar symbols randomly chance to oil slicks, and when encountered, the oil slicks slow down the player car.
 
-The question mark symbol (?) is surrounded by check points and will either reveal a bomb symbol or a bell mark after the player car clears the check point. The bell will add 800 points to the player&apos;s score when cleared. Player skill is tested here to avoid the bomb if it appears.
+The question mark symbol (?) is surrounded by check points and will either reveal a bomb symbol or a bell mark after the player car clears the check point. The bell will add 800 points to the player's score when cleared. Player skill is tested here to avoid the bomb if it appears.
 
 Some routes have a flag symbol, and when the player car clears the symbol, the pursuing cars become dollar symbols, and every effort should be made by the player to chase them down, and add extra points to his score.
 
@@ -18,7 +18,7 @@ One route has a flickering bonus car symbol. When the symbol appears, clear it a
 
 One route has an additional game feature. When the player car enters the maze, it is pursued by an attacking monster. The player car cannot clear or collide with the monster, but must avoid it, or be destroyed.
 
-The high-speed button is another feature of Route 16. When pushed, the player car is accelerated to escape the chase cars. Usage of the high-speed button reduces the player car&apos;s fuel. At the end of each round, bonus points are added to the player&apos;s score for remaining fuel.
+The high-speed button is another feature of Route 16. When pushed, the player car is accelerated to escape the chase cars. Usage of the high-speed button reduces the player car's fuel. At the end of each round, bonus points are added to the player's score for remaining fuel.
 
 After all the symbols are cleared, the round ends. In successive rounds, additional dollar symbols ($), and additional enemy chase cars are added.
 

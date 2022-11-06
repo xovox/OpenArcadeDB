@@ -1,8 +1,8 @@
 Dong Fang Zhi Zhu (c) 1995 IGS.
 
-Dong Fang Zhi Zhu is a variation of Mahjong Solitaire.  The objective is to clear the board of all of the tiles by finding matching sets of three before the time limit is up. Tiles are removed from the board into the player&apos;s hand, shown in the lower left corner of the screen. The player can hold up to seven tiles in his hand. If he cannot make a match of three tiles in that hand then the game is over.
+Dong Fang Zhi Zhu is a variation of Mahjong Solitaire.  The objective is to clear the board of all of the tiles by finding matching sets of three before the time limit is up. Tiles are removed from the board into the player's hand, shown in the lower left corner of the screen. The player can hold up to seven tiles in his hand. If he cannot make a match of three tiles in that hand then the game is over.
 
-The player also has a number of items to help him clear the board, the question mark will reveal the set of three tiles that can be removed from the board in the least number of moves. The down pointing arrow will back up the game by one move.  And the bomb will remove one set of tiles from the board matching a tile in the player&apos;s hand whether those tiles may be removed legally or not.
+The player also has a number of items to help him clear the board, the question mark will reveal the set of three tiles that can be removed from the board in the least number of moves. The down pointing arrow will back up the game by one move.  And the bomb will remove one set of tiles from the board matching a tile in the player's hand whether those tiles may be removed legally or not.
 
 In the background there is an image of a girl. Each girl has three stages, after the first stage the girl will wink at the player, after the second she will strip off her top, and after the third she will remove her bottom.  After the third stage the player can play a mini-game for bonus points.
 

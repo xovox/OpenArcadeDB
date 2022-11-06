@@ -1,6 +1,6 @@
 Pairs Love (c) 1991 Athena.
 
-Pairs Love is puzzle game where the objective is to clear the board of all of the cards which reveals the girl in the background. Cards can only be removed if they are in a clear, strait line from each other and are of matching suit or value. Clearing cards from the board adds time to the timer. If necessary, the player may &apos;reverse&apos; and return a pair to the board with a timer penalty.
+Pairs Love is puzzle game where the objective is to clear the board of all of the cards which reveals the girl in the background. Cards can only be removed if they are in a clear, strait line from each other and are of matching suit or value. Clearing cards from the board adds time to the timer. If necessary, the player may 'reverse' and return a pair to the board with a timer penalty.
 
 If no cards can legally be removed from the board, or if the timer runs out then it is game over.
 
