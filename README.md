@@ -147,6 +147,8 @@ The basic structure is pretty self-explanatory.
 Here's an example tree for a game:
 
 ~~~~
+collection.adult
+collection.firstrate
 game.name
 game.name.short
 game.publisher
