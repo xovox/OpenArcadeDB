@@ -85,7 +85,7 @@ select game_rom from arcade where game_control_buttons = 1 and monitor_orientati
 I obtained a 4-way 60hz vertical cocktail cabinet with 3 buttons per player
 
 ```
-select game_name from arcade where game_control_type = 'joy4way' and game_control_buttons <= 3 and monitor_orientation = 'V'and monitor_type = 'R' and monitor_freq between 59.0 and 61.0;
+select game_name from arcade where game_control_type = 'joy4way' and game_control_buttons <= 3 and monitor_orientation = 'V' and monitor_type = 'R' and monitor_freq between 59.0 and 61.0;
 ```
 
 ## Find games where the history mentions Evil Otto!
